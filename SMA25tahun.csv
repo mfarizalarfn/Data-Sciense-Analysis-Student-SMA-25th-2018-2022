@@ -1,0 +1,5491 @@
+nama_wilayah,nama_tahun,jenis_kelamin,persentasi
+ACEH,2018,laki_laki,45.33
+Simeulue,2018,laki_laki,42.92
+Aceh Singkil,2018,laki_laki,45.39
+Aceh Selatan,2018,laki_laki,36.96
+Aceh Tenggara,2018,laki_laki,53.38
+Aceh Timur,2018,laki_laki,32.96
+Aceh Tengah,2018,laki_laki,45.47
+Aceh Barat,2018,laki_laki,44.69
+Aceh Besar,2018,laki_laki,53.26
+Pidie,2018,laki_laki,43.62
+Bireuen,2018,laki_laki,39.19
+Aceh Utara,2018,laki_laki,34.87
+Aceh Barat Daya,2018,laki_laki,33.92
+Gayo Lues,2018,laki_laki,40.13
+Aceh Tamiang,2018,laki_laki,41.68
+Nagan Raya,2018,laki_laki,38.97
+Aceh Jaya,2018,laki_laki,34.53
+Bener Meriah,2018,laki_laki,44.11
+Pidie Jaya,2018,laki_laki,39.9
+Kota Banda Aceh,2018,laki_laki,82.91
+Kota Sabang,2018,laki_laki,69.61
+Kota Langsa,2018,laki_laki,65.49
+Kota Lhokseumawe,2018,laki_laki,65.11
+Kota Subulussalam,2018,laki_laki,36.82
+SUMATERA UTARA,2018,laki_laki,47.52
+Nias,2018,laki_laki,20.68
+Mandailing Natal,2018,laki_laki,30.64
+Tapanuli Selatan,2018,laki_laki,36.98
+Tapanuli Tengah,2018,laki_laki,34.87
+Tapanuli Utara,2018,laki_laki,49.17
+Toba Samosir / Toba,2018,laki_laki,58.93
+Labuhan Batu,2018,laki_laki,40.32
+Asahan,2018,laki_laki,36.77
+Simalungun,2018,laki_laki,44.95
+Dairi,2018,laki_laki,44.89
+Karo,2018,laki_laki,45.79
+Deli Serdang,2018,laki_laki,52.16
+Langkat,2018,laki_laki,37.2
+Nias Selatan,2018,laki_laki,29.76
+Humbang Hasundutan,2018,laki_laki,49.08
+Pakpak Bharat,2018,laki_laki,37.08
+Samosir,2018,laki_laki,49.59
+Serdang Bedagai,2018,laki_laki,36.69
+Batu Bara,2018,laki_laki,32.55
+Padang Lawas Utara,2018,laki_laki,43.44
+Padang Lawas,2018,laki_laki,35.02
+Labuhan Batu Selatan,2018,laki_laki,35.08
+Labuhan Batu Utara,2018,laki_laki,32.56
+Nias Utara,2018,laki_laki,30.68
+Nias Barat,2018,laki_laki,32.44
+Kota Sibolga,2018,laki_laki,52.46
+Kota Tanjung Balai,2018,laki_laki,47.15
+Kota Pematang Siantar,2018,laki_laki,67.21
+Kota Tebing Tinggi,2018,laki_laki,57.44
+Kota Medan,2018,laki_laki,68.56
+Kota Binjai,2018,laki_laki,62.67
+Kota Padangsidimpuan,2018,laki_laki,59.46
+Kota Gunungsitoli,2018,laki_laki,47.9
+SUMATERA BARAT,2018,laki_laki,40.42
+Kepulauan Mentawai,2018,laki_laki,32.5
+Pesisir Selatan,2018,laki_laki,32.55
+Solok,2018,laki_laki,29.52
+Sijunjung,2018,laki_laki,31.35
+Tanah Datar,2018,laki_laki,36.67
+Padang Pariaman,2018,laki_laki,30.92
+Agam,2018,laki_laki,37.89
+Lima Puluh Kota,2018,laki_laki,24.67
+Pasaman,2018,laki_laki,21.17
+Solok Selatan,2018,laki_laki,34.46
+Dharmasraya,2018,laki_laki,33.56
+Pasaman Barat,2018,laki_laki,31.14
+Kota Padang,2018,laki_laki,67.95
+Kota Solok,2018,laki_laki,57.85
+Kota Sawah Lunto,2018,laki_laki,46.65
+Kota Padang Panjang,2018,laki_laki,60.14
+Kota Bukittinggi,2018,laki_laki,63.55
+Kota Payakumbuh,2018,laki_laki,51.42
+Kota Pariaman,2018,laki_laki,57.55
+RIAU,2018,laki_laki,43.4
+Kuantan Singingi,2018,laki_laki,35.3
+Indragiri Hulu,2018,laki_laki,35.24
+Indragiri Hilir,2018,laki_laki,25.61
+Pelalawan,2018,laki_laki,38.38
+Siak,2018,laki_laki,51.35
+Kampar,2018,laki_laki,40.48
+Rokan Hulu,2018,laki_laki,36.15
+Bengkalis,2018,laki_laki,49.67
+Rokan Hilir,2018,laki_laki,35
+Kepulauan Meranti,2018,laki_laki,30.69
+Kota Pekanbaru,2018,laki_laki,66.43
+Kota Dumai,2018,laki_laki,55.8
+JAMBI,2018,laki_laki,37.97
+Kerinci,2018,laki_laki,38.59
+Merangin,2018,laki_laki,32.45
+Sarolangun,2018,laki_laki,30.78
+Batang Hari,2018,laki_laki,34.99
+Muaro Jambi,2018,laki_laki,32.7
+Tanjung Jabung Timur,2018,laki_laki,20.84
+Tanjung Jabung Barat,2018,laki_laki,30.58
+Tebo,2018,laki_laki,25.82
+Bungo,2018,laki_laki,36.94
+Kota Jambi,2018,laki_laki,64.71
+Kota Sungai Penuh,2018,laki_laki,59.29
+SUMATERA SELATAN,2018,laki_laki,33.99
+Ogan Komering Ulu,2018,laki_laki,38.23
+Ogan Komering Ilir,2018,laki_laki,21.25
+Muara Enim,2018,laki_laki,33.52
+Lahat,2018,laki_laki,36.65
+Musi Rawas,2018,laki_laki,25.11
+Musi Banyuasin,2018,laki_laki,25.79
+Banyu Asin,2018,laki_laki,24.26
+Ogan Komering Ulu Selatan,2018,laki_laki,23.61
+Ogan Komering Ulu Timur,2018,laki_laki,24.59
+Ogan Ilir,2018,laki_laki,28.65
+Empat Lawang,2018,laki_laki,22.24
+Penukal Abab Lematang Ilir,2018,laki_laki,27.85
+Musi Rawas Utara,2018,laki_laki,22.52
+Kota Palembang,2018,laki_laki,56.13
+Kota Prabumulih,2018,laki_laki,54.33
+Kota Pagar Alam,2018,laki_laki,40.61
+Kota Lubuklinggau,2018,laki_laki,49.57
+BENGKULU,2018,laki_laki,39.34
+Bengkulu Selatan,2018,laki_laki,44.69
+Rejang Lebong,2018,laki_laki,32.97
+Bengkulu Utara,2018,laki_laki,28
+Kaur,2018,laki_laki,39.19
+Seluma,2018,laki_laki,33.51
+Mukomuko,2018,laki_laki,30.38
+Lebong,2018,laki_laki,35.33
+Kepahiang,2018,laki_laki,35.29
+Bengkulu Tengah,2018,laki_laki,28.33
+Kota Bengkulu,2018,laki_laki,65.1
+LAMPUNG,2018,laki_laki,30.71
+Lampung Barat,2018,laki_laki,26.1
+Tanggamus,2018,laki_laki,23.13
+Lampung Selatan,2018,laki_laki,27.92
+Lampung Timur,2018,laki_laki,26.28
+Lampung Tengah,2018,laki_laki,28.66
+Lampung Utara,2018,laki_laki,30.07
+Way Kanan,2018,laki_laki,20.15
+Tulangbawang,2018,laki_laki,24.98
+Pesawaran,2018,laki_laki,28.27
+Pringsewu,2018,laki_laki,28.9
+Mesuji,2018,laki_laki,15.61
+Tulang Bawang Barat,2018,laki_laki,18.07
+Pesisir Barat,2018,laki_laki,28.01
+Kota Bandar Lampung,2018,laki_laki,58.82
+Kota Metro,2018,laki_laki,62.28
+KEP. BANGKA BELITUNG,2018,laki_laki,34.41
+Bangka,2018,laki_laki,34.22
+Belitung,2018,laki_laki,35.37
+Bangka Barat,2018,laki_laki,30.4
+Bangka Tengah,2018,laki_laki,24.69
+Bangka Selatan,2018,laki_laki,24.24
+Belitung Timur,2018,laki_laki,34.03
+Kota Pangkal Pinang,2018,laki_laki,56.22
+KEPULAUAN RIAU,2018,laki_laki,57.96
+Karimun,2018,laki_laki,33.78
+Bintan,2018,laki_laki,35.62
+Natuna,2018,laki_laki,48.27
+Lingga,2018,laki_laki,25.12
+Kepulauan Anambas,2018,laki_laki,26.76
+Kota Batam,2018,laki_laki,69.1
+Kota Tanjung Pinang,2018,laki_laki,58.54
+DKI JAKARTA,2018,laki_laki,67.71
+Kep. Seribu,2018,laki_laki,38.9
+Kota Jakarta Selatan,2018,laki_laki,72.98
+Kota Jakarta Timur,2018,laki_laki,71.79
+Kota Jakarta Pusat,2018,laki_laki,68.97
+Kota Jakarta Barat,2018,laki_laki,61.36
+Kota Jakarta Utara,2018,laki_laki,62.95
+JAWA BARAT,2018,laki_laki,36.55
+Bogor,2018,laki_laki,34.8
+Sukabumi,2018,laki_laki,20.35
+Cianjur,2018,laki_laki,19.1
+Bandung,2018,laki_laki,38.21
+Garut,2018,laki_laki,26.23
+Tasikmalaya,2018,laki_laki,14.15
+Ciamis,2018,laki_laki,22.46
+Kuningan,2018,laki_laki,24.47
+Cirebon,2018,laki_laki,25.11
+Majalengka,2018,laki_laki,19.45
+Sumedang,2018,laki_laki,30.6
+Indramayu,2018,laki_laki,18.11
+Subang,2018,laki_laki,22.81
+Purwakarta,2018,laki_laki,31.71
+Karawang,2018,laki_laki,34.36
+Bekasi,2018,laki_laki,48.6
+Bandung Barat,2018,laki_laki,31
+Pangandaran,2018,laki_laki,23.4
+Kota Bogor,2018,laki_laki,52.97
+Kota Sukabumi,2018,laki_laki,49.28
+Kota Bandung,2018,laki_laki,59.77
+Kota Cirebon,2018,laki_laki,52.94
+Kota Bekasi,2018,laki_laki,70.44
+Kota Depok,2018,laki_laki,65.93
+Kota Cimahi,2018,laki_laki,59.27
+Kota Tasikmalaya,2018,laki_laki,40.31
+Kota Banjar,2018,laki_laki,32.88
+JAWA TENGAH,2018,laki_laki,29.35
+Cilacap,2018,laki_laki,23.11
+Banyumas,2018,laki_laki,25.74
+Purbalingga,2018,laki_laki,22.42
+Banjarnegara,2018,laki_laki,14.98
+Kebumen,2018,laki_laki,26.89
+Purworejo,2018,laki_laki,32.79
+Wonosobo,2018,laki_laki,17.51
+Magelang,2018,laki_laki,30.12
+Boyolali,2018,laki_laki,35
+Klaten,2018,laki_laki,44.46
+Sukoharjo,2018,laki_laki,45.14
+Wonogiri,2018,laki_laki,23.85
+Karanganyar,2018,laki_laki,40.13
+Sragen,2018,laki_laki,30.79
+Grobogan,2018,laki_laki,16.05
+Blora,2018,laki_laki,21.58
+Rembang,2018,laki_laki,21.45
+Pati,2018,laki_laki,27.26
+Kudus,2018,laki_laki,41.73
+Jepara,2018,laki_laki,24.34
+Demak,2018,laki_laki,26.11
+Semarang,2018,laki_laki,31.89
+Temanggung,2018,laki_laki,20.21
+Kendal,2018,laki_laki,30.09
+Batang,2018,laki_laki,21.92
+Pekalongan,2018,laki_laki,17.98
+Pemalang,2018,laki_laki,18.78
+Tegal,2018,laki_laki,26.55
+Brebes,2018,laki_laki,17.09
+Kota Magelang,2018,laki_laki,56.57
+Kota Surakarta,2018,laki_laki,63.28
+Kota Salatiga,2018,laki_laki,60.67
+Kota Semarang,2018,laki_laki,63.49
+Kota Pekalongan,2018,laki_laki,33.58
+Kota Tegal,2018,laki_laki,37.98
+D I YOGYAKARTA,2018,laki_laki,53.01
+Kulon Progo,2018,laki_laki,42.76
+Bantul,2018,laki_laki,53.44
+Gunung Kidul,2018,laki_laki,28.68
+Sleman,2018,laki_laki,65.82
+Kota Yogyakarta,2018,laki_laki,72.17
+JAWA TIMUR,2018,laki_laki,32.11
+Pacitan,2018,laki_laki,22.2
+Ponorogo,2018,laki_laki,25.8
+Trenggalek,2018,laki_laki,21.85
+Tulungagung,2018,laki_laki,27.78
+Blitar,2018,laki_laki,24.3
+Kediri,2018,laki_laki,31.18
+Malang,2018,laki_laki,24.46
+Lumajang,2018,laki_laki,17.43
+Jember,2018,laki_laki,21.48
+Banyuwangi,2018,laki_laki,25.14
+Bondowoso,2018,laki_laki,20.82
+Situbondo,2018,laki_laki,25.89
+Probolinggo,2018,laki_laki,21.62
+Pasuruan,2018,laki_laki,26.56
+Sidoarjo,2018,laki_laki,57.07
+Mojokerto,2018,laki_laki,39.52
+Jombang,2018,laki_laki,39.03
+Nganjuk,2018,laki_laki,30.97
+Madiun,2018,laki_laki,34.53
+Magetan,2018,laki_laki,33.57
+Ngawi,2018,laki_laki,28.54
+Bojonegoro,2018,laki_laki,25.27
+Tuban,2018,laki_laki,22.94
+Lamongan,2018,laki_laki,35.05
+Gresik,2018,laki_laki,47.47
+Bangkalan,2018,laki_laki,19.79
+Sampang,2018,laki_laki,16.62
+Pamekasan,2018,laki_laki,31.65
+Sumenep,2018,laki_laki,23.92
+Kota Kediri,2018,laki_laki,54.61
+Kota Blitar,2018,laki_laki,53.14
+Kota Malang,2018,laki_laki,52.76
+Kota Probolinggo,2018,laki_laki,49.31
+Kota Pasuruan,2018,laki_laki,49.29
+Kota Mojokerto,2018,laki_laki,62.59
+Kota Madiun,2018,laki_laki,65.67
+Kota Surabaya,2018,laki_laki,51.64
+Kota Batu,2018,laki_laki,43.23
+BANTEN,2018,laki_laki,43.89
+Pandeglang,2018,laki_laki,20.01
+Lebak,2018,laki_laki,16.55
+Tangerang,2018,laki_laki,41.46
+Serang,2018,laki_laki,27
+Kota Tangerang,2018,laki_laki,65.39
+Kota Cilegon,2018,laki_laki,58.93
+Kota Serang,2018,laki_laki,35.5
+Kota Tangerang Selatan,2018,laki_laki,67.98
+BALI,2018,laki_laki,51.07
+Jembrana,2018,laki_laki,43.35
+Tabanan,2018,laki_laki,48.97
+Badung,2018,laki_laki,67.13
+Gianyar,2018,laki_laki,55.46
+Klungkung,2018,laki_laki,51.35
+Bangli,2018,laki_laki,35.46
+Karangasem,2018,laki_laki,27.02
+Buleleng,2018,laki_laki,33.78
+Kota Denpasar,2018,laki_laki,66.94
+NUSA TENGGARA BARAT,2018,laki_laki,35.61
+Lombok Barat,2018,laki_laki,30.32
+Lombok Tengah,2018,laki_laki,27.42
+Lombok Timur,2018,laki_laki,29.17
+Sumbawa,2018,laki_laki,35.51
+Dompu,2018,laki_laki,46.42
+Bima,2018,laki_laki,39.32
+Sumbawa Barat,2018,laki_laki,43.8
+Lombok Utara,2018,laki_laki,27.42
+Kota Mataram,2018,laki_laki,56.7
+Kota Bima,2018,laki_laki,64.35
+NUSA TENGGARA TIMUR,2018,laki_laki,30.63
+Sumba Barat,2018,laki_laki,29.5
+Sumba Timur,2018,laki_laki,26.41
+Kupang,2018,laki_laki,29.11
+Timor Tengah Selatan,2018,laki_laki,24.16
+Timor Tengah Utara,2018,laki_laki,27.93
+Belu,2018,laki_laki,28.48
+Alor,2018,laki_laki,31.91
+Lembata,2018,laki_laki,38.85
+Flores Timur,2018,laki_laki,30.16
+Sikka,2018,laki_laki,24.69
+Ende,2018,laki_laki,34
+Ngada,2018,laki_laki,30.47
+Manggarai,2018,laki_laki,27.41
+Rote Ndao,2018,laki_laki,30.9
+Manggarai Barat,2018,laki_laki,25.31
+Sumba Tengah,2018,laki_laki,25.13
+Sumba Barat Daya,2018,laki_laki,19.5
+Nagekeo,2018,laki_laki,27.39
+Manggarai Timur,2018,laki_laki,22.59
+Sabu Raijua,2018,laki_laki,16.48
+Malaka,2018,laki_laki,31.4
+Kota Kupang,2018,laki_laki,63.9
+KALIMANTAN BARAT,2018,laki_laki,30.75
+Sambas,2018,laki_laki,21.85
+Bengkayang,2018,laki_laki,24.77
+Landak,2018,laki_laki,25.04
+Mempawah,2018,laki_laki,26.69
+Sanggau,2018,laki_laki,27.9
+Ketapang,2018,laki_laki,26.01
+Sintang,2018,laki_laki,25.5
+Kapuas Hulu,2018,laki_laki,36.47
+Sekadau,2018,laki_laki,22.79
+Melawi,2018,laki_laki,26.11
+Kayong Utara,2018,laki_laki,21.73
+Kubu Raya,2018,laki_laki,28.85
+Kota Pontianak,2018,laki_laki,57.32
+Kota Singkawang,2018,laki_laki,37.16
+KALIMANTAN TENGAH,2018,laki_laki,35.99
+Kotawaringin Barat,2018,laki_laki,39.02
+Kotawaringin Timur,2018,laki_laki,29.93
+Kapuas,2018,laki_laki,25.98
+Barito Selatan,2018,laki_laki,38.97
+Barito Utara,2018,laki_laki,34.22
+Sukamara,2018,laki_laki,31.22
+Lamandau,2018,laki_laki,29.09
+Seruyan,2018,laki_laki,31.13
+Katingan,2018,laki_laki,36.29
+Pulang Pisau,2018,laki_laki,28.28
+Gunung Mas,2018,laki_laki,36.91
+Barito Timur,2018,laki_laki,43.26
+Murung Raya,2018,laki_laki,28.62
+Kota Palangka Raya,2018,laki_laki,64.69
+KALIMANTAN SELATAN,2018,laki_laki,36.27
+Tanah Laut,2018,laki_laki,24.99
+Kotabaru,2018,laki_laki,30.17
+Banjar,2018,laki_laki,29.1
+Barito Kuala,2018,laki_laki,28.52
+Tapin,2018,laki_laki,29.9
+Hulu Sungai Selatan,2018,laki_laki,28.57
+Hulu Sungai Tengah,2018,laki_laki,32.65
+Hulu Sungai Utara,2018,laki_laki,30.19
+Tabalong,2018,laki_laki,39.08
+Tanah Bumbu,2018,laki_laki,34.6
+Balangan,2018,laki_laki,30.44
+Kota Banjarmasin,2018,laki_laki,52.36
+Kota Banjar Baru,2018,laki_laki,65.11
+KALIMANTAN TIMUR,2018,laki_laki,52.32
+Paser,2018,laki_laki,39.94
+Kutai Barat,2018,laki_laki,38.4
+Kutai Kartanegara,2018,laki_laki,44.18
+Kutai Timur,2018,laki_laki,45.86
+Berau,2018,laki_laki,46.67
+Penajam Paser Utara,2018,laki_laki,39.88
+Mahakam Ulu,2018,laki_laki,30.69
+Kota Balikpapan,2018,laki_laki,65.91
+Kota Samarinda,2018,laki_laki,59.77
+Kota Bontang,2018,laki_laki,68.66
+KALIMANTAN UTARA,2018,laki_laki,45.39
+Malinau,2018,laki_laki,52.6
+Bulungan,2018,laki_laki,42.61
+Tana Tidung,2018,laki_laki,46.93
+Nunukan,2018,laki_laki,33.3
+Kota Tarakan,2018,laki_laki,53.86
+SULAWESI UTARA,2018,laki_laki,43.98
+Bolaang Mongondow,2018,laki_laki,24.36
+Minahasa,2018,laki_laki,46.41
+Kepulauan Sangihe,2018,laki_laki,31.44
+Kepulauan Talaud,2018,laki_laki,37.65
+Minahasa Selatan,2018,laki_laki,35.58
+Minahasa Utara,2018,laki_laki,52.82
+Bolaang Mongondow Utara,2018,laki_laki,27.24
+Siau Tagulandang Biaro,2018,laki_laki,33.07
+Minahasa Tenggara,2018,laki_laki,37.35
+Bolaang Mongondow Selatan,2018,laki_laki,22.9
+Bolaang Mongondow Timur,2018,laki_laki,28.75
+Kota Manado,2018,laki_laki,65.56
+Kota Bitung,2018,laki_laki,49.45
+Kota Tomohon,2018,laki_laki,50.97
+Kota Kotamobagu,2018,laki_laki,49.53
+SULAWESI TENGAH,2018,laki_laki,37.82
+Banggai Kepulauan,2018,laki_laki,30.69
+Banggai,2018,laki_laki,33.71
+Morowali,2018,laki_laki,45.71
+Poso,2018,laki_laki,44.33
+Donggala,2018,laki_laki,29.18
+Toli-Toli,2018,laki_laki,37.16
+Buol,2018,laki_laki,38.07
+Parigi Moutong,2018,laki_laki,23.15
+Tojo Una-Una,2018,laki_laki,31.86
+Sigi,2018,laki_laki,37.34
+Banggai Laut,2018,laki_laki,38.05
+Morowali Utara,2018,laki_laki,34.96
+Kota Palu,2018,laki_laki,67.8
+SULAWESI SELATAN,2018,laki_laki,38.4
+Kepulauan Selayar,2018,laki_laki,31.98
+Bulukumba,2018,laki_laki,31.31
+Bantaeng,2018,laki_laki,28.64
+Jeneponto,2018,laki_laki,26.15
+Takalar,2018,laki_laki,29.32
+Gowa,2018,laki_laki,35.41
+Sinjai,2018,laki_laki,26.31
+Maros,2018,laki_laki,40.38
+Pangkajene dan Kepulauan,2018,laki_laki,33.71
+Barru,2018,laki_laki,29.37
+Bone,2018,laki_laki,29.08
+Soppeng,2018,laki_laki,32.26
+Wajo,2018,laki_laki,22.15
+Sidenreng Rappang,2018,laki_laki,32.1
+Pinrang,2018,laki_laki,35.71
+Enrekang,2018,laki_laki,44.91
+Luwu,2018,laki_laki,35.46
+Tana Toraja,2018,laki_laki,37.8
+Luwu Utara,2018,laki_laki,28.43
+Luwu Timur,2018,laki_laki,42.21
+Toraja Utara,2018,laki_laki,37.66
+Kota Makasar,2018,laki_laki,61.48
+Kota Parepare,2018,laki_laki,59.39
+Kota Palopo,2018,laki_laki,58.46
+SULAWESI TENGGARA,2018,laki_laki,45.08
+Buton,2018,laki_laki,43.38
+Muna,2018,laki_laki,51.93
+Konawe,2018,laki_laki,44.63
+Kolaka,2018,laki_laki,43.11
+Konawe Selatan,2018,laki_laki,32.78
+Bombana,2018,laki_laki,30.43
+Wakatobi,2018,laki_laki,35.85
+Kolaka Utara,2018,laki_laki,30.13
+Buton Utara,2018,laki_laki,45.71
+Konawe Utara,2018,laki_laki,41.29
+Kolaka Timur,2018,laki_laki,43.86
+Konawe Kepulauan,2018,laki_laki,46.57
+Muna Barat,2018,laki_laki,29.25
+Buton Tengah,2018,laki_laki,45.8
+Buton Selatan,2018,laki_laki,31.79
+Kota Kendari,2018,laki_laki,69.57
+Kota Baubau,2018,laki_laki,64.2
+GORONTALO,2018,laki_laki,27.37
+Boalemo,2018,laki_laki,16.62
+Gorontalo,2018,laki_laki,20.27
+Pohuwato,2018,laki_laki,21.53
+Bone Bolango,2018,laki_laki,31.06
+Gorontalo Utara,2018,laki_laki,19.8
+Kota Gorontalo,2018,laki_laki,54.33
+SULAWESI BARAT,2018,laki_laki,32.58
+Majene,2018,laki_laki,39.57
+Polewali Mandar,2018,laki_laki,29.54
+Mamasa,2018,laki_laki,35.04
+Mamuju,2018,laki_laki,35.52
+Mamuju Utara / Pasangkayu,2018,laki_laki,34.27
+Mamuju Tengah,2018,laki_laki,23.08
+MALUKU,2018,laki_laki,50.54
+Maluku Tenggara Barat / Kepulauan Tanimbar,2018,laki_laki,44.24
+Maluku Tenggara,2018,laki_laki,51.91
+Maluku Tengah,2018,laki_laki,45.36
+Buru,2018,laki_laki,40.48
+Kepulauan Aru,2018,laki_laki,37.78
+Seram Bagian Barat,2018,laki_laki,43.92
+Seram Bagian Timur,2018,laki_laki,35.35
+Maluku Barat Daya,2018,laki_laki,28.9
+Buru Selatan,2018,laki_laki,32.3
+Kota Ambon,2018,laki_laki,70.7
+Kota Tual,2018,laki_laki,61.74
+MALUKU UTARA,2018,laki_laki,43.06
+Halmahera Barat,2018,laki_laki,31.25
+Halmahera Tengah,2018,laki_laki,42.57
+Kepulauan Sula,2018,laki_laki,42.3
+Halmahera Selatan,2018,laki_laki,31.4
+Halmahera Utara,2018,laki_laki,38.79
+Halmahera Timur,2018,laki_laki,40.2
+Pulau Morotai,2018,laki_laki,29.76
+Pulau Taliabu,2018,laki_laki,24.95
+Kota Ternate,2018,laki_laki,69.02
+Kota Tidore Kepulauan,2018,laki_laki,50.67
+PAPUA BARAT,2018,laki_laki,54.68
+Fakfak,2018,laki_laki,53.32
+Kaimana,2018,laki_laki,56.31
+Teluk Wondama,2018,laki_laki,48.09
+Teluk Bintuni,2018,laki_laki,52.59
+Manokwari,2018,laki_laki,58.54
+Sorong Selatan,2018,laki_laki,41.81
+Sorong,2018,laki_laki,38.53
+Raja Ampat,2018,laki_laki,46.64
+Tambrauw,2018,laki_laki,56.27
+Maybrat,2018,laki_laki,54.27
+Manokwari Selatan,2018,laki_laki,53.3
+Pegunungan Arfak,2018,laki_laki,45.81
+Kota Sorong,2018,laki_laki,64.05
+PAPUA,2018,laki_laki,36.66
+Merauke,2018,laki_laki,40.07
+Jayawijaya,2018,laki_laki,31.16
+Jayapura,2018,laki_laki,59.47
+Nabire,2018,laki_laki,51.31
+Kepulauan Yapen,2018,laki_laki,55.55
+Biak Numfor,2018,laki_laki,55.82
+Paniai,2018,laki_laki,24.69
+Puncak Jaya,2018,laki_laki,12.42
+Mimika,2018,laki_laki,62.01
+Boven Digoel,2018,laki_laki,49.84
+Mappi,2018,laki_laki,21.97
+Asmat,2018,laki_laki,14.64
+Yahukimo,2018,laki_laki,13.45
+Pegunungan Bintang,2018,laki_laki,35.7
+Tolikara,2018,laki_laki,22.75
+Sarmi,2018,laki_laki,41.09
+Keerom,2018,laki_laki,46.76
+Waropen,2018,laki_laki,53.25
+Supiori,2018,laki_laki,47.94
+Mamberamo Raya,2018,laki_laki,26.05
+Nduga,2018,laki_laki,9.04
+Lanny Jaya,2018,laki_laki,22.86
+Mamberamo Tengah,2018,laki_laki,24.92
+Yalimo,2018,laki_laki,20.92
+Puncak,2018,laki_laki,8.31
+Dogiyai,2018,laki_laki,11.13
+Intan Jaya,2018,laki_laki,13.74
+Deiyai,2018,laki_laki,16.36
+Kota Jayapura,2018,laki_laki,71.53
+INDONESIA,2018,laki_laki,38.27
+ACEH,2018,perempuan,37.31
+Simeulue,2018,perempuan,36.5
+Aceh Singkil,2018,perempuan,32.93
+Aceh Selatan,2018,perempuan,31.29
+Aceh Tenggara,2018,perempuan,38.39
+Aceh Timur,2018,perempuan,21.31
+Aceh Tengah,2018,perempuan,42.41
+Aceh Barat,2018,perempuan,39.82
+Aceh Besar,2018,perempuan,46.11
+Pidie,2018,perempuan,34.51
+Bireuen,2018,perempuan,35.81
+Aceh Utara,2018,perempuan,23.92
+Aceh Barat Daya,2018,perempuan,32.14
+Gayo Lues,2018,perempuan,28.92
+Aceh Tamiang,2018,perempuan,35.66
+Nagan Raya,2018,perempuan,30.23
+Aceh Jaya,2018,perempuan,29.83
+Bener Meriah,2018,perempuan,38.14
+Pidie Jaya,2018,perempuan,35.24
+Kota Banda Aceh,2018,perempuan,71.8
+Kota Sabang,2018,perempuan,65.42
+Kota Langsa,2018,perempuan,61.99
+Kota Lhokseumawe,2018,perempuan,58.06
+Kota Subulussalam,2018,perempuan,29.18
+SUMATERA UTARA,2018,perempuan,43.23
+Nias,2018,perempuan,10.18
+Mandailing Natal,2018,perempuan,25.21
+Tapanuli Selatan,2018,perempuan,32.39
+Tapanuli Tengah,2018,perempuan,30.34
+Tapanuli Utara,2018,perempuan,48.49
+Toba Samosir / Toba,2018,perempuan,56.19
+Labuhan Batu,2018,perempuan,38.79
+Asahan,2018,perempuan,33.3
+Simalungun,2018,perempuan,42.65
+Dairi,2018,perempuan,42.02
+Karo,2018,perempuan,47.63
+Deli Serdang,2018,perempuan,46.94
+Langkat,2018,perempuan,30.82
+Nias Selatan,2018,perempuan,17.85
+Humbang Hasundutan,2018,perempuan,40.53
+Pakpak Bharat,2018,perempuan,32.69
+Samosir,2018,perempuan,47.09
+Serdang Bedagai,2018,perempuan,32.1
+Batu Bara,2018,perempuan,28.98
+Padang Lawas Utara,2018,perempuan,36.15
+Padang Lawas,2018,perempuan,32.82
+Labuhan Batu Selatan,2018,perempuan,34.01
+Labuhan Batu Utara,2018,perempuan,28
+Nias Utara,2018,perempuan,14.41
+Nias Barat,2018,perempuan,16.63
+Kota Sibolga,2018,perempuan,50.79
+Kota Tanjung Balai,2018,perempuan,45.41
+Kota Pematang Siantar,2018,perempuan,62.82
+Kota Tebing Tinggi,2018,perempuan,52.97
+Kota Medan,2018,perempuan,64.97
+Kota Binjai,2018,perempuan,56.53
+Kota Padangsidimpuan,2018,perempuan,57.54
+Kota Gunungsitoli,2018,perempuan,36.67
+SUMATERA BARAT,2018,perempuan,40.32
+Kepulauan Mentawai,2018,perempuan,31.93
+Pesisir Selatan,2018,perempuan,33.64
+Solok,2018,perempuan,30.8
+Sijunjung,2018,perempuan,28.39
+Tanah Datar,2018,perempuan,38.32
+Padang Pariaman,2018,perempuan,29.03
+Agam,2018,perempuan,40.96
+Lima Puluh Kota,2018,perempuan,29.3
+Pasaman,2018,perempuan,23.91
+Solok Selatan,2018,perempuan,36.8
+Dharmasraya,2018,perempuan,32.81
+Pasaman Barat,2018,perempuan,28.81
+Kota Padang,2018,perempuan,63.65
+Kota Solok,2018,perempuan,64.87
+Kota Sawah Lunto,2018,perempuan,47.53
+Kota Padang Panjang,2018,perempuan,65.2
+Kota Bukittinggi,2018,perempuan,64.72
+Kota Payakumbuh,2018,perempuan,55.5
+Kota Pariaman,2018,perempuan,54.58
+RIAU,2018,perempuan,38.97
+Kuantan Singingi,2018,perempuan,32.26
+Indragiri Hulu,2018,perempuan,33.18
+Indragiri Hilir,2018,perempuan,20.18
+Pelalawan,2018,perempuan,32.45
+Siak,2018,perempuan,47.67
+Kampar,2018,perempuan,35.19
+Rokan Hulu,2018,perempuan,29.04
+Bengkalis,2018,perempuan,43.1
+Rokan Hilir,2018,perempuan,30.93
+Kepulauan Meranti,2018,perempuan,26.45
+Kota Pekanbaru,2018,perempuan,64.96
+Kota Dumai,2018,perempuan,48.92
+JAMBI,2018,perempuan,31.08
+Kerinci,2018,perempuan,26.91
+Merangin,2018,perempuan,25.14
+Sarolangun,2018,perempuan,24.18
+Batang Hari,2018,perempuan,26.14
+Muaro Jambi,2018,perempuan,30
+Tanjung Jabung Timur,2018,perempuan,16.6
+Tanjung Jabung Barat,2018,perempuan,23.01
+Tebo,2018,perempuan,21.11
+Bungo,2018,perempuan,25.74
+Kota Jambi,2018,perempuan,57.37
+Kota Sungai Penuh,2018,perempuan,51.8
+SUMATERA SELATAN,2018,perempuan,29.1
+Ogan Komering Ulu,2018,perempuan,35.61
+Ogan Komering Ilir,2018,perempuan,15.98
+Muara Enim,2018,perempuan,23.79
+Lahat,2018,perempuan,33.2
+Musi Rawas,2018,perempuan,17.32
+Musi Banyuasin,2018,perempuan,19.99
+Banyu Asin,2018,perempuan,18.39
+Ogan Komering Ulu Selatan,2018,perempuan,20.97
+Ogan Komering Ulu Timur,2018,perempuan,21.21
+Ogan Ilir,2018,perempuan,21.69
+Empat Lawang,2018,perempuan,18.72
+Penukal Abab Lematang Ilir,2018,perempuan,15.52
+Musi Rawas Utara,2018,perempuan,13.64
+Kota Palembang,2018,perempuan,52.84
+Kota Prabumulih,2018,perempuan,46.41
+Kota Pagar Alam,2018,perempuan,41.95
+Kota Lubuklinggau,2018,perempuan,42.04
+BENGKULU,2018,perempuan,34.52
+Bengkulu Selatan,2018,perempuan,41.11
+Rejang Lebong,2018,perempuan,28.25
+Bengkulu Utara,2018,perempuan,25.72
+Kaur,2018,perempuan,35.06
+Seluma,2018,perempuan,26.29
+Mukomuko,2018,perempuan,25.52
+Lebong,2018,perempuan,26.91
+Kepahiang,2018,perempuan,25.11
+Bengkulu Tengah,2018,perempuan,22.78
+Kota Bengkulu,2018,perempuan,61.73
+LAMPUNG,2018,perempuan,25.82
+Lampung Barat,2018,perempuan,20.71
+Tanggamus,2018,perempuan,18.69
+Lampung Selatan,2018,perempuan,22.84
+Lampung Timur,2018,perempuan,20.55
+Lampung Tengah,2018,perempuan,20.67
+Lampung Utara,2018,perempuan,26.49
+Way Kanan,2018,perempuan,17.83
+Tulangbawang,2018,perempuan,20.17
+Pesawaran,2018,perempuan,22.53
+Pringsewu,2018,perempuan,26.28
+Mesuji,2018,perempuan,13.19
+Tulang Bawang Barat,2018,perempuan,15.72
+Pesisir Barat,2018,perempuan,25.85
+Kota Bandar Lampung,2018,perempuan,53.5
+Kota Metro,2018,perempuan,55.16
+KEP. BANGKA BELITUNG,2018,perempuan,29.73
+Bangka,2018,perempuan,32.11
+Belitung,2018,perempuan,29.98
+Bangka Barat,2018,perempuan,25.66
+Bangka Tengah,2018,perempuan,20.88
+Bangka Selatan,2018,perempuan,14.4
+Belitung Timur,2018,perempuan,30.77
+Kota Pangkal Pinang,2018,perempuan,49.63
+KEPULAUAN RIAU,2018,perempuan,55
+Karimun,2018,perempuan,31.44
+Bintan,2018,perempuan,36.92
+Natuna,2018,perempuan,36.46
+Lingga,2018,perempuan,23.74
+Kepulauan Anambas,2018,perempuan,22.78
+Kota Batam,2018,perempuan,67.11
+Kota Tanjung Pinang,2018,perempuan,50.47
+DKI JAKARTA,2018,perempuan,58.38
+Kep. Seribu,2018,perempuan,34.5
+Kota Jakarta Selatan,2018,perempuan,64.23
+Kota Jakarta Timur,2018,perempuan,63.89
+Kota Jakarta Pusat,2018,perempuan,57.41
+Kota Jakarta Barat,2018,perempuan,50.85
+Kota Jakarta Utara,2018,perempuan,53.23
+JAWA BARAT,2018,perempuan,28.63
+Bogor,2018,perempuan,25.91
+Sukabumi,2018,perempuan,12.28
+Cianjur,2018,perempuan,14.41
+Bandung,2018,perempuan,28.39
+Garut,2018,perempuan,18.59
+Tasikmalaya,2018,perempuan,11.1
+Ciamis,2018,perempuan,16.8
+Kuningan,2018,perempuan,19.43
+Cirebon,2018,perempuan,17.8
+Majalengka,2018,perempuan,12.3
+Sumedang,2018,perempuan,24.14
+Indramayu,2018,perempuan,10.11
+Subang,2018,perempuan,15.56
+Purwakarta,2018,perempuan,25.25
+Karawang,2018,perempuan,24.36
+Bekasi,2018,perempuan,41.01
+Bandung Barat,2018,perempuan,21.16
+Pangandaran,2018,perempuan,17.07
+Kota Bogor,2018,perempuan,42.34
+Kota Sukabumi,2018,perempuan,37.45
+Kota Bandung,2018,perempuan,54.13
+Kota Cirebon,2018,perempuan,47.46
+Kota Bekasi,2018,perempuan,60.95
+Kota Depok,2018,perempuan,54.63
+Kota Cimahi,2018,perempuan,57.09
+Kota Tasikmalaya,2018,perempuan,32.05
+Kota Banjar,2018,perempuan,26.37
+JAWA TENGAH,2018,perempuan,23.21
+Cilacap,2018,perempuan,17.94
+Banyumas,2018,perempuan,21.25
+Purbalingga,2018,perempuan,15.21
+Banjarnegara,2018,perempuan,12.87
+Kebumen,2018,perempuan,19.75
+Purworejo,2018,perempuan,22.39
+Wonosobo,2018,perempuan,15.67
+Magelang,2018,perempuan,24.81
+Boyolali,2018,perempuan,25.74
+Klaten,2018,perempuan,36.09
+Sukoharjo,2018,perempuan,40.51
+Wonogiri,2018,perempuan,18.16
+Karanganyar,2018,perempuan,32.63
+Sragen,2018,perempuan,24.67
+Grobogan,2018,perempuan,9.82
+Blora,2018,perempuan,14.96
+Rembang,2018,perempuan,13.4
+Pati,2018,perempuan,21.42
+Kudus,2018,perempuan,31.59
+Jepara,2018,perempuan,19.07
+Demak,2018,perempuan,21.13
+Semarang,2018,perempuan,26.92
+Temanggung,2018,perempuan,18.19
+Kendal,2018,perempuan,20.18
+Batang,2018,perempuan,15.41
+Pekalongan,2018,perempuan,15.62
+Pemalang,2018,perempuan,14.1
+Tegal,2018,perempuan,18.62
+Brebes,2018,perempuan,13.67
+Kota Magelang,2018,perempuan,49.79
+Kota Surakarta,2018,perempuan,54.53
+Kota Salatiga,2018,perempuan,51.63
+Kota Semarang,2018,perempuan,53.04
+Kota Pekalongan,2018,perempuan,34.32
+Kota Tegal,2018,perempuan,31.82
+D I YOGYAKARTA,2018,perempuan,44.07
+Kulon Progo,2018,perempuan,36.34
+Bantul,2018,perempuan,44.59
+Gunung Kidul,2018,perempuan,21.53
+Sleman,2018,perempuan,56.44
+Kota Yogyakarta,2018,perempuan,62.16
+JAWA TIMUR,2018,perempuan,23.95
+Pacitan,2018,perempuan,17.48
+Ponorogo,2018,perempuan,22.83
+Trenggalek,2018,perempuan,18.33
+Tulungagung,2018,perempuan,25.97
+Blitar,2018,perempuan,21.85
+Kediri,2018,perempuan,26.29
+Malang,2018,perempuan,20
+Lumajang,2018,perempuan,12.53
+Jember,2018,perempuan,14.12
+Banyuwangi,2018,perempuan,17.13
+Bondowoso,2018,perempuan,13.68
+Situbondo,2018,perempuan,14.51
+Probolinggo,2018,perempuan,10.71
+Pasuruan,2018,perempuan,20.59
+Sidoarjo,2018,perempuan,49.71
+Mojokerto,2018,perempuan,26.09
+Jombang,2018,perempuan,27.41
+Nganjuk,2018,perempuan,24.91
+Madiun,2018,perempuan,25.23
+Magetan,2018,perempuan,25.54
+Ngawi,2018,perempuan,19.69
+Bojonegoro,2018,perempuan,15.61
+Tuban,2018,perempuan,13.38
+Lamongan,2018,perempuan,24.52
+Gresik,2018,perempuan,39.6
+Bangkalan,2018,perempuan,11.19
+Sampang,2018,perempuan,8.06
+Pamekasan,2018,perempuan,17.5
+Sumenep,2018,perempuan,10.13
+Kota Kediri,2018,perempuan,42.81
+Kota Blitar,2018,perempuan,44.05
+Kota Malang,2018,perempuan,45.49
+Kota Probolinggo,2018,perempuan,34.7
+Kota Pasuruan,2018,perempuan,35.64
+Kota Mojokerto,2018,perempuan,48.24
+Kota Madiun,2018,perempuan,49.5
+Kota Surabaya,2018,perempuan,41.76
+Kota Batu,2018,perempuan,36.23
+BANTEN,2018,perempuan,33.03
+Pandeglang,2018,perempuan,12.34
+Lebak,2018,perempuan,8.89
+Tangerang,2018,perempuan,28.21
+Serang,2018,perempuan,16.23
+Kota Tangerang,2018,perempuan,53.54
+Kota Cilegon,2018,perempuan,45.94
+Kota Serang,2018,perempuan,30.9
+Kota Tangerang Selatan,2018,perempuan,57.84
+BALI,2018,perempuan,36.47
+Jembrana,2018,perempuan,26.94
+Tabanan,2018,perempuan,35.79
+Badung,2018,perempuan,50.31
+Gianyar,2018,perempuan,41.15
+Klungkung,2018,perempuan,32.36
+Bangli,2018,perempuan,24.13
+Karangasem,2018,perempuan,16.52
+Buleleng,2018,perempuan,22.06
+Kota Denpasar,2018,perempuan,52.19
+NUSA TENGGARA BARAT,2018,perempuan,24.37
+Lombok Barat,2018,perempuan,17.25
+Lombok Tengah,2018,perempuan,15.86
+Lombok Timur,2018,perempuan,17.61
+Sumbawa,2018,perempuan,29.29
+Dompu,2018,perempuan,35.11
+Bima,2018,perempuan,34.45
+Sumbawa Barat,2018,perempuan,29.45
+Lombok Utara,2018,perempuan,15.3
+Kota Mataram,2018,perempuan,43
+Kota Bima,2018,perempuan,57.27
+NUSA TENGGARA TIMUR,2018,perempuan,24.4
+Sumba Barat,2018,perempuan,24.49
+Sumba Timur,2018,perempuan,21.6
+Kupang,2018,perempuan,20.97
+Timor Tengah Selatan,2018,perempuan,18.24
+Timor Tengah Utara,2018,perempuan,20.73
+Belu,2018,perempuan,23.35
+Alor,2018,perempuan,23.29
+Lembata,2018,perempuan,25.34
+Flores Timur,2018,perempuan,22.31
+Sikka,2018,perempuan,20.82
+Ende,2018,perempuan,28.71
+Ngada,2018,perempuan,29.21
+Manggarai,2018,perempuan,21.73
+Rote Ndao,2018,perempuan,27.05
+Manggarai Barat,2018,perempuan,15.35
+Sumba Tengah,2018,perempuan,21.85
+Sumba Barat Daya,2018,perempuan,18.78
+Nagekeo,2018,perempuan,28.36
+Manggarai Timur,2018,perempuan,13.43
+Sabu Raijua,2018,perempuan,20.65
+Malaka,2018,perempuan,18.71
+Kota Kupang,2018,perempuan,60.05
+KALIMANTAN BARAT,2018,perempuan,24.5
+Sambas,2018,perempuan,15.38
+Bengkayang,2018,perempuan,18.19
+Landak,2018,perempuan,21.17
+Mempawah,2018,perempuan,23.34
+Sanggau,2018,perempuan,19.44
+Ketapang,2018,perempuan,20.05
+Sintang,2018,perempuan,18.57
+Kapuas Hulu,2018,perempuan,25.19
+Sekadau,2018,perempuan,11.84
+Melawi,2018,perempuan,17.97
+Kayong Utara,2018,perempuan,14.04
+Kubu Raya,2018,perempuan,24.27
+Kota Pontianak,2018,perempuan,52.04
+Kota Singkawang,2018,perempuan,32.24
+KALIMANTAN TENGAH,2018,perempuan,29.96
+Kotawaringin Barat,2018,perempuan,30.69
+Kotawaringin Timur,2018,perempuan,27.23
+Kapuas,2018,perempuan,19.87
+Barito Selatan,2018,perempuan,29.53
+Barito Utara,2018,perempuan,29.33
+Sukamara,2018,perempuan,23.71
+Lamandau,2018,perempuan,23.06
+Seruyan,2018,perempuan,21.14
+Katingan,2018,perempuan,26.44
+Pulang Pisau,2018,perempuan,25.36
+Gunung Mas,2018,perempuan,29.4
+Barito Timur,2018,perempuan,36.03
+Murung Raya,2018,perempuan,23.98
+Kota Palangka Raya,2018,perempuan,60.28
+KALIMANTAN SELATAN,2018,perempuan,28.29
+Tanah Laut,2018,perempuan,20.91
+Kotabaru,2018,perempuan,22.49
+Banjar,2018,perempuan,19.49
+Barito Kuala,2018,perempuan,23.99
+Tapin,2018,perempuan,22.61
+Hulu Sungai Selatan,2018,perempuan,24.23
+Hulu Sungai Tengah,2018,perempuan,25.43
+Hulu Sungai Utara,2018,perempuan,21.39
+Tabalong,2018,perempuan,29.65
+Tanah Bumbu,2018,perempuan,22.37
+Balangan,2018,perempuan,19.26
+Kota Banjarmasin,2018,perempuan,44.69
+Kota Banjar Baru,2018,perempuan,53.7
+KALIMANTAN TIMUR,2018,perempuan,43.3
+Paser,2018,perempuan,26.6
+Kutai Barat,2018,perempuan,30.05
+Kutai Kartanegara,2018,perempuan,32.54
+Kutai Timur,2018,perempuan,38.34
+Berau,2018,perempuan,39.72
+Penajam Paser Utara,2018,perempuan,27.87
+Mahakam Ulu,2018,perempuan,26.26
+Kota Balikpapan,2018,perempuan,57.74
+Kota Samarinda,2018,perempuan,52
+Kota Bontang,2018,perempuan,56.67
+KALIMANTAN UTARA,2018,perempuan,37.82
+Malinau,2018,perempuan,41.05
+Bulungan,2018,perempuan,33.31
+Tana Tidung,2018,perempuan,27.81
+Nunukan,2018,perempuan,27.61
+Kota Tarakan,2018,perempuan,47.7
+SULAWESI UTARA,2018,perempuan,43.14
+Bolaang Mongondow,2018,perempuan,21.18
+Minahasa,2018,perempuan,48.21
+Kepulauan Sangihe,2018,perempuan,34.09
+Kepulauan Talaud,2018,perempuan,38.22
+Minahasa Selatan,2018,perempuan,35.63
+Minahasa Utara,2018,perempuan,52.31
+Bolaang Mongondow Utara,2018,perempuan,33.56
+Siau Tagulandang Biaro,2018,perempuan,36.72
+Minahasa Tenggara,2018,perempuan,40
+Bolaang Mongondow Selatan,2018,perempuan,22.25
+Bolaang Mongondow Timur,2018,perempuan,21.65
+Kota Manado,2018,perempuan,56.88
+Kota Bitung,2018,perempuan,44.81
+Kota Tomohon,2018,perempuan,56.88
+Kota Kotamobagu,2018,perempuan,51.54
+SULAWESI TENGAH,2018,perempuan,32.47
+Banggai Kepulauan,2018,perempuan,25.89
+Banggai,2018,perempuan,27.71
+Morowali,2018,perempuan,34.65
+Poso,2018,perempuan,37.79
+Donggala,2018,perempuan,20.81
+Toli-Toli,2018,perempuan,31.68
+Buol,2018,perempuan,31.9
+Parigi Moutong,2018,perempuan,22.03
+Tojo Una-Una,2018,perempuan,27.91
+Sigi,2018,perempuan,30.87
+Banggai Laut,2018,perempuan,27.3
+Morowali Utara,2018,perempuan,29.19
+Kota Palu,2018,perempuan,62.4
+SULAWESI SELATAN,2018,perempuan,32.77
+Kepulauan Selayar,2018,perempuan,29.52
+Bulukumba,2018,perempuan,28.86
+Bantaeng,2018,perempuan,26.22
+Jeneponto,2018,perempuan,22.59
+Takalar,2018,perempuan,25.07
+Gowa,2018,perempuan,30.9
+Sinjai,2018,perempuan,27.01
+Maros,2018,perempuan,26.5
+Pangkajene dan Kepulauan,2018,perempuan,27.42
+Barru,2018,perempuan,28.97
+Bone,2018,perempuan,25.03
+Soppeng,2018,perempuan,30.84
+Wajo,2018,perempuan,16.86
+Sidenreng Rappang,2018,perempuan,26.73
+Pinrang,2018,perempuan,28.1
+Enrekang,2018,perempuan,37.81
+Luwu,2018,perempuan,29.49
+Tana Toraja,2018,perempuan,33.23
+Luwu Utara,2018,perempuan,22.66
+Luwu Timur,2018,perempuan,34.18
+Toraja Utara,2018,perempuan,33.89
+Kota Makasar,2018,perempuan,54.71
+Kota Parepare,2018,perempuan,50.22
+Kota Palopo,2018,perempuan,55.08
+SULAWESI TENGGARA,2018,perempuan,37.37
+Buton,2018,perempuan,32.42
+Muna,2018,perempuan,34.95
+Konawe,2018,perempuan,38.33
+Kolaka,2018,perempuan,35.91
+Konawe Selatan,2018,perempuan,26.15
+Bombana,2018,perempuan,23.97
+Wakatobi,2018,perempuan,27.36
+Kolaka Utara,2018,perempuan,28.98
+Buton Utara,2018,perempuan,31.25
+Konawe Utara,2018,perempuan,36.3
+Kolaka Timur,2018,perempuan,37.01
+Konawe Kepulauan,2018,perempuan,39.75
+Muna Barat,2018,perempuan,18.65
+Buton Tengah,2018,perempuan,46.83
+Buton Selatan,2018,perempuan,17.68
+Kota Kendari,2018,perempuan,62.31
+Kota Baubau,2018,perempuan,55.35
+GORONTALO,2018,perempuan,30.2
+Boalemo,2018,perempuan,23.19
+Gorontalo,2018,perempuan,23.29
+Pohuwato,2018,perempuan,25.16
+Bone Bolango,2018,perempuan,33.37
+Gorontalo Utara,2018,perempuan,18.65
+Kota Gorontalo,2018,perempuan,54.26
+SULAWESI BARAT,2018,perempuan,28.82
+Majene,2018,perempuan,33.45
+Polewali Mandar,2018,perempuan,27.62
+Mamasa,2018,perempuan,29.76
+Mamuju,2018,perempuan,32.07
+Mamuju Utara / Pasangkayu,2018,perempuan,26.64
+Mamuju Tengah,2018,perempuan,21.69
+MALUKU,2018,perempuan,45.51
+Maluku Tenggara Barat / Kepulauan Tanimbar,2018,perempuan,43.56
+Maluku Tenggara,2018,perempuan,41.67
+Maluku Tengah,2018,perempuan,40.27
+Buru,2018,perempuan,33.42
+Kepulauan Aru,2018,perempuan,32.11
+Seram Bagian Barat,2018,perempuan,39.83
+Seram Bagian Timur,2018,perempuan,26.28
+Maluku Barat Daya,2018,perempuan,23.73
+Buru Selatan,2018,perempuan,28.1
+Kota Ambon,2018,perempuan,67.34
+Kota Tual,2018,perempuan,52.18
+MALUKU UTARA,2018,perempuan,34.27
+Halmahera Barat,2018,perempuan,27.56
+Halmahera Tengah,2018,perempuan,32.94
+Kepulauan Sula,2018,perempuan,33.53
+Halmahera Selatan,2018,perempuan,19.13
+Halmahera Utara,2018,perempuan,31.47
+Halmahera Timur,2018,perempuan,24.53
+Pulau Morotai,2018,perempuan,19.67
+Pulau Taliabu,2018,perempuan,17.53
+Kota Ternate,2018,perempuan,61.87
+Kota Tidore Kepulauan,2018,perempuan,42.31
+PAPUA BARAT,2018,perempuan,44.35
+Fakfak,2018,perempuan,45.3
+Kaimana,2018,perempuan,45.99
+Teluk Wondama,2018,perempuan,40.1
+Teluk Bintuni,2018,perempuan,39.61
+Manokwari,2018,perempuan,46.01
+Sorong Selatan,2018,perempuan,30.05
+Sorong,2018,perempuan,29.27
+Raja Ampat,2018,perempuan,32.56
+Tambrauw,2018,perempuan,39.23
+Maybrat,2018,perempuan,46.63
+Manokwari Selatan,2018,perempuan,40.79
+Pegunungan Arfak,2018,perempuan,19.53
+Kota Sorong,2018,perempuan,56.87
+PAPUA,2018,perempuan,25.44
+Merauke,2018,perempuan,36.77
+Jayawijaya,2018,perempuan,16.87
+Jayapura,2018,perempuan,46.42
+Nabire,2018,perempuan,45.74
+Kepulauan Yapen,2018,perempuan,40.44
+Biak Numfor,2018,perempuan,43.51
+Paniai,2018,perempuan,9.53
+Puncak Jaya,2018,perempuan,5.87
+Mimika,2018,perempuan,50.63
+Boven Digoel,2018,perempuan,38.85
+Mappi,2018,perempuan,12.54
+Asmat,2018,perempuan,7.41
+Yahukimo,2018,perempuan,2.74
+Pegunungan Bintang,2018,perempuan,18.81
+Tolikara,2018,perempuan,7.47
+Sarmi,2018,perempuan,38.62
+Keerom,2018,perempuan,32.21
+Waropen,2018,perempuan,42.66
+Supiori,2018,perempuan,30.92
+Mamberamo Raya,2018,perempuan,13.95
+Nduga,2018,perempuan,2.97
+Lanny Jaya,2018,perempuan,7.8
+Mamberamo Tengah,2018,perempuan,2.24
+Yalimo,2018,perempuan,10.24
+Puncak,2018,perempuan,1.75
+Dogiyai,2018,perempuan,3.65
+Intan Jaya,2018,perempuan,3.59
+Deiyai,2018,perempuan,3.2
+Kota Jayapura,2018,perempuan,65.84
+INDONESIA,2018,perempuan,30.99
+ACEH,2019,laki_laki,45.23
+Simeulue,2019,laki_laki,42.68
+Aceh Singkil,2019,laki_laki,40.34
+Aceh Selatan,2019,laki_laki,44.92
+Aceh Tenggara,2019,laki_laki,37.88
+Aceh Timur,2019,laki_laki,29.34
+Aceh Tengah,2019,laki_laki,46.95
+Aceh Barat,2019,laki_laki,40.2
+Aceh Besar,2019,laki_laki,58.28
+Pidie,2019,laki_laki,41.93
+Bireuen,2019,laki_laki,39.85
+Aceh Utara,2019,laki_laki,36.89
+Aceh Barat Daya,2019,laki_laki,36.63
+Gayo Lues,2019,laki_laki,43.45
+Aceh Tamiang,2019,laki_laki,42.41
+Nagan Raya,2019,laki_laki,39.08
+Aceh Jaya,2019,laki_laki,36.03
+Bener Meriah,2019,laki_laki,47.77
+Pidie Jaya,2019,laki_laki,42.24
+Kota Banda Aceh,2019,laki_laki,79.24
+Kota Sabang,2019,laki_laki,67.83
+Kota Langsa,2019,laki_laki,68.09
+Kota Lhokseumawe,2019,laki_laki,57.14
+Kota Subulussalam,2019,laki_laki,43.74
+SUMATERA UTARA,2019,laki_laki,49.74
+Nias,2019,laki_laki,30.65
+Mandailing Natal,2019,laki_laki,34.1
+Tapanuli Selatan,2019,laki_laki,42.39
+Tapanuli Tengah,2019,laki_laki,37.39
+Tapanuli Utara,2019,laki_laki,54.85
+Toba Samosir / Toba,2019,laki_laki,56.74
+Labuhan Batu,2019,laki_laki,42.53
+Asahan,2019,laki_laki,38.44
+Simalungun,2019,laki_laki,46.08
+Dairi,2019,laki_laki,45.51
+Karo,2019,laki_laki,44.88
+Deli Serdang,2019,laki_laki,55.56
+Langkat,2019,laki_laki,41.06
+Nias Selatan,2019,laki_laki,34.41
+Humbang Hasundutan,2019,laki_laki,52.09
+Pakpak Bharat,2019,laki_laki,41.41
+Samosir,2019,laki_laki,49.26
+Serdang Bedagai,2019,laki_laki,39.1
+Batu Bara,2019,laki_laki,36.27
+Padang Lawas Utara,2019,laki_laki,48.28
+Padang Lawas,2019,laki_laki,35.43
+Labuhan Batu Selatan,2019,laki_laki,36.27
+Labuhan Batu Utara,2019,laki_laki,30.91
+Nias Utara,2019,laki_laki,31.53
+Nias Barat,2019,laki_laki,34.19
+Kota Sibolga,2019,laki_laki,53.79
+Kota Tanjung Balai,2019,laki_laki,42.13
+Kota Pematang Siantar,2019,laki_laki,71.04
+Kota Tebing Tinggi,2019,laki_laki,57.48
+Kota Medan,2019,laki_laki,69.94
+Kota Binjai,2019,laki_laki,64.08
+Kota Padangsidimpuan,2019,laki_laki,61.56
+Kota Gunungsitoli,2019,laki_laki,52.86
+SUMATERA BARAT,2019,laki_laki,42.63
+Kepulauan Mentawai,2019,laki_laki,30.24
+Pesisir Selatan,2019,laki_laki,36.49
+Solok,2019,laki_laki,28.7
+Sijunjung,2019,laki_laki,34.07
+Tanah Datar,2019,laki_laki,34.74
+Padang Pariaman,2019,laki_laki,36.38
+Agam,2019,laki_laki,40.1
+Lima Puluh Kota,2019,laki_laki,28.47
+Pasaman,2019,laki_laki,35.81
+Solok Selatan,2019,laki_laki,29.86
+Dharmasraya,2019,laki_laki,34.88
+Pasaman Barat,2019,laki_laki,32.75
+Kota Padang,2019,laki_laki,68.53
+Kota Solok,2019,laki_laki,58.98
+Kota Sawah Lunto,2019,laki_laki,50.73
+Kota Padang Panjang,2019,laki_laki,65.21
+Kota Bukittinggi,2019,laki_laki,66.63
+Kota Payakumbuh,2019,laki_laki,57.81
+Kota Pariaman,2019,laki_laki,56.55
+RIAU,2019,laki_laki,44.16
+Kuantan Singingi,2019,laki_laki,40.33
+Indragiri Hulu,2019,laki_laki,34.48
+Indragiri Hilir,2019,laki_laki,22.46
+Pelalawan,2019,laki_laki,38.92
+Siak,2019,laki_laki,50.49
+Kampar,2019,laki_laki,44.33
+Rokan Hulu,2019,laki_laki,32.43
+Bengkalis,2019,laki_laki,54.78
+Rokan Hilir,2019,laki_laki,36.16
+Kepulauan Meranti,2019,laki_laki,32.31
+Kota Pekanbaru,2019,laki_laki,68.58
+Kota Dumai,2019,laki_laki,55.59
+JAMBI,2019,laki_laki,38.61
+Kerinci,2019,laki_laki,42.23
+Merangin,2019,laki_laki,29.76
+Sarolangun,2019,laki_laki,32.27
+Batang Hari,2019,laki_laki,32.32
+Muaro Jambi,2019,laki_laki,34.15
+Tanjung Jabung Timur,2019,laki_laki,22.49
+Tanjung Jabung Barat,2019,laki_laki,27.59
+Tebo,2019,laki_laki,28.16
+Bungo,2019,laki_laki,35.19
+Kota Jambi,2019,laki_laki,69.29
+Kota Sungai Penuh,2019,laki_laki,59.95
+SUMATERA SELATAN,2019,laki_laki,36.03
+Ogan Komering Ulu,2019,laki_laki,37.68
+Ogan Komering Ilir,2019,laki_laki,18.17
+Muara Enim,2019,laki_laki,34.02
+Lahat,2019,laki_laki,39.07
+Musi Rawas,2019,laki_laki,27.47
+Musi Banyuasin,2019,laki_laki,25.55
+Banyu Asin,2019,laki_laki,28.17
+Ogan Komering Ulu Selatan,2019,laki_laki,25.7
+Ogan Komering Ulu Timur,2019,laki_laki,27.54
+Ogan Ilir,2019,laki_laki,29.47
+Empat Lawang,2019,laki_laki,27.4
+Penukal Abab Lematang Ilir,2019,laki_laki,30.43
+Musi Rawas Utara,2019,laki_laki,18.95
+Kota Palembang,2019,laki_laki,61.81
+Kota Prabumulih,2019,laki_laki,54.65
+Kota Pagar Alam,2019,laki_laki,43.89
+Kota Lubuklinggau,2019,laki_laki,53.66
+BENGKULU,2019,laki_laki,41.98
+Bengkulu Selatan,2019,laki_laki,41.7
+Rejang Lebong,2019,laki_laki,33.31
+Bengkulu Utara,2019,laki_laki,35.44
+Kaur,2019,laki_laki,40.41
+Seluma,2019,laki_laki,30.62
+Mukomuko,2019,laki_laki,34.19
+Lebong,2019,laki_laki,36
+Kepahiang,2019,laki_laki,33.11
+Bengkulu Tengah,2019,laki_laki,30.03
+Kota Bengkulu,2019,laki_laki,74.52
+LAMPUNG,2019,laki_laki,32.32
+Lampung Barat,2019,laki_laki,32.33
+Tanggamus,2019,laki_laki,25.28
+Lampung Selatan,2019,laki_laki,26.86
+Lampung Timur,2019,laki_laki,28.58
+Lampung Tengah,2019,laki_laki,27.37
+Lampung Utara,2019,laki_laki,30.5
+Way Kanan,2019,laki_laki,22.23
+Tulangbawang,2019,laki_laki,27.33
+Pesawaran,2019,laki_laki,30.31
+Pringsewu,2019,laki_laki,33.22
+Mesuji,2019,laki_laki,12.3
+Tulang Bawang Barat,2019,laki_laki,24.06
+Pesisir Barat,2019,laki_laki,32.35
+Kota Bandar Lampung,2019,laki_laki,61.26
+Kota Metro,2019,laki_laki,63.6
+KEP. BANGKA BELITUNG,2019,laki_laki,36.8
+Bangka,2019,laki_laki,39.19
+Belitung,2019,laki_laki,38.9
+Bangka Barat,2019,laki_laki,32.21
+Bangka Tengah,2019,laki_laki,31.34
+Bangka Selatan,2019,laki_laki,21.44
+Belitung Timur,2019,laki_laki,31.73
+Kota Pangkal Pinang,2019,laki_laki,57.65
+KEPULAUAN RIAU,2019,laki_laki,58.18
+Karimun,2019,laki_laki,36.5
+Bintan,2019,laki_laki,39.15
+Natuna,2019,laki_laki,38.19
+Lingga,2019,laki_laki,29.37
+Kepulauan Anambas,2019,laki_laki,29.68
+Kota Batam,2019,laki_laki,69.31
+Kota Tanjung Pinang,2019,laki_laki,52.16
+DKI JAKARTA,2019,laki_laki,67.74
+Kep. Seribu,2019,laki_laki,36.27
+Kota Jakarta Selatan,2019,laki_laki,72.5
+Kota Jakarta Timur,2019,laki_laki,74.47
+Kota Jakarta Pusat,2019,laki_laki,68.18
+Kota Jakarta Barat,2019,laki_laki,60.99
+Kota Jakarta Utara,2019,laki_laki,60.33
+JAWA BARAT,2019,laki_laki,38.24
+Bogor,2019,laki_laki,40.42
+Sukabumi,2019,laki_laki,22.2
+Cianjur,2019,laki_laki,17.82
+Bandung,2019,laki_laki,39.16
+Garut,2019,laki_laki,24.8
+Tasikmalaya,2019,laki_laki,20.23
+Ciamis,2019,laki_laki,23.07
+Kuningan,2019,laki_laki,23.68
+Cirebon,2019,laki_laki,24.95
+Majalengka,2019,laki_laki,23.06
+Sumedang,2019,laki_laki,30.04
+Indramayu,2019,laki_laki,23.49
+Subang,2019,laki_laki,24.48
+Purwakarta,2019,laki_laki,34.66
+Karawang,2019,laki_laki,36.62
+Bekasi,2019,laki_laki,43.7
+Bandung Barat,2019,laki_laki,35.51
+Pangandaran,2019,laki_laki,26.38
+Kota Bogor,2019,laki_laki,56.02
+Kota Sukabumi,2019,laki_laki,50.91
+Kota Bandung,2019,laki_laki,61.7
+Kota Cirebon,2019,laki_laki,58.81
+Kota Bekasi,2019,laki_laki,68.7
+Kota Depok,2019,laki_laki,70.48
+Kota Cimahi,2019,laki_laki,60.82
+Kota Tasikmalaya,2019,laki_laki,40.54
+Kota Banjar,2019,laki_laki,35.66
+JAWA TENGAH,2019,laki_laki,30.94
+Cilacap,2019,laki_laki,25.98
+Banyumas,2019,laki_laki,27.76
+Purbalingga,2019,laki_laki,22.56
+Banjarnegara,2019,laki_laki,17.17
+Kebumen,2019,laki_laki,28.7
+Purworejo,2019,laki_laki,35.31
+Wonosobo,2019,laki_laki,18.14
+Magelang,2019,laki_laki,36.08
+Boyolali,2019,laki_laki,33.49
+Klaten,2019,laki_laki,42.39
+Sukoharjo,2019,laki_laki,49.58
+Wonogiri,2019,laki_laki,25
+Karanganyar,2019,laki_laki,39.05
+Sragen,2019,laki_laki,34.56
+Grobogan,2019,laki_laki,18.62
+Blora,2019,laki_laki,26.24
+Rembang,2019,laki_laki,24.66
+Pati,2019,laki_laki,28.66
+Kudus,2019,laki_laki,38.36
+Jepara,2019,laki_laki,26.38
+Demak,2019,laki_laki,29.59
+Semarang,2019,laki_laki,34.72
+Temanggung,2019,laki_laki,24.26
+Kendal,2019,laki_laki,31.53
+Batang,2019,laki_laki,20.55
+Pekalongan,2019,laki_laki,21.24
+Pemalang,2019,laki_laki,22
+Tegal,2019,laki_laki,24.12
+Brebes,2019,laki_laki,17.23
+Kota Magelang,2019,laki_laki,65.73
+Kota Surakarta,2019,laki_laki,62.31
+Kota Salatiga,2019,laki_laki,63.41
+Kota Semarang,2019,laki_laki,65.03
+Kota Pekalongan,2019,laki_laki,36.01
+Kota Tegal,2019,laki_laki,37.47
+D I YOGYAKARTA,2019,laki_laki,50.84
+Kulon Progo,2019,laki_laki,40.21
+Bantul,2019,laki_laki,53.11
+Gunung Kidul,2019,laki_laki,27.73
+Sleman,2019,laki_laki,62.69
+Kota Yogyakarta,2019,laki_laki,66.37
+JAWA TIMUR,2019,laki_laki,33.38
+Pacitan,2019,laki_laki,22.26
+Ponorogo,2019,laki_laki,28.67
+Trenggalek,2019,laki_laki,19.78
+Tulungagung,2019,laki_laki,30.09
+Blitar,2019,laki_laki,22.12
+Kediri,2019,laki_laki,35.91
+Malang,2019,laki_laki,25.4
+Lumajang,2019,laki_laki,16.73
+Jember,2019,laki_laki,22.07
+Banyuwangi,2019,laki_laki,26.52
+Bondowoso,2019,laki_laki,23.8
+Situbondo,2019,laki_laki,24.47
+Probolinggo,2019,laki_laki,19.86
+Pasuruan,2019,laki_laki,30.94
+Sidoarjo,2019,laki_laki,51.23
+Mojokerto,2019,laki_laki,43.79
+Jombang,2019,laki_laki,39.16
+Nganjuk,2019,laki_laki,30.92
+Madiun,2019,laki_laki,36.42
+Magetan,2019,laki_laki,29.64
+Ngawi,2019,laki_laki,25.77
+Bojonegoro,2019,laki_laki,27.64
+Tuban,2019,laki_laki,25.59
+Lamongan,2019,laki_laki,32.92
+Gresik,2019,laki_laki,53.72
+Bangkalan,2019,laki_laki,25.26
+Sampang,2019,laki_laki,15.51
+Pamekasan,2019,laki_laki,28.51
+Sumenep,2019,laki_laki,23.37
+Kota Kediri,2019,laki_laki,53.49
+Kota Blitar,2019,laki_laki,56.14
+Kota Malang,2019,laki_laki,56.74
+Kota Probolinggo,2019,laki_laki,47.57
+Kota Pasuruan,2019,laki_laki,48.96
+Kota Mojokerto,2019,laki_laki,65.29
+Kota Madiun,2019,laki_laki,71.64
+Kota Surabaya,2019,laki_laki,60.45
+Kota Batu,2019,laki_laki,45.64
+BANTEN,2019,laki_laki,43.97
+Pandeglang,2019,laki_laki,20.75
+Lebak,2019,laki_laki,17.48
+Tangerang,2019,laki_laki,35.89
+Serang,2019,laki_laki,29.15
+Kota Tangerang,2019,laki_laki,66.04
+Kota Cilegon,2019,laki_laki,56.59
+Kota Serang,2019,laki_laki,40.24
+Kota Tangerang Selatan,2019,laki_laki,74.14
+BALI,2019,laki_laki,52.36
+Jembrana,2019,laki_laki,45.67
+Tabanan,2019,laki_laki,51.08
+Badung,2019,laki_laki,67.69
+Gianyar,2019,laki_laki,51.5
+Klungkung,2019,laki_laki,52.25
+Bangli,2019,laki_laki,32.69
+Karangasem,2019,laki_laki,32.84
+Buleleng,2019,laki_laki,33.2
+Kota Denpasar,2019,laki_laki,71.22
+NUSA TENGGARA BARAT,2019,laki_laki,38.4
+Lombok Barat,2019,laki_laki,38.66
+Lombok Tengah,2019,laki_laki,30.56
+Lombok Timur,2019,laki_laki,31.68
+Sumbawa,2019,laki_laki,36.65
+Dompu,2019,laki_laki,51.43
+Bima,2019,laki_laki,44.08
+Sumbawa Barat,2019,laki_laki,46.1
+Lombok Utara,2019,laki_laki,28.01
+Kota Mataram,2019,laki_laki,51
+Kota Bima,2019,laki_laki,66.22
+NUSA TENGGARA TIMUR,2019,laki_laki,33.72
+Sumba Barat,2019,laki_laki,32.58
+Sumba Timur,2019,laki_laki,27.41
+Kupang,2019,laki_laki,36.67
+Timor Tengah Selatan,2019,laki_laki,28.16
+Timor Tengah Utara,2019,laki_laki,30.7
+Belu,2019,laki_laki,29.98
+Alor,2019,laki_laki,36.77
+Lembata,2019,laki_laki,39.61
+Flores Timur,2019,laki_laki,38.19
+Sikka,2019,laki_laki,29.59
+Ende,2019,laki_laki,33.17
+Ngada,2019,laki_laki,34.08
+Manggarai,2019,laki_laki,29.36
+Rote Ndao,2019,laki_laki,32.12
+Manggarai Barat,2019,laki_laki,25.09
+Sumba Tengah,2019,laki_laki,27.63
+Sumba Barat Daya,2019,laki_laki,17.21
+Nagekeo,2019,laki_laki,29.3
+Manggarai Timur,2019,laki_laki,25.23
+Sabu Raijua,2019,laki_laki,27.95
+Malaka,2019,laki_laki,33.3
+Kota Kupang,2019,laki_laki,70.46
+KALIMANTAN BARAT,2019,laki_laki,32.78
+Sambas,2019,laki_laki,26.32
+Bengkayang,2019,laki_laki,28.7
+Landak,2019,laki_laki,27.47
+Mempawah,2019,laki_laki,27.18
+Sanggau,2019,laki_laki,26.06
+Ketapang,2019,laki_laki,29.44
+Sintang,2019,laki_laki,24.94
+Kapuas Hulu,2019,laki_laki,33.92
+Sekadau,2019,laki_laki,24.79
+Melawi,2019,laki_laki,27.52
+Kayong Utara,2019,laki_laki,24.14
+Kubu Raya,2019,laki_laki,32.33
+Kota Pontianak,2019,laki_laki,61.42
+Kota Singkawang,2019,laki_laki,38.96
+KALIMANTAN TENGAH,2019,laki_laki,37.15
+Kotawaringin Barat,2019,laki_laki,43.01
+Kotawaringin Timur,2019,laki_laki,33.63
+Kapuas,2019,laki_laki,26.88
+Barito Selatan,2019,laki_laki,38.55
+Barito Utara,2019,laki_laki,36.66
+Sukamara,2019,laki_laki,38.07
+Lamandau,2019,laki_laki,33.26
+Seruyan,2019,laki_laki,30.26
+Katingan,2019,laki_laki,29.66
+Pulang Pisau,2019,laki_laki,29.37
+Gunung Mas,2019,laki_laki,34.78
+Barito Timur,2019,laki_laki,42.4
+Murung Raya,2019,laki_laki,26.12
+Kota Palangka Raya,2019,laki_laki,65.68
+KALIMANTAN SELATAN,2019,laki_laki,37.86
+Tanah Laut,2019,laki_laki,28.44
+Kotabaru,2019,laki_laki,31.79
+Banjar,2019,laki_laki,33.4
+Barito Kuala,2019,laki_laki,26.56
+Tapin,2019,laki_laki,36.68
+Hulu Sungai Selatan,2019,laki_laki,29
+Hulu Sungai Tengah,2019,laki_laki,35.78
+Hulu Sungai Utara,2019,laki_laki,26.51
+Tabalong,2019,laki_laki,43.94
+Tanah Bumbu,2019,laki_laki,34.42
+Balangan,2019,laki_laki,33.11
+Kota Banjarmasin,2019,laki_laki,53.83
+Kota Banjar Baru,2019,laki_laki,61.95
+KALIMANTAN TIMUR,2019,laki_laki,56.35
+Paser,2019,laki_laki,39.41
+Kutai Barat,2019,laki_laki,41.99
+Kutai Kartanegara,2019,laki_laki,52.09
+Kutai Timur,2019,laki_laki,50.05
+Berau,2019,laki_laki,54.68
+Penajam Paser Utara,2019,laki_laki,41
+Mahakam Ulu,2019,laki_laki,39.08
+Kota Balikpapan,2019,laki_laki,70.04
+Kota Samarinda,2019,laki_laki,62.53
+Kota Bontang,2019,laki_laki,68.2
+KALIMANTAN UTARA,2019,laki_laki,46.04
+Malinau,2019,laki_laki,43.99
+Bulungan,2019,laki_laki,46.39
+Tana Tidung,2019,laki_laki,45.16
+Nunukan,2019,laki_laki,35.76
+Kota Tarakan,2019,laki_laki,54.66
+SULAWESI UTARA,2019,laki_laki,45.95
+Bolaang Mongondow,2019,laki_laki,25.05
+Minahasa,2019,laki_laki,44.12
+Kepulauan Sangihe,2019,laki_laki,35.75
+Kepulauan Talaud,2019,laki_laki,42.98
+Minahasa Selatan,2019,laki_laki,36.12
+Minahasa Utara,2019,laki_laki,52.88
+Bolaang Mongondow Utara,2019,laki_laki,29.56
+Siau Tagulandang Biaro,2019,laki_laki,38.05
+Minahasa Tenggara,2019,laki_laki,36.61
+Bolaang Mongondow Selatan,2019,laki_laki,24.89
+Bolaang Mongondow Timur,2019,laki_laki,22.6
+Kota Manado,2019,laki_laki,70.61
+Kota Bitung,2019,laki_laki,54.02
+Kota Tomohon,2019,laki_laki,60.64
+Kota Kotamobagu,2019,laki_laki,49.49
+SULAWESI TENGAH,2019,laki_laki,39.05
+Banggai Kepulauan,2019,laki_laki,32.96
+Banggai,2019,laki_laki,36.53
+Morowali,2019,laki_laki,40.35
+Poso,2019,laki_laki,44.32
+Donggala,2019,laki_laki,29.84
+Toli-Toli,2019,laki_laki,34.14
+Buol,2019,laki_laki,32.43
+Parigi Moutong,2019,laki_laki,29.76
+Tojo Una-Una,2019,laki_laki,28.46
+Sigi,2019,laki_laki,36.23
+Banggai Laut,2019,laki_laki,37.23
+Morowali Utara,2019,laki_laki,41.55
+Kota Palu,2019,laki_laki,70.09
+SULAWESI SELATAN,2019,laki_laki,40.79
+Kepulauan Selayar,2019,laki_laki,38.3
+Bulukumba,2019,laki_laki,33.82
+Bantaeng,2019,laki_laki,25.23
+Jeneponto,2019,laki_laki,25.72
+Takalar,2019,laki_laki,33.05
+Gowa,2019,laki_laki,40.41
+Sinjai,2019,laki_laki,29.77
+Maros,2019,laki_laki,36.89
+Pangkajene dan Kepulauan,2019,laki_laki,36.63
+Barru,2019,laki_laki,33.91
+Bone,2019,laki_laki,28
+Soppeng,2019,laki_laki,33.25
+Wajo,2019,laki_laki,22.76
+Sidenreng Rappang,2019,laki_laki,32.5
+Pinrang,2019,laki_laki,33.8
+Enrekang,2019,laki_laki,48.09
+Luwu,2019,laki_laki,39.27
+Tana Toraja,2019,laki_laki,40.26
+Luwu Utara,2019,laki_laki,32.88
+Luwu Timur,2019,laki_laki,43.8
+Toraja Utara,2019,laki_laki,43.05
+Kota Makasar,2019,laki_laki,67.28
+Kota Parepare,2019,laki_laki,56.73
+Kota Palopo,2019,laki_laki,65.3
+SULAWESI TENGGARA,2019,laki_laki,47.02
+Buton,2019,laki_laki,38.86
+Muna,2019,laki_laki,47.77
+Konawe,2019,laki_laki,48.07
+Kolaka,2019,laki_laki,42.19
+Konawe Selatan,2019,laki_laki,38.41
+Bombana,2019,laki_laki,33.93
+Wakatobi,2019,laki_laki,37.66
+Kolaka Utara,2019,laki_laki,38.69
+Buton Utara,2019,laki_laki,49.15
+Konawe Utara,2019,laki_laki,46.87
+Kolaka Timur,2019,laki_laki,40.22
+Konawe Kepulauan,2019,laki_laki,45.53
+Muna Barat,2019,laki_laki,28.84
+Buton Tengah,2019,laki_laki,26.24
+Buton Selatan,2019,laki_laki,33.49
+Kota Kendari,2019,laki_laki,75.12
+Kota Baubau,2019,laki_laki,67.1
+GORONTALO,2019,laki_laki,31.68
+Boalemo,2019,laki_laki,21.29
+Gorontalo,2019,laki_laki,28.12
+Pohuwato,2019,laki_laki,27.45
+Bone Bolango,2019,laki_laki,32.3
+Gorontalo Utara,2019,laki_laki,21.07
+Kota Gorontalo,2019,laki_laki,54.38
+SULAWESI BARAT,2019,laki_laki,34.39
+Majene,2019,laki_laki,37.78
+Polewali Mandar,2019,laki_laki,33.05
+Mamasa,2019,laki_laki,41.82
+Mamuju,2019,laki_laki,34.21
+Mamuju Utara / Pasangkayu,2019,laki_laki,34.82
+Mamuju Tengah,2019,laki_laki,25.84
+MALUKU,2019,laki_laki,53.36
+Maluku Tenggara Barat / Kepulauan Tanimbar,2019,laki_laki,46.96
+Maluku Tenggara,2019,laki_laki,47.41
+Maluku Tengah,2019,laki_laki,49.18
+Buru,2019,laki_laki,42.98
+Kepulauan Aru,2019,laki_laki,36.28
+Seram Bagian Barat,2019,laki_laki,38.46
+Seram Bagian Timur,2019,laki_laki,35.53
+Maluku Barat Daya,2019,laki_laki,29.57
+Buru Selatan,2019,laki_laki,37.83
+Kota Ambon,2019,laki_laki,79.25
+Kota Tual,2019,laki_laki,60.93
+MALUKU UTARA,2019,laki_laki,45.36
+Halmahera Barat,2019,laki_laki,42.55
+Halmahera Tengah,2019,laki_laki,42.64
+Kepulauan Sula,2019,laki_laki,39.57
+Halmahera Selatan,2019,laki_laki,34.17
+Halmahera Utara,2019,laki_laki,40.66
+Halmahera Timur,2019,laki_laki,34.3
+Pulau Morotai,2019,laki_laki,28.95
+Pulau Taliabu,2019,laki_laki,27.76
+Kota Ternate,2019,laki_laki,77.43
+Kota Tidore Kepulauan,2019,laki_laki,45.2
+PAPUA BARAT,2019,laki_laki,56.65
+Fakfak,2019,laki_laki,50.92
+Kaimana,2019,laki_laki,51.55
+Teluk Wondama,2019,laki_laki,48.34
+Teluk Bintuni,2019,laki_laki,55.21
+Manokwari,2019,laki_laki,62.63
+Sorong Selatan,2019,laki_laki,45.7
+Sorong,2019,laki_laki,43.52
+Raja Ampat,2019,laki_laki,45.55
+Tambrauw,2019,laki_laki,39.48
+Maybrat,2019,laki_laki,56.24
+Manokwari Selatan,2019,laki_laki,54.06
+Pegunungan Arfak,2019,laki_laki,38.67
+Kota Sorong,2019,laki_laki,68.52
+PAPUA,2019,laki_laki,38.81
+Merauke,2019,laki_laki,42.34
+Jayawijaya,2019,laki_laki,38.02
+Jayapura,2019,laki_laki,59.27
+Nabire,2019,laki_laki,56.18
+Kepulauan Yapen,2019,laki_laki,53.68
+Biak Numfor,2019,laki_laki,68.16
+Paniai,2019,laki_laki,26.22
+Puncak Jaya,2019,laki_laki,14.27
+Mimika,2019,laki_laki,63.04
+Boven Digoel,2019,laki_laki,48.38
+Mappi,2019,laki_laki,19.77
+Asmat,2019,laki_laki,19.61
+Yahukimo,2019,laki_laki,20.18
+Pegunungan Bintang,2019,laki_laki,27.7
+Tolikara,2019,laki_laki,18.26
+Sarmi,2019,laki_laki,45.86
+Keerom,2019,laki_laki,37.86
+Waropen,2019,laki_laki,51.16
+Supiori,2019,laki_laki,49.88
+Mamberamo Raya,2019,laki_laki,22.23
+Nduga,2019,laki_laki,4.21
+Lanny Jaya,2019,laki_laki,20.9
+Mamberamo Tengah,2019,laki_laki,25.75
+Yalimo,2019,laki_laki,21.14
+Puncak,2019,laki_laki,15.2
+Dogiyai,2019,laki_laki,13.98
+Intan Jaya,2019,laki_laki,18.62
+Deiyai,2019,laki_laki,13.72
+Kota Jayapura,2019,laki_laki,75.25
+INDONESIA,2019,laki_laki,39.77
+ACEH,2019,perempuan,36.87
+Simeulue,2019,perempuan,30.25
+Aceh Singkil,2019,perempuan,34.21
+Aceh Selatan,2019,perempuan,36.68
+Aceh Tenggara,2019,perempuan,30.57
+Aceh Timur,2019,perempuan,19.49
+Aceh Tengah,2019,perempuan,38.4
+Aceh Barat,2019,perempuan,34.34
+Aceh Besar,2019,perempuan,51.84
+Pidie,2019,perempuan,20.98
+Bireuen,2019,perempuan,40.18
+Aceh Utara,2019,perempuan,29.77
+Aceh Barat Daya,2019,perempuan,34.71
+Gayo Lues,2019,perempuan,34.75
+Aceh Tamiang,2019,perempuan,37.41
+Nagan Raya,2019,perempuan,35.96
+Aceh Jaya,2019,perempuan,32.87
+Bener Meriah,2019,perempuan,43.29
+Pidie Jaya,2019,perempuan,31.61
+Kota Banda Aceh,2019,perempuan,67.19
+Kota Sabang,2019,perempuan,58.78
+Kota Langsa,2019,perempuan,59.85
+Kota Lhokseumawe,2019,perempuan,47.47
+Kota Subulussalam,2019,perempuan,35.56
+SUMATERA UTARA,2019,perempuan,45.65
+Nias,2019,perempuan,15.89
+Mandailing Natal,2019,perempuan,30.38
+Tapanuli Selatan,2019,perempuan,38.22
+Tapanuli Tengah,2019,perempuan,38.06
+Tapanuli Utara,2019,perempuan,47.57
+Toba Samosir / Toba,2019,perempuan,54.63
+Labuhan Batu,2019,perempuan,41.96
+Asahan,2019,perempuan,33.78
+Simalungun,2019,perempuan,46.33
+Dairi,2019,perempuan,43.98
+Karo,2019,perempuan,48.59
+Deli Serdang,2019,perempuan,50.77
+Langkat,2019,perempuan,36.23
+Nias Selatan,2019,perempuan,21.99
+Humbang Hasundutan,2019,perempuan,45.93
+Pakpak Bharat,2019,perempuan,35.17
+Samosir,2019,perempuan,42.95
+Serdang Bedagai,2019,perempuan,34.5
+Batu Bara,2019,perempuan,30.79
+Padang Lawas Utara,2019,perempuan,38.97
+Padang Lawas,2019,perempuan,30.04
+Labuhan Batu Selatan,2019,perempuan,34.61
+Labuhan Batu Utara,2019,perempuan,29.05
+Nias Utara,2019,perempuan,16.78
+Nias Barat,2019,perempuan,16.36
+Kota Sibolga,2019,perempuan,54.12
+Kota Tanjung Balai,2019,perempuan,44.3
+Kota Pematang Siantar,2019,perempuan,64.12
+Kota Tebing Tinggi,2019,perempuan,52.68
+Kota Medan,2019,perempuan,66.78
+Kota Binjai,2019,perempuan,55.99
+Kota Padangsidimpuan,2019,perempuan,55.42
+Kota Gunungsitoli,2019,perempuan,34.22
+SUMATERA BARAT,2019,perempuan,40.37
+Kepulauan Mentawai,2019,perempuan,23.35
+Pesisir Selatan,2019,perempuan,37.5
+Solok,2019,perempuan,30.49
+Sijunjung,2019,perempuan,31.31
+Tanah Datar,2019,perempuan,39.52
+Padang Pariaman,2019,perempuan,34.25
+Agam,2019,perempuan,42.08
+Lima Puluh Kota,2019,perempuan,28.11
+Pasaman,2019,perempuan,31.5
+Solok Selatan,2019,perempuan,31.42
+Dharmasraya,2019,perempuan,33.06
+Pasaman Barat,2019,perempuan,35.18
+Kota Padang,2019,perempuan,55.94
+Kota Solok,2019,perempuan,53.56
+Kota Sawah Lunto,2019,perempuan,51.27
+Kota Padang Panjang,2019,perempuan,61.68
+Kota Bukittinggi,2019,perempuan,59.09
+Kota Payakumbuh,2019,perempuan,61.21
+Kota Pariaman,2019,perempuan,53.64
+RIAU,2019,perempuan,38.56
+Kuantan Singingi,2019,perempuan,36.39
+Indragiri Hulu,2019,perempuan,29.97
+Indragiri Hilir,2019,perempuan,20.76
+Pelalawan,2019,perempuan,33.11
+Siak,2019,perempuan,40.43
+Kampar,2019,perempuan,38.01
+Rokan Hulu,2019,perempuan,27.15
+Bengkalis,2019,perempuan,45.58
+Rokan Hilir,2019,perempuan,28.61
+Kepulauan Meranti,2019,perempuan,23.97
+Kota Pekanbaru,2019,perempuan,64.49
+Kota Dumai,2019,perempuan,51.1
+JAMBI,2019,perempuan,32.03
+Kerinci,2019,perempuan,29.33
+Merangin,2019,perempuan,22.58
+Sarolangun,2019,perempuan,25.05
+Batang Hari,2019,perempuan,28.83
+Muaro Jambi,2019,perempuan,28.41
+Tanjung Jabung Timur,2019,perempuan,17.35
+Tanjung Jabung Barat,2019,perempuan,19.25
+Tebo,2019,perempuan,20.33
+Bungo,2019,perempuan,26.71
+Kota Jambi,2019,perempuan,63.83
+Kota Sungai Penuh,2019,perempuan,53.74
+SUMATERA SELATAN,2019,perempuan,29.86
+Ogan Komering Ulu,2019,perempuan,33.96
+Ogan Komering Ilir,2019,perempuan,13.98
+Muara Enim,2019,perempuan,26.84
+Lahat,2019,perempuan,32.07
+Musi Rawas,2019,perempuan,21.9
+Musi Banyuasin,2019,perempuan,19.49
+Banyu Asin,2019,perempuan,21.91
+Ogan Komering Ulu Selatan,2019,perempuan,20.38
+Ogan Komering Ulu Timur,2019,perempuan,21.66
+Ogan Ilir,2019,perempuan,22.2
+Empat Lawang,2019,perempuan,18.29
+Penukal Abab Lematang Ilir,2019,perempuan,22.15
+Musi Rawas Utara,2019,perempuan,15.89
+Kota Palembang,2019,perempuan,52.86
+Kota Prabumulih,2019,perempuan,47.43
+Kota Pagar Alam,2019,perempuan,38.34
+Kota Lubuklinggau,2019,perempuan,47.56
+BENGKULU,2019,perempuan,35.81
+Bengkulu Selatan,2019,perempuan,38.58
+Rejang Lebong,2019,perempuan,34.12
+Bengkulu Utara,2019,perempuan,25.04
+Kaur,2019,perempuan,31.21
+Seluma,2019,perempuan,27.1
+Mukomuko,2019,perempuan,28.86
+Lebong,2019,perempuan,25.96
+Kepahiang,2019,perempuan,26.06
+Bengkulu Tengah,2019,perempuan,22.39
+Kota Bengkulu,2019,perempuan,65.46
+LAMPUNG,2019,perempuan,26.1
+Lampung Barat,2019,perempuan,24.82
+Tanggamus,2019,perempuan,17.84
+Lampung Selatan,2019,perempuan,22.39
+Lampung Timur,2019,perempuan,19.56
+Lampung Tengah,2019,perempuan,22.75
+Lampung Utara,2019,perempuan,23.43
+Way Kanan,2019,perempuan,16.73
+Tulangbawang,2019,perempuan,17.55
+Pesawaran,2019,perempuan,24.48
+Pringsewu,2019,perempuan,28.63
+Mesuji,2019,perempuan,9.92
+Tulang Bawang Barat,2019,perempuan,18.81
+Pesisir Barat,2019,perempuan,25.81
+Kota Bandar Lampung,2019,perempuan,54.69
+Kota Metro,2019,perempuan,56
+KEP. BANGKA BELITUNG,2019,perempuan,30.76
+Bangka,2019,perempuan,33.1
+Belitung,2019,perempuan,35.51
+Bangka Barat,2019,perempuan,22.27
+Bangka Tengah,2019,perempuan,25.64
+Bangka Selatan,2019,perempuan,16.9
+Belitung Timur,2019,perempuan,27.02
+Kota Pangkal Pinang,2019,perempuan,50.1
+KEPULAUAN RIAU,2019,perempuan,55.04
+Karimun,2019,perempuan,27.53
+Bintan,2019,perempuan,26.79
+Natuna,2019,perempuan,29.13
+Lingga,2019,perempuan,25.56
+Kepulauan Anambas,2019,perempuan,25.18
+Kota Batam,2019,perempuan,69.27
+Kota Tanjung Pinang,2019,perempuan,52.46
+DKI JAKARTA,2019,perempuan,58.88
+Kep. Seribu,2019,perempuan,30.93
+Kota Jakarta Selatan,2019,perempuan,63.76
+Kota Jakarta Timur,2019,perempuan,64.47
+Kota Jakarta Pusat,2019,perempuan,59.01
+Kota Jakarta Barat,2019,perempuan,52.13
+Kota Jakarta Utara,2019,perempuan,53.27
+JAWA BARAT,2019,perempuan,28.89
+Bogor,2019,perempuan,30.04
+Sukabumi,2019,perempuan,13.48
+Cianjur,2019,perempuan,13.25
+Bandung,2019,perempuan,30.23
+Garut,2019,perempuan,17.79
+Tasikmalaya,2019,perempuan,14.93
+Ciamis,2019,perempuan,18.38
+Kuningan,2019,perempuan,17.24
+Cirebon,2019,perempuan,18.31
+Majalengka,2019,perempuan,13.91
+Sumedang,2019,perempuan,22.84
+Indramayu,2019,perempuan,14
+Subang,2019,perempuan,16.11
+Purwakarta,2019,perempuan,24.11
+Karawang,2019,perempuan,25.69
+Bekasi,2019,perempuan,34.29
+Bandung Barat,2019,perempuan,24.16
+Pangandaran,2019,perempuan,16.12
+Kota Bogor,2019,perempuan,48.51
+Kota Sukabumi,2019,perempuan,41.86
+Kota Bandung,2019,perempuan,53.15
+Kota Cirebon,2019,perempuan,43.6
+Kota Bekasi,2019,perempuan,53.23
+Kota Depok,2019,perempuan,56.76
+Kota Cimahi,2019,perempuan,47.2
+Kota Tasikmalaya,2019,perempuan,34.51
+Kota Banjar,2019,perempuan,25.59
+JAWA TENGAH,2019,perempuan,23.94
+Cilacap,2019,perempuan,20.09
+Banyumas,2019,perempuan,22.83
+Purbalingga,2019,perempuan,18.07
+Banjarnegara,2019,perempuan,15.29
+Kebumen,2019,perempuan,23.13
+Purworejo,2019,perempuan,26.12
+Wonosobo,2019,perempuan,13.8
+Magelang,2019,perempuan,25.24
+Boyolali,2019,perempuan,26.28
+Klaten,2019,perempuan,35.03
+Sukoharjo,2019,perempuan,41.49
+Wonogiri,2019,perempuan,21.11
+Karanganyar,2019,perempuan,33.14
+Sragen,2019,perempuan,25.8
+Grobogan,2019,perempuan,12
+Blora,2019,perempuan,20.07
+Rembang,2019,perempuan,19.02
+Pati,2019,perempuan,22.63
+Kudus,2019,perempuan,29.93
+Jepara,2019,perempuan,17.57
+Demak,2019,perempuan,20.62
+Semarang,2019,perempuan,29.12
+Temanggung,2019,perempuan,19.32
+Kendal,2019,perempuan,21.74
+Batang,2019,perempuan,14.31
+Pekalongan,2019,perempuan,18.28
+Pemalang,2019,perempuan,13.57
+Tegal,2019,perempuan,19.09
+Brebes,2019,perempuan,12.47
+Kota Magelang,2019,perempuan,47.61
+Kota Surakarta,2019,perempuan,53.76
+Kota Salatiga,2019,perempuan,51.32
+Kota Semarang,2019,perempuan,47.15
+Kota Pekalongan,2019,perempuan,34.62
+Kota Tegal,2019,perempuan,32
+D I YOGYAKARTA,2019,perempuan,43
+Kulon Progo,2019,perempuan,32.87
+Bantul,2019,perempuan,45.67
+Gunung Kidul,2019,perempuan,21.87
+Sleman,2019,perempuan,53.87
+Kota Yogyakarta,2019,perempuan,59.87
+JAWA TIMUR,2019,perempuan,24.25
+Pacitan,2019,perempuan,17.19
+Ponorogo,2019,perempuan,24.01
+Trenggalek,2019,perempuan,15.68
+Tulungagung,2019,perempuan,21.13
+Blitar,2019,perempuan,18.56
+Kediri,2019,perempuan,28.41
+Malang,2019,perempuan,19.27
+Lumajang,2019,perempuan,12.1
+Jember,2019,perempuan,15.97
+Banyuwangi,2019,perempuan,20.12
+Bondowoso,2019,perempuan,12.58
+Situbondo,2019,perempuan,13.8
+Probolinggo,2019,perempuan,10.81
+Pasuruan,2019,perempuan,21.79
+Sidoarjo,2019,perempuan,41.57
+Mojokerto,2019,perempuan,31.93
+Jombang,2019,perempuan,29.81
+Nganjuk,2019,perempuan,23.65
+Madiun,2019,perempuan,30.92
+Magetan,2019,perempuan,23.56
+Ngawi,2019,perempuan,19.66
+Bojonegoro,2019,perempuan,18.31
+Tuban,2019,perempuan,17.74
+Lamongan,2019,perempuan,27.08
+Gresik,2019,perempuan,41.4
+Bangkalan,2019,perempuan,13.12
+Sampang,2019,perempuan,8.61
+Pamekasan,2019,perempuan,18.29
+Sumenep,2019,perempuan,11.15
+Kota Kediri,2019,perempuan,37.59
+Kota Blitar,2019,perempuan,55.38
+Kota Malang,2019,perempuan,42.08
+Kota Probolinggo,2019,perempuan,31.34
+Kota Pasuruan,2019,perempuan,39.31
+Kota Mojokerto,2019,perempuan,55.63
+Kota Madiun,2019,perempuan,62.88
+Kota Surabaya,2019,perempuan,41.16
+Kota Batu,2019,perempuan,38.96
+BANTEN,2019,perempuan,35.09
+Pandeglang,2019,perempuan,13.26
+Lebak,2019,perempuan,9.15
+Tangerang,2019,perempuan,26.99
+Serang,2019,perempuan,20.11
+Kota Tangerang,2019,perempuan,58.37
+Kota Cilegon,2019,perempuan,43.33
+Kota Serang,2019,perempuan,32.93
+Kota Tangerang Selatan,2019,perempuan,63.75
+BALI,2019,perempuan,37.68
+Jembrana,2019,perempuan,26.29
+Tabanan,2019,perempuan,36.2
+Badung,2019,perempuan,56.87
+Gianyar,2019,perempuan,33.36
+Klungkung,2019,perempuan,35.21
+Bangli,2019,perempuan,18.13
+Karangasem,2019,perempuan,15.3
+Buleleng,2019,perempuan,18.49
+Kota Denpasar,2019,perempuan,62.33
+NUSA TENGGARA BARAT,2019,perempuan,26.74
+Lombok Barat,2019,perempuan,23.92
+Lombok Tengah,2019,perempuan,17.42
+Lombok Timur,2019,perempuan,21.53
+Sumbawa,2019,perempuan,29.31
+Dompu,2019,perempuan,38.19
+Bima,2019,perempuan,35.98
+Sumbawa Barat,2019,perempuan,33.58
+Lombok Utara,2019,perempuan,17.49
+Kota Mataram,2019,perempuan,39.41
+Kota Bima,2019,perempuan,56.98
+NUSA TENGGARA TIMUR,2019,perempuan,27.2
+Sumba Barat,2019,perempuan,25.3
+Sumba Timur,2019,perempuan,27.82
+Kupang,2019,perempuan,28.34
+Timor Tengah Selatan,2019,perempuan,23.3
+Timor Tengah Utara,2019,perempuan,23.47
+Belu,2019,perempuan,22.64
+Alor,2019,perempuan,28.13
+Lembata,2019,perempuan,27.31
+Flores Timur,2019,perempuan,27.59
+Sikka,2019,perempuan,24.27
+Ende,2019,perempuan,25.14
+Ngada,2019,perempuan,32.53
+Manggarai,2019,perempuan,22.44
+Rote Ndao,2019,perempuan,23.67
+Manggarai Barat,2019,perempuan,17.97
+Sumba Tengah,2019,perempuan,24.97
+Sumba Barat Daya,2019,perempuan,19.86
+Nagekeo,2019,perempuan,27.52
+Manggarai Timur,2019,perempuan,14.83
+Sabu Raijua,2019,perempuan,24.53
+Malaka,2019,perempuan,27.43
+Kota Kupang,2019,perempuan,61.66
+KALIMANTAN BARAT,2019,perempuan,26.08
+Sambas,2019,perempuan,17.63
+Bengkayang,2019,perempuan,19.84
+Landak,2019,perempuan,19.14
+Mempawah,2019,perempuan,24.11
+Sanggau,2019,perempuan,18.83
+Ketapang,2019,perempuan,20.44
+Sintang,2019,perempuan,20.86
+Kapuas Hulu,2019,perempuan,24.06
+Sekadau,2019,perempuan,18.87
+Melawi,2019,perempuan,19.27
+Kayong Utara,2019,perempuan,17.59
+Kubu Raya,2019,perempuan,27.69
+Kota Pontianak,2019,perempuan,54.87
+Kota Singkawang,2019,perempuan,33.91
+KALIMANTAN TENGAH,2019,perempuan,31
+Kotawaringin Barat,2019,perempuan,30.14
+Kotawaringin Timur,2019,perempuan,27.41
+Kapuas,2019,perempuan,22.24
+Barito Selatan,2019,perempuan,31.26
+Barito Utara,2019,perempuan,32.07
+Sukamara,2019,perempuan,23.6
+Lamandau,2019,perempuan,27.21
+Seruyan,2019,perempuan,23.55
+Katingan,2019,perempuan,24.88
+Pulang Pisau,2019,perempuan,25.9
+Gunung Mas,2019,perempuan,31.86
+Barito Timur,2019,perempuan,34.72
+Murung Raya,2019,perempuan,21.65
+Kota Palangka Raya,2019,perempuan,63.74
+KALIMANTAN SELATAN,2019,perempuan,30.14
+Tanah Laut,2019,perempuan,21.62
+Kotabaru,2019,perempuan,24.36
+Banjar,2019,perempuan,23.75
+Barito Kuala,2019,perempuan,20.37
+Tapin,2019,perempuan,26.07
+Hulu Sungai Selatan,2019,perempuan,24.06
+Hulu Sungai Tengah,2019,perempuan,31.01
+Hulu Sungai Utara,2019,perempuan,23.04
+Tabalong,2019,perempuan,31.5
+Tanah Bumbu,2019,perempuan,25.19
+Balangan,2019,perempuan,25.3
+Kota Banjarmasin,2019,perempuan,46.62
+Kota Banjar Baru,2019,perempuan,52.51
+KALIMANTAN TIMUR,2019,perempuan,44.59
+Paser,2019,perempuan,34.86
+Kutai Barat,2019,perempuan,28.56
+Kutai Kartanegara,2019,perempuan,39.53
+Kutai Timur,2019,perempuan,37.12
+Berau,2019,perempuan,40.09
+Penajam Paser Utara,2019,perempuan,30.37
+Mahakam Ulu,2019,perempuan,32.61
+Kota Balikpapan,2019,perempuan,56.58
+Kota Samarinda,2019,perempuan,49.84
+Kota Bontang,2019,perempuan,56.09
+KALIMANTAN UTARA,2019,perempuan,38.42
+Malinau,2019,perempuan,32.8
+Bulungan,2019,perempuan,39.44
+Tana Tidung,2019,perempuan,36.23
+Nunukan,2019,perempuan,28.47
+Kota Tarakan,2019,perempuan,47.13
+SULAWESI UTARA,2019,perempuan,45.77
+Bolaang Mongondow,2019,perempuan,25.02
+Minahasa,2019,perempuan,50.17
+Kepulauan Sangihe,2019,perempuan,32.23
+Kepulauan Talaud,2019,perempuan,42.21
+Minahasa Selatan,2019,perempuan,37.46
+Minahasa Utara,2019,perempuan,50.2
+Bolaang Mongondow Utara,2019,perempuan,30.97
+Siau Tagulandang Biaro,2019,perempuan,37.52
+Minahasa Tenggara,2019,perempuan,37.83
+Bolaang Mongondow Selatan,2019,perempuan,25.81
+Bolaang Mongondow Timur,2019,perempuan,20.96
+Kota Manado,2019,perempuan,67.52
+Kota Bitung,2019,perempuan,49.43
+Kota Tomohon,2019,perempuan,58.76
+Kota Kotamobagu,2019,perempuan,47.8
+SULAWESI TENGAH,2019,perempuan,33.34
+Banggai Kepulauan,2019,perempuan,29.2
+Banggai,2019,perempuan,25.86
+Morowali,2019,perempuan,34.83
+Poso,2019,perempuan,39.04
+Donggala,2019,perempuan,26.83
+Toli-Toli,2019,perempuan,29.95
+Buol,2019,perempuan,29.6
+Parigi Moutong,2019,perempuan,25.06
+Tojo Una-Una,2019,perempuan,25.22
+Sigi,2019,perempuan,27.91
+Banggai Laut,2019,perempuan,21.78
+Morowali Utara,2019,perempuan,31.64
+Kota Palu,2019,perempuan,66.97
+SULAWESI SELATAN,2019,perempuan,34.87
+Kepulauan Selayar,2019,perempuan,32.87
+Bulukumba,2019,perempuan,29.6
+Bantaeng,2019,perempuan,22.61
+Jeneponto,2019,perempuan,23.04
+Takalar,2019,perempuan,26.99
+Gowa,2019,perempuan,32.19
+Sinjai,2019,perempuan,31.99
+Maros,2019,perempuan,29.48
+Pangkajene dan Kepulauan,2019,perempuan,27.51
+Barru,2019,perempuan,32.1
+Bone,2019,perempuan,24.65
+Soppeng,2019,perempuan,30.94
+Wajo,2019,perempuan,17.61
+Sidenreng Rappang,2019,perempuan,27.41
+Pinrang,2019,perempuan,27.57
+Enrekang,2019,perempuan,35.84
+Luwu,2019,perempuan,35.54
+Tana Toraja,2019,perempuan,37.88
+Luwu Utara,2019,perempuan,28.15
+Luwu Timur,2019,perempuan,33.86
+Toraja Utara,2019,perempuan,36.43
+Kota Makasar,2019,perempuan,61.61
+Kota Parepare,2019,perempuan,49.05
+Kota Palopo,2019,perempuan,55.85
+SULAWESI TENGGARA,2019,perempuan,39.1
+Buton,2019,perempuan,27.81
+Muna,2019,perempuan,34.93
+Konawe,2019,perempuan,37.42
+Kolaka,2019,perempuan,37.9
+Konawe Selatan,2019,perempuan,27.43
+Bombana,2019,perempuan,32.46
+Wakatobi,2019,perempuan,27.6
+Kolaka Utara,2019,perempuan,31.71
+Buton Utara,2019,perempuan,35.13
+Konawe Utara,2019,perempuan,38.96
+Kolaka Timur,2019,perempuan,33.68
+Konawe Kepulauan,2019,perempuan,35.18
+Muna Barat,2019,perempuan,22.73
+Buton Tengah,2019,perempuan,33.92
+Buton Selatan,2019,perempuan,23.98
+Kota Kendari,2019,perempuan,71.15
+Kota Baubau,2019,perempuan,59.58
+GORONTALO,2019,perempuan,35.11
+Boalemo,2019,perempuan,21.91
+Gorontalo,2019,perempuan,32.33
+Pohuwato,2019,perempuan,29.37
+Bone Bolango,2019,perempuan,39.51
+Gorontalo Utara,2019,perempuan,24.02
+Kota Gorontalo,2019,perempuan,56.32
+SULAWESI BARAT,2019,perempuan,28.91
+Majene,2019,perempuan,35.68
+Polewali Mandar,2019,perempuan,26.83
+Mamasa,2019,perempuan,33.6
+Mamuju,2019,perempuan,30.33
+Mamuju Utara / Pasangkayu,2019,perempuan,27.25
+Mamuju Tengah,2019,perempuan,20.36
+MALUKU,2019,perempuan,48.77
+Maluku Tenggara Barat / Kepulauan Tanimbar,2019,perempuan,42.53
+Maluku Tenggara,2019,perempuan,40.33
+Maluku Tengah,2019,perempuan,47.55
+Buru,2019,perempuan,32.28
+Kepulauan Aru,2019,perempuan,31.17
+Seram Bagian Barat,2019,perempuan,37.18
+Seram Bagian Timur,2019,perempuan,28.1
+Maluku Barat Daya,2019,perempuan,27.99
+Buru Selatan,2019,perempuan,30.6
+Kota Ambon,2019,perempuan,73.71
+Kota Tual,2019,perempuan,51.66
+MALUKU UTARA,2019,perempuan,37.16
+Halmahera Barat,2019,perempuan,33.09
+Halmahera Tengah,2019,perempuan,35.94
+Kepulauan Sula,2019,perempuan,30.61
+Halmahera Selatan,2019,perempuan,26.23
+Halmahera Utara,2019,perempuan,32.7
+Halmahera Timur,2019,perempuan,25.73
+Pulau Morotai,2019,perempuan,23.14
+Pulau Taliabu,2019,perempuan,20.81
+Kota Ternate,2019,perempuan,66.41
+Kota Tidore Kepulauan,2019,perempuan,41.13
+PAPUA BARAT,2019,perempuan,47.32
+Fakfak,2019,perempuan,48.75
+Kaimana,2019,perempuan,41.69
+Teluk Wondama,2019,perempuan,37.96
+Teluk Bintuni,2019,perempuan,47.32
+Manokwari,2019,perempuan,49.99
+Sorong Selatan,2019,perempuan,32.17
+Sorong,2019,perempuan,38.1
+Raja Ampat,2019,perempuan,38.02
+Tambrauw,2019,perempuan,23
+Maybrat,2019,perempuan,43.54
+Manokwari Selatan,2019,perempuan,35.67
+Pegunungan Arfak,2019,perempuan,14.78
+Kota Sorong,2019,perempuan,61.49
+PAPUA,2019,perempuan,26.98
+Merauke,2019,perempuan,35.49
+Jayawijaya,2019,perempuan,23.4
+Jayapura,2019,perempuan,50.73
+Nabire,2019,perempuan,48.91
+Kepulauan Yapen,2019,perempuan,41.81
+Biak Numfor,2019,perempuan,57.41
+Paniai,2019,perempuan,14.65
+Puncak Jaya,2019,perempuan,4.83
+Mimika,2019,perempuan,50.54
+Boven Digoel,2019,perempuan,41.93
+Mappi,2019,perempuan,11.79
+Asmat,2019,perempuan,11.13
+Yahukimo,2019,perempuan,5.29
+Pegunungan Bintang,2019,perempuan,11.36
+Tolikara,2019,perempuan,4.65
+Sarmi,2019,perempuan,30.23
+Keerom,2019,perempuan,29.62
+Waropen,2019,perempuan,38.83
+Supiori,2019,perempuan,38.2
+Mamberamo Raya,2019,perempuan,13.03
+Nduga,2019,perempuan,0.39
+Lanny Jaya,2019,perempuan,4.72
+Mamberamo Tengah,2019,perempuan,10.13
+Yalimo,2019,perempuan,10.55
+Puncak,2019,perempuan,2.35
+Dogiyai,2019,perempuan,4.48
+Intan Jaya,2019,perempuan,8.48
+Deiyai,2019,perempuan,2.46
+Kota Jayapura,2019,perempuan,64.46
+INDONESIA,2019,perempuan,31.85
+ACEH,2020,laki_laki,46.56
+Simeulue,2020,laki_laki,52.52
+Aceh Singkil,2020,laki_laki,43.02
+Aceh Selatan,2020,laki_laki,43.19
+Aceh Tenggara,2020,laki_laki,52.33
+Aceh Timur,2020,laki_laki,35.48
+Aceh Tengah,2020,laki_laki,52.1
+Aceh Barat,2020,laki_laki,46.37
+Aceh Besar,2020,laki_laki,49.92
+Pidie,2020,laki_laki,43.71
+Bireuen,2020,laki_laki,40.43
+Aceh Utara,2020,laki_laki,38.63
+Aceh Barat Daya,2020,laki_laki,41.03
+Gayo Lues,2020,laki_laki,47.63
+Aceh Tamiang,2020,laki_laki,37.29
+Nagan Raya,2020,laki_laki,48.04
+Aceh Jaya,2020,laki_laki,36.87
+Bener Meriah,2020,laki_laki,46.04
+Pidie Jaya,2020,laki_laki,44.91
+Kota Banda Aceh,2020,laki_laki,74.18
+Kota Sabang,2020,laki_laki,65.54
+Kota Langsa,2020,laki_laki,62.72
+Kota Lhokseumawe,2020,laki_laki,61.19
+Kota Subulussalam,2020,laki_laki,48.16
+SUMATERA UTARA,2020,laki_laki,51.77
+Nias,2020,laki_laki,33.66
+Mandailing Natal,2020,laki_laki,39.7
+Tapanuli Selatan,2020,laki_laki,44.94
+Tapanuli Tengah,2020,laki_laki,39.06
+Tapanuli Utara,2020,laki_laki,52.61
+Toba Samosir / Toba,2020,laki_laki,60.02
+Labuhan Batu,2020,laki_laki,43.87
+Asahan,2020,laki_laki,41.34
+Simalungun,2020,laki_laki,53.6
+Dairi,2020,laki_laki,47.28
+Karo,2020,laki_laki,56.71
+Deli Serdang,2020,laki_laki,57.45
+Langkat,2020,laki_laki,38.3
+Nias Selatan,2020,laki_laki,34.01
+Humbang Hasundutan,2020,laki_laki,45
+Pakpak Bharat,2020,laki_laki,46.88
+Samosir,2020,laki_laki,58.05
+Serdang Bedagai,2020,laki_laki,38.44
+Batu Bara,2020,laki_laki,37.12
+Padang Lawas Utara,2020,laki_laki,47.16
+Padang Lawas,2020,laki_laki,39.77
+Labuhan Batu Selatan,2020,laki_laki,41.07
+Labuhan Batu Utara,2020,laki_laki,40.83
+Nias Utara,2020,laki_laki,32.83
+Nias Barat,2020,laki_laki,38.1
+Kota Sibolga,2020,laki_laki,53.43
+Kota Tanjung Balai,2020,laki_laki,46.3
+Kota Pematang Siantar,2020,laki_laki,67.74
+Kota Tebing Tinggi,2020,laki_laki,58.53
+Kota Medan,2020,laki_laki,70.71
+Kota Binjai,2020,laki_laki,66.99
+Kota Padangsidimpuan,2020,laki_laki,62.94
+Kota Gunungsitoli,2020,laki_laki,52.01
+SUMATERA BARAT,2020,laki_laki,44.68
+Kepulauan Mentawai,2020,laki_laki,32.26
+Pesisir Selatan,2020,laki_laki,41
+Solok,2020,laki_laki,28.03
+Sijunjung,2020,laki_laki,32.44
+Tanah Datar,2020,laki_laki,39.89
+Padang Pariaman,2020,laki_laki,37.05
+Agam,2020,laki_laki,43.07
+Lima Puluh Kota,2020,laki_laki,30.27
+Pasaman,2020,laki_laki,31.84
+Solok Selatan,2020,laki_laki,36.6
+Dharmasraya,2020,laki_laki,40.35
+Pasaman Barat,2020,laki_laki,35.44
+Kota Padang,2020,laki_laki,70.02
+Kota Solok,2020,laki_laki,60.86
+Kota Sawah Lunto,2020,laki_laki,53.54
+Kota Padang Panjang,2020,laki_laki,65.41
+Kota Bukittinggi,2020,laki_laki,64.3
+Kota Payakumbuh,2020,laki_laki,60.29
+Kota Pariaman,2020,laki_laki,56.91
+RIAU,2020,laki_laki,45.76
+Kuantan Singingi,2020,laki_laki,35.61
+Indragiri Hulu,2020,laki_laki,37.6
+Indragiri Hilir,2020,laki_laki,25.49
+Pelalawan,2020,laki_laki,41.03
+Siak,2020,laki_laki,50.71
+Kampar,2020,laki_laki,44.8
+Rokan Hulu,2020,laki_laki,34.71
+Bengkalis,2020,laki_laki,55.4
+Rokan Hilir,2020,laki_laki,34.85
+Kepulauan Meranti,2020,laki_laki,31.21
+Kota Pekanbaru,2020,laki_laki,73.94
+Kota Dumai,2020,laki_laki,58.31
+JAMBI,2020,laki_laki,38.96
+Kerinci,2020,laki_laki,45.21
+Merangin,2020,laki_laki,28.49
+Sarolangun,2020,laki_laki,33.54
+Batang Hari,2020,laki_laki,35.84
+Muaro Jambi,2020,laki_laki,36.52
+Tanjung Jabung Timur,2020,laki_laki,20.8
+Tanjung Jabung Barat,2020,laki_laki,28.45
+Tebo,2020,laki_laki,28.57
+Bungo,2020,laki_laki,39.85
+Kota Jambi,2020,laki_laki,64.75
+Kota Sungai Penuh,2020,laki_laki,60.1
+SUMATERA SELATAN,2020,laki_laki,38.41
+Ogan Komering Ulu,2020,laki_laki,39.95
+Ogan Komering Ilir,2020,laki_laki,24.78
+Muara Enim,2020,laki_laki,35.93
+Lahat,2020,laki_laki,40.14
+Musi Rawas,2020,laki_laki,26.47
+Musi Banyuasin,2020,laki_laki,29.08
+Banyu Asin,2020,laki_laki,28.66
+Ogan Komering Ulu Selatan,2020,laki_laki,26.3
+Ogan Komering Ulu Timur,2020,laki_laki,31.74
+Ogan Ilir,2020,laki_laki,29.17
+Empat Lawang,2020,laki_laki,30.04
+Penukal Abab Lematang Ilir,2020,laki_laki,33.5
+Musi Rawas Utara,2020,laki_laki,31.29
+Kota Palembang,2020,laki_laki,62.89
+Kota Prabumulih,2020,laki_laki,55.13
+Kota Pagar Alam,2020,laki_laki,44.74
+Kota Lubuklinggau,2020,laki_laki,54.33
+BENGKULU,2020,laki_laki,42.29
+Bengkulu Selatan,2020,laki_laki,45.39
+Rejang Lebong,2020,laki_laki,37.97
+Bengkulu Utara,2020,laki_laki,31.23
+Kaur,2020,laki_laki,41.01
+Seluma,2020,laki_laki,32.31
+Mukomuko,2020,laki_laki,36.14
+Lebong,2020,laki_laki,36.11
+Kepahiang,2020,laki_laki,35.77
+Bengkulu Tengah,2020,laki_laki,34.59
+Kota Bengkulu,2020,laki_laki,69.72
+LAMPUNG,2020,laki_laki,33.67
+Lampung Barat,2020,laki_laki,29.87
+Tanggamus,2020,laki_laki,24.22
+Lampung Selatan,2020,laki_laki,32.45
+Lampung Timur,2020,laki_laki,30.38
+Lampung Tengah,2020,laki_laki,30.49
+Lampung Utara,2020,laki_laki,32.32
+Way Kanan,2020,laki_laki,28.03
+Tulangbawang,2020,laki_laki,26.83
+Pesawaran,2020,laki_laki,29.02
+Pringsewu,2020,laki_laki,33.26
+Mesuji,2020,laki_laki,20.52
+Tulang Bawang Barat,2020,laki_laki,21.21
+Pesisir Barat,2020,laki_laki,31.48
+Kota Bandar Lampung,2020,laki_laki,59.59
+Kota Metro,2020,laki_laki,61.56
+KEP. BANGKA BELITUNG,2020,laki_laki,37.17
+Bangka,2020,laki_laki,37.84
+Belitung,2020,laki_laki,41.96
+Bangka Barat,2020,laki_laki,33.61
+Bangka Tengah,2020,laki_laki,27.72
+Bangka Selatan,2020,laki_laki,23.85
+Belitung Timur,2020,laki_laki,35.05
+Kota Pangkal Pinang,2020,laki_laki,57.71
+KEPULAUAN RIAU,2020,laki_laki,60.64
+Karimun,2020,laki_laki,38.6
+Bintan,2020,laki_laki,50.97
+Natuna,2020,laki_laki,44.32
+Lingga,2020,laki_laki,28.4
+Kepulauan Anambas,2020,laki_laki,38.47
+Kota Batam,2020,laki_laki,69.79
+Kota Tanjung Pinang,2020,laki_laki,58.72
+DKI JAKARTA,2020,laki_laki,68.96
+Kep. Seribu,2020,laki_laki,40.92
+Kota Jakarta Selatan,2020,laki_laki,72.77
+Kota Jakarta Timur,2020,laki_laki,71.81
+Kota Jakarta Pusat,2020,laki_laki,72.81
+Kota Jakarta Barat,2020,laki_laki,63.24
+Kota Jakarta Utara,2020,laki_laki,65.89
+JAWA BARAT,2020,laki_laki,40.59
+Bogor,2020,laki_laki,36.95
+Sukabumi,2020,laki_laki,25.41
+Cianjur,2020,laki_laki,24.14
+Bandung,2020,laki_laki,39.45
+Garut,2020,laki_laki,27.05
+Tasikmalaya,2020,laki_laki,20.89
+Ciamis,2020,laki_laki,23.34
+Kuningan,2020,laki_laki,28.45
+Cirebon,2020,laki_laki,31.2
+Majalengka,2020,laki_laki,28.41
+Sumedang,2020,laki_laki,36.45
+Indramayu,2020,laki_laki,27.8
+Subang,2020,laki_laki,28.51
+Purwakarta,2020,laki_laki,38.14
+Karawang,2020,laki_laki,35.91
+Bekasi,2020,laki_laki,56.34
+Bandung Barat,2020,laki_laki,34.88
+Pangandaran,2020,laki_laki,27.74
+Kota Bogor,2020,laki_laki,54.99
+Kota Sukabumi,2020,laki_laki,47.51
+Kota Bandung,2020,laki_laki,60.74
+Kota Cirebon,2020,laki_laki,58.13
+Kota Bekasi,2020,laki_laki,70.38
+Kota Depok,2020,laki_laki,70.83
+Kota Cimahi,2020,laki_laki,64.04
+Kota Tasikmalaya,2020,laki_laki,43.23
+Kota Banjar,2020,laki_laki,34.91
+JAWA TENGAH,2020,laki_laki,32.85
+Cilacap,2020,laki_laki,27.02
+Banyumas,2020,laki_laki,30.51
+Purbalingga,2020,laki_laki,24.12
+Banjarnegara,2020,laki_laki,20.49
+Kebumen,2020,laki_laki,29.34
+Purworejo,2020,laki_laki,37.04
+Wonosobo,2020,laki_laki,18.38
+Magelang,2020,laki_laki,31.24
+Boyolali,2020,laki_laki,37.86
+Klaten,2020,laki_laki,50.41
+Sukoharjo,2020,laki_laki,51.17
+Wonogiri,2020,laki_laki,29.09
+Karanganyar,2020,laki_laki,42.27
+Sragen,2020,laki_laki,36.86
+Grobogan,2020,laki_laki,20.44
+Blora,2020,laki_laki,27.46
+Rembang,2020,laki_laki,25.25
+Pati,2020,laki_laki,30.27
+Kudus,2020,laki_laki,41.14
+Jepara,2020,laki_laki,28.6
+Demak,2020,laki_laki,28.2
+Semarang,2020,laki_laki,35.98
+Temanggung,2020,laki_laki,24.49
+Kendal,2020,laki_laki,33.62
+Batang,2020,laki_laki,25.2
+Pekalongan,2020,laki_laki,21.39
+Pemalang,2020,laki_laki,22.23
+Tegal,2020,laki_laki,30.51
+Brebes,2020,laki_laki,19.32
+Kota Magelang,2020,laki_laki,62.6
+Kota Surakarta,2020,laki_laki,65.63
+Kota Salatiga,2020,laki_laki,58.32
+Kota Semarang,2020,laki_laki,64.22
+Kota Pekalongan,2020,laki_laki,39.11
+Kota Tegal,2020,laki_laki,41.59
+D I YOGYAKARTA,2020,laki_laki,53.53
+Kulon Progo,2020,laki_laki,49.52
+Bantul,2020,laki_laki,51.34
+Gunung Kidul,2020,laki_laki,30.72
+Sleman,2020,laki_laki,66.77
+Kota Yogyakarta,2020,laki_laki,68.22
+JAWA TIMUR,2020,laki_laki,37
+Pacitan,2020,laki_laki,28.15
+Ponorogo,2020,laki_laki,31.18
+Trenggalek,2020,laki_laki,25.13
+Tulungagung,2020,laki_laki,33.25
+Blitar,2020,laki_laki,27.55
+Kediri,2020,laki_laki,34.59
+Malang,2020,laki_laki,30.97
+Lumajang,2020,laki_laki,24.67
+Jember,2020,laki_laki,30.89
+Banyuwangi,2020,laki_laki,31.47
+Bondowoso,2020,laki_laki,25.67
+Situbondo,2020,laki_laki,33.24
+Probolinggo,2020,laki_laki,26.57
+Pasuruan,2020,laki_laki,34.95
+Sidoarjo,2020,laki_laki,61.69
+Mojokerto,2020,laki_laki,41.69
+Jombang,2020,laki_laki,37.82
+Nganjuk,2020,laki_laki,33
+Madiun,2020,laki_laki,35.26
+Magetan,2020,laki_laki,39.76
+Ngawi,2020,laki_laki,28.46
+Bojonegoro,2020,laki_laki,33.09
+Tuban,2020,laki_laki,25.73
+Lamongan,2020,laki_laki,36.09
+Gresik,2020,laki_laki,49.89
+Bangkalan,2020,laki_laki,26.33
+Sampang,2020,laki_laki,23.61
+Pamekasan,2020,laki_laki,33.67
+Sumenep,2020,laki_laki,29.45
+Kota Kediri,2020,laki_laki,57.87
+Kota Blitar,2020,laki_laki,56.45
+Kota Malang,2020,laki_laki,56.54
+Kota Probolinggo,2020,laki_laki,48.85
+Kota Pasuruan,2020,laki_laki,50.69
+Kota Mojokerto,2020,laki_laki,63.63
+Kota Madiun,2020,laki_laki,60.28
+Kota Surabaya,2020,laki_laki,59.56
+Kota Batu,2020,laki_laki,41.74
+BANTEN,2020,laki_laki,46.57
+Pandeglang,2020,laki_laki,24.02
+Lebak,2020,laki_laki,19.07
+Tangerang,2020,laki_laki,43.4
+Serang,2020,laki_laki,30.6
+Kota Tangerang,2020,laki_laki,65.36
+Kota Cilegon,2020,laki_laki,59.1
+Kota Serang,2020,laki_laki,43.64
+Kota Tangerang Selatan,2020,laki_laki,71.18
+BALI,2020,laki_laki,54.37
+Jembrana,2020,laki_laki,43.4
+Tabanan,2020,laki_laki,49.95
+Badung,2020,laki_laki,64.51
+Gianyar,2020,laki_laki,56.25
+Klungkung,2020,laki_laki,45.54
+Bangli,2020,laki_laki,33.88
+Karangasem,2020,laki_laki,33.7
+Buleleng,2020,laki_laki,43.34
+Kota Denpasar,2020,laki_laki,74.62
+NUSA TENGGARA BARAT,2020,laki_laki,39.83
+Lombok Barat,2020,laki_laki,34.63
+Lombok Tengah,2020,laki_laki,32.76
+Lombok Timur,2020,laki_laki,33.72
+Sumbawa,2020,laki_laki,37.92
+Dompu,2020,laki_laki,47.96
+Bima,2020,laki_laki,46.56
+Sumbawa Barat,2020,laki_laki,47.03
+Lombok Utara,2020,laki_laki,34.37
+Kota Mataram,2020,laki_laki,57.12
+Kota Bima,2020,laki_laki,66.67
+NUSA TENGGARA TIMUR,2020,laki_laki,36.03
+Sumba Barat,2020,laki_laki,35.1
+Sumba Timur,2020,laki_laki,34.64
+Kupang,2020,laki_laki,32.48
+Timor Tengah Selatan,2020,laki_laki,31.82
+Timor Tengah Utara,2020,laki_laki,36.85
+Belu,2020,laki_laki,32.45
+Alor,2020,laki_laki,40.07
+Lembata,2020,laki_laki,37.38
+Flores Timur,2020,laki_laki,35.04
+Sikka,2020,laki_laki,34.17
+Ende,2020,laki_laki,37.95
+Ngada,2020,laki_laki,32.15
+Manggarai,2020,laki_laki,33.95
+Rote Ndao,2020,laki_laki,35.91
+Manggarai Barat,2020,laki_laki,28.88
+Sumba Tengah,2020,laki_laki,32.78
+Sumba Barat Daya,2020,laki_laki,29.3
+Nagekeo,2020,laki_laki,28.04
+Manggarai Timur,2020,laki_laki,24.56
+Sabu Raijua,2020,laki_laki,27.17
+Malaka,2020,laki_laki,27.98
+Kota Kupang,2020,laki_laki,70.66
+KALIMANTAN BARAT,2020,laki_laki,32.95
+Sambas,2020,laki_laki,25.07
+Bengkayang,2020,laki_laki,31.44
+Landak,2020,laki_laki,28.61
+Mempawah,2020,laki_laki,30
+Sanggau,2020,laki_laki,30.11
+Ketapang,2020,laki_laki,29.92
+Sintang,2020,laki_laki,27.84
+Kapuas Hulu,2020,laki_laki,31.45
+Sekadau,2020,laki_laki,26.61
+Melawi,2020,laki_laki,28.58
+Kayong Utara,2020,laki_laki,20.97
+Kubu Raya,2020,laki_laki,30.31
+Kota Pontianak,2020,laki_laki,58.61
+Kota Singkawang,2020,laki_laki,36.37
+KALIMANTAN TENGAH,2020,laki_laki,33.93
+Kotawaringin Barat,2020,laki_laki,32.67
+Kotawaringin Timur,2020,laki_laki,23.03
+Kapuas,2020,laki_laki,25.14
+Barito Selatan,2020,laki_laki,41.33
+Barito Utara,2020,laki_laki,39.47
+Sukamara,2020,laki_laki,38.14
+Lamandau,2020,laki_laki,34.42
+Seruyan,2020,laki_laki,26.34
+Katingan,2020,laki_laki,32.67
+Pulang Pisau,2020,laki_laki,30.96
+Gunung Mas,2020,laki_laki,38.09
+Barito Timur,2020,laki_laki,43.15
+Murung Raya,2020,laki_laki,30.89
+Kota Palangka Raya,2020,laki_laki,59.91
+KALIMANTAN SELATAN,2020,laki_laki,36.39
+Tanah Laut,2020,laki_laki,30.53
+Kotabaru,2020,laki_laki,31.24
+Banjar,2020,laki_laki,29.94
+Barito Kuala,2020,laki_laki,25.48
+Tapin,2020,laki_laki,34.62
+Hulu Sungai Selatan,2020,laki_laki,28.18
+Hulu Sungai Tengah,2020,laki_laki,31.51
+Hulu Sungai Utara,2020,laki_laki,28.47
+Tabalong,2020,laki_laki,45.14
+Tanah Bumbu,2020,laki_laki,31.52
+Balangan,2020,laki_laki,32.72
+Kota Banjarmasin,2020,laki_laki,52.37
+Kota Banjar Baru,2020,laki_laki,57.1
+KALIMANTAN TIMUR,2020,laki_laki,56.59
+Paser,2020,laki_laki,40.85
+Kutai Barat,2020,laki_laki,44.29
+Kutai Kartanegara,2020,laki_laki,54.04
+Kutai Timur,2020,laki_laki,49.62
+Berau,2020,laki_laki,56.44
+Penajam Paser Utara,2020,laki_laki,38.22
+Mahakam Ulu,2020,laki_laki,36.45
+Kota Balikpapan,2020,laki_laki,67.57
+Kota Samarinda,2020,laki_laki,61.95
+Kota Bontang,2020,laki_laki,73.17
+KALIMANTAN UTARA,2020,laki_laki,44.53
+Malinau,2020,laki_laki,48.36
+Bulungan,2020,laki_laki,45.17
+Tana Tidung,2020,laki_laki,38.52
+Nunukan,2020,laki_laki,34.9
+Kota Tarakan,2020,laki_laki,51.64
+SULAWESI UTARA,2020,laki_laki,45.88
+Bolaang Mongondow,2020,laki_laki,24.11
+Minahasa,2020,laki_laki,45.7
+Kepulauan Sangihe,2020,laki_laki,34.53
+Kepulauan Talaud,2020,laki_laki,46.21
+Minahasa Selatan,2020,laki_laki,39.48
+Minahasa Utara,2020,laki_laki,53.81
+Bolaang Mongondow Utara,2020,laki_laki,31.16
+Siau Tagulandang Biaro,2020,laki_laki,36.4
+Minahasa Tenggara,2020,laki_laki,31.73
+Bolaang Mongondow Selatan,2020,laki_laki,23.91
+Bolaang Mongondow Timur,2020,laki_laki,24.83
+Kota Manado,2020,laki_laki,69.44
+Kota Bitung,2020,laki_laki,53.5
+Kota Tomohon,2020,laki_laki,56.19
+Kota Kotamobagu,2020,laki_laki,50.08
+SULAWESI TENGAH,2020,laki_laki,39.75
+Banggai Kepulauan,2020,laki_laki,35.74
+Banggai,2020,laki_laki,40.06
+Morowali,2020,laki_laki,44.99
+Poso,2020,laki_laki,44.6
+Donggala,2020,laki_laki,29.84
+Toli-Toli,2020,laki_laki,35.41
+Buol,2020,laki_laki,36.94
+Parigi Moutong,2020,laki_laki,25.67
+Tojo Una-Una,2020,laki_laki,30.99
+Sigi,2020,laki_laki,40.9
+Banggai Laut,2020,laki_laki,38.04
+Morowali Utara,2020,laki_laki,42.96
+Kota Palu,2020,laki_laki,67.6
+SULAWESI SELATAN,2020,laki_laki,41.73
+Kepulauan Selayar,2020,laki_laki,37.01
+Bulukumba,2020,laki_laki,36.16
+Bantaeng,2020,laki_laki,30.36
+Jeneponto,2020,laki_laki,28.22
+Takalar,2020,laki_laki,34.22
+Gowa,2020,laki_laki,42.77
+Sinjai,2020,laki_laki,33.8
+Maros,2020,laki_laki,45.73
+Pangkajene dan Kepulauan,2020,laki_laki,38.08
+Barru,2020,laki_laki,38.54
+Bone,2020,laki_laki,30.84
+Soppeng,2020,laki_laki,31.8
+Wajo,2020,laki_laki,27.84
+Sidenreng Rappang,2020,laki_laki,33.92
+Pinrang,2020,laki_laki,30.57
+Enrekang,2020,laki_laki,43.65
+Luwu,2020,laki_laki,39.65
+Tana Toraja,2020,laki_laki,44.2
+Luwu Utara,2020,laki_laki,32.41
+Luwu Timur,2020,laki_laki,47.56
+Toraja Utara,2020,laki_laki,41.31
+Kota Makasar,2020,laki_laki,62.95
+Kota Parepare,2020,laki_laki,59.9
+Kota Palopo,2020,laki_laki,58.22
+SULAWESI TENGGARA,2020,laki_laki,45.47
+Buton,2020,laki_laki,43.51
+Muna,2020,laki_laki,40.56
+Konawe,2020,laki_laki,42.6
+Kolaka,2020,laki_laki,42.08
+Konawe Selatan,2020,laki_laki,27.04
+Bombana,2020,laki_laki,37.56
+Wakatobi,2020,laki_laki,41.3
+Kolaka Utara,2020,laki_laki,35.66
+Buton Utara,2020,laki_laki,49.39
+Konawe Utara,2020,laki_laki,47.32
+Kolaka Timur,2020,laki_laki,40.76
+Konawe Kepulauan,2020,laki_laki,48.18
+Muna Barat,2020,laki_laki,33.46
+Buton Tengah,2020,laki_laki,37.49
+Buton Selatan,2020,laki_laki,38.77
+Kota Kendari,2020,laki_laki,76.53
+Kota Baubau,2020,laki_laki,62.87
+GORONTALO,2020,laki_laki,30.26
+Boalemo,2020,laki_laki,28.63
+Gorontalo,2020,laki_laki,21.32
+Pohuwato,2020,laki_laki,24.84
+Bone Bolango,2020,laki_laki,33.61
+Gorontalo Utara,2020,laki_laki,27.11
+Kota Gorontalo,2020,laki_laki,50.24
+SULAWESI BARAT,2020,laki_laki,34.44
+Majene,2020,laki_laki,39.2
+Polewali Mandar,2020,laki_laki,29.99
+Mamasa,2020,laki_laki,40.26
+Mamuju,2020,laki_laki,38.27
+Mamuju Utara / Pasangkayu,2020,laki_laki,32.93
+Mamuju Tengah,2020,laki_laki,30.42
+MALUKU,2020,laki_laki,53.05
+Maluku Tenggara Barat / Kepulauan Tanimbar,2020,laki_laki,48.24
+Maluku Tenggara,2020,laki_laki,52.67
+Maluku Tengah,2020,laki_laki,53.33
+Buru,2020,laki_laki,48.41
+Kepulauan Aru,2020,laki_laki,41.87
+Seram Bagian Barat,2020,laki_laki,45.07
+Seram Bagian Timur,2020,laki_laki,42.65
+Maluku Barat Daya,2020,laki_laki,36.73
+Buru Selatan,2020,laki_laki,39.05
+Kota Ambon,2020,laki_laki,65.19
+Kota Tual,2020,laki_laki,60.83
+MALUKU UTARA,2020,laki_laki,43.43
+Halmahera Barat,2020,laki_laki,42.49
+Halmahera Tengah,2020,laki_laki,45.84
+Kepulauan Sula,2020,laki_laki,41.79
+Halmahera Selatan,2020,laki_laki,22.87
+Halmahera Utara,2020,laki_laki,38.76
+Halmahera Timur,2020,laki_laki,39.67
+Pulau Morotai,2020,laki_laki,29.49
+Pulau Taliabu,2020,laki_laki,31.18
+Kota Ternate,2020,laki_laki,73.76
+Kota Tidore Kepulauan,2020,laki_laki,46.67
+PAPUA BARAT,2020,laki_laki,58.61
+Fakfak,2020,laki_laki,57.99
+Kaimana,2020,laki_laki,49.64
+Teluk Wondama,2020,laki_laki,56.68
+Teluk Bintuni,2020,laki_laki,52.51
+Manokwari,2020,laki_laki,63.77
+Sorong Selatan,2020,laki_laki,43.2
+Sorong,2020,laki_laki,49.95
+Raja Ampat,2020,laki_laki,47.36
+Tambrauw,2020,laki_laki,39.32
+Maybrat,2020,laki_laki,57.9
+Manokwari Selatan,2020,laki_laki,54.01
+Pegunungan Arfak,2020,laki_laki,43.48
+Kota Sorong,2020,laki_laki,69.97
+PAPUA,2020,laki_laki,35.96
+Merauke,2020,laki_laki,38.63
+Jayawijaya,2020,laki_laki,25.23
+Jayapura,2020,laki_laki,63.34
+Nabire,2020,laki_laki,54.49
+Kepulauan Yapen,2020,laki_laki,54.7
+Biak Numfor,2020,laki_laki,58.62
+Paniai,2020,laki_laki,23.54
+Puncak Jaya,2020,laki_laki,15.43
+Mimika,2020,laki_laki,51.94
+Boven Digoel,2020,laki_laki,49.77
+Mappi,2020,laki_laki,28.94
+Asmat,2020,laki_laki,25.11
+Yahukimo,2020,laki_laki,16.84
+Pegunungan Bintang,2020,laki_laki,23.85
+Tolikara,2020,laki_laki,23.95
+Sarmi,2020,laki_laki,46.43
+Keerom,2020,laki_laki,43.74
+Waropen,2020,laki_laki,56.15
+Supiori,2020,laki_laki,50.8
+Mamberamo Raya,2020,laki_laki,27.49
+Nduga,2020,laki_laki,8.16
+Lanny Jaya,2020,laki_laki,18.58
+Mamberamo Tengah,2020,laki_laki,27.36
+Yalimo,2020,laki_laki,36.67
+Puncak,2020,laki_laki,14.75
+Dogiyai,2020,laki_laki,15.07
+Intan Jaya,2020,laki_laki,23.33
+Deiyai,2020,laki_laki,17.69
+Kota Jayapura,2020,laki_laki,61.05
+INDONESIA,2020,laki_laki,41.63
+ACEH,2020,perempuan,42.71
+Simeulue,2020,perempuan,38.98
+Aceh Singkil,2020,perempuan,34.85
+Aceh Selatan,2020,perempuan,39.94
+Aceh Tenggara,2020,perempuan,42.04
+Aceh Timur,2020,perempuan,26.81
+Aceh Tengah,2020,perempuan,44.58
+Aceh Barat,2020,perempuan,43.88
+Aceh Besar,2020,perempuan,50.32
+Pidie,2020,perempuan,40.18
+Bireuen,2020,perempuan,42.06
+Aceh Utara,2020,perempuan,37.51
+Aceh Barat Daya,2020,perempuan,39.64
+Gayo Lues,2020,perempuan,37.5
+Aceh Tamiang,2020,perempuan,37.82
+Nagan Raya,2020,perempuan,45.34
+Aceh Jaya,2020,perempuan,36.76
+Bener Meriah,2020,perempuan,40.18
+Pidie Jaya,2020,perempuan,40.6
+Kota Banda Aceh,2020,perempuan,69.63
+Kota Sabang,2020,perempuan,59.36
+Kota Langsa,2020,perempuan,57.01
+Kota Lhokseumawe,2020,perempuan,55.89
+Kota Subulussalam,2020,perempuan,41.81
+SUMATERA UTARA,2020,perempuan,46.86
+Nias,2020,perempuan,15.47
+Mandailing Natal,2020,perempuan,32.79
+Tapanuli Selatan,2020,perempuan,38.28
+Tapanuli Tengah,2020,perempuan,36.33
+Tapanuli Utara,2020,perempuan,49.88
+Toba Samosir / Toba,2020,perempuan,55.46
+Labuhan Batu,2020,perempuan,40.3
+Asahan,2020,perempuan,41.64
+Simalungun,2020,perempuan,52.85
+Dairi,2020,perempuan,46.69
+Karo,2020,perempuan,54.28
+Deli Serdang,2020,perempuan,51.69
+Langkat,2020,perempuan,34.49
+Nias Selatan,2020,perempuan,25.63
+Humbang Hasundutan,2020,perempuan,45.66
+Pakpak Bharat,2020,perempuan,41.72
+Samosir,2020,perempuan,49
+Serdang Bedagai,2020,perempuan,36.32
+Batu Bara,2020,perempuan,33.48
+Padang Lawas Utara,2020,perempuan,42.61
+Padang Lawas,2020,perempuan,37.27
+Labuhan Batu Selatan,2020,perempuan,38.11
+Labuhan Batu Utara,2020,perempuan,34.1
+Nias Utara,2020,perempuan,17.69
+Nias Barat,2020,perempuan,22.61
+Kota Sibolga,2020,perempuan,55.89
+Kota Tanjung Balai,2020,perempuan,45.9
+Kota Pematang Siantar,2020,perempuan,63.23
+Kota Tebing Tinggi,2020,perempuan,54.28
+Kota Medan,2020,perempuan,61.56
+Kota Binjai,2020,perempuan,60.72
+Kota Padangsidimpuan,2020,perempuan,61
+Kota Gunungsitoli,2020,perempuan,35.4
+SUMATERA BARAT,2020,perempuan,44.78
+Kepulauan Mentawai,2020,perempuan,24.28
+Pesisir Selatan,2020,perempuan,40.71
+Solok,2020,perempuan,29.13
+Sijunjung,2020,perempuan,33.11
+Tanah Datar,2020,perempuan,44.33
+Padang Pariaman,2020,perempuan,35.17
+Agam,2020,perempuan,44.59
+Lima Puluh Kota,2020,perempuan,33.91
+Pasaman,2020,perempuan,33.67
+Solok Selatan,2020,perempuan,38.74
+Dharmasraya,2020,perempuan,35.81
+Pasaman Barat,2020,perempuan,35.32
+Kota Padang,2020,perempuan,69.31
+Kota Solok,2020,perempuan,63.25
+Kota Sawah Lunto,2020,perempuan,53.43
+Kota Padang Panjang,2020,perempuan,68.53
+Kota Bukittinggi,2020,perempuan,66.41
+Kota Payakumbuh,2020,perempuan,57.36
+Kota Pariaman,2020,perempuan,56.52
+RIAU,2020,perempuan,42.85
+Kuantan Singingi,2020,perempuan,34.73
+Indragiri Hulu,2020,perempuan,33.34
+Indragiri Hilir,2020,perempuan,25
+Pelalawan,2020,perempuan,37.7
+Siak,2020,perempuan,47.83
+Kampar,2020,perempuan,39.44
+Rokan Hulu,2020,perempuan,29.74
+Bengkalis,2020,perempuan,47.92
+Rokan Hilir,2020,perempuan,34.14
+Kepulauan Meranti,2020,perempuan,27.65
+Kota Pekanbaru,2020,perempuan,73.93
+Kota Dumai,2020,perempuan,51.6
+JAMBI,2020,perempuan,33.33
+Kerinci,2020,perempuan,35.38
+Merangin,2020,perempuan,23.32
+Sarolangun,2020,perempuan,25.97
+Batang Hari,2020,perempuan,32.44
+Muaro Jambi,2020,perempuan,29.47
+Tanjung Jabung Timur,2020,perempuan,18.08
+Tanjung Jabung Barat,2020,perempuan,22.26
+Tebo,2020,perempuan,22.65
+Bungo,2020,perempuan,30.27
+Kota Jambi,2020,perempuan,60.53
+Kota Sungai Penuh,2020,perempuan,53.31
+SUMATERA SELATAN,2020,perempuan,33.03
+Ogan Komering Ulu,2020,perempuan,31.01
+Ogan Komering Ilir,2020,perempuan,19.6
+Muara Enim,2020,perempuan,29.57
+Lahat,2020,perempuan,35.15
+Musi Rawas,2020,perempuan,22.43
+Musi Banyuasin,2020,perempuan,24.16
+Banyu Asin,2020,perempuan,24.31
+Ogan Komering Ulu Selatan,2020,perempuan,21.09
+Ogan Komering Ulu Timur,2020,perempuan,25.52
+Ogan Ilir,2020,perempuan,27.08
+Empat Lawang,2020,perempuan,25.59
+Penukal Abab Lematang Ilir,2020,perempuan,23.02
+Musi Rawas Utara,2020,perempuan,19.25
+Kota Palembang,2020,perempuan,57.12
+Kota Prabumulih,2020,perempuan,47.5
+Kota Pagar Alam,2020,perempuan,43.26
+Kota Lubuklinggau,2020,perempuan,49.06
+BENGKULU,2020,perempuan,37.62
+Bengkulu Selatan,2020,perempuan,40.63
+Rejang Lebong,2020,perempuan,31.54
+Bengkulu Utara,2020,perempuan,28.13
+Kaur,2020,perempuan,34.82
+Seluma,2020,perempuan,27.61
+Mukomuko,2020,perempuan,30.88
+Lebong,2020,perempuan,26.86
+Kepahiang,2020,perempuan,35.65
+Bengkulu Tengah,2020,perempuan,24.55
+Kota Bengkulu,2020,perempuan,65.55
+LAMPUNG,2020,perempuan,28.33
+Lampung Barat,2020,perempuan,25.62
+Tanggamus,2020,perempuan,20.62
+Lampung Selatan,2020,perempuan,23.99
+Lampung Timur,2020,perempuan,23.47
+Lampung Tengah,2020,perempuan,22.96
+Lampung Utara,2020,perempuan,29.43
+Way Kanan,2020,perempuan,20.95
+Tulangbawang,2020,perempuan,20.49
+Pesawaran,2020,perempuan,23.88
+Pringsewu,2020,perempuan,28.12
+Mesuji,2020,perempuan,14.22
+Tulang Bawang Barat,2020,perempuan,21.27
+Pesisir Barat,2020,perempuan,26.74
+Kota Bandar Lampung,2020,perempuan,56.69
+Kota Metro,2020,perempuan,60.51
+KEP. BANGKA BELITUNG,2020,perempuan,34.45
+Bangka,2020,perempuan,36.52
+Belitung,2020,perempuan,35.95
+Bangka Barat,2020,perempuan,28.19
+Bangka Tengah,2020,perempuan,28.61
+Bangka Selatan,2020,perempuan,20.52
+Belitung Timur,2020,perempuan,34.73
+Kota Pangkal Pinang,2020,perempuan,52.58
+KEPULAUAN RIAU,2020,perempuan,60.83
+Karimun,2020,perempuan,37.01
+Bintan,2020,perempuan,47.35
+Natuna,2020,perempuan,38.83
+Lingga,2020,perempuan,24.67
+Kepulauan Anambas,2020,perempuan,35.09
+Kota Batam,2020,perempuan,71.65
+Kota Tanjung Pinang,2020,perempuan,59.27
+DKI JAKARTA,2020,perempuan,58.13
+Kep. Seribu,2020,perempuan,31.58
+Kota Jakarta Selatan,2020,perempuan,64
+Kota Jakarta Timur,2020,perempuan,62.16
+Kota Jakarta Pusat,2020,perempuan,63.44
+Kota Jakarta Barat,2020,perempuan,51.42
+Kota Jakarta Utara,2020,perempuan,50.93
+JAWA BARAT,2020,perempuan,32.48
+Bogor,2020,perempuan,28.56
+Sukabumi,2020,perempuan,15.31
+Cianjur,2020,perempuan,15.85
+Bandung,2020,perempuan,34.29
+Garut,2020,perempuan,21.14
+Tasikmalaya,2020,perempuan,15.04
+Ciamis,2020,perempuan,17.4
+Kuningan,2020,perempuan,21.92
+Cirebon,2020,perempuan,24.27
+Majalengka,2020,perempuan,18.66
+Sumedang,2020,perempuan,31.62
+Indramayu,2020,perempuan,19.33
+Subang,2020,perempuan,19.66
+Purwakarta,2020,perempuan,27.64
+Karawang,2020,perempuan,25.76
+Bekasi,2020,perempuan,46.21
+Bandung Barat,2020,perempuan,24.94
+Pangandaran,2020,perempuan,18.05
+Kota Bogor,2020,perempuan,47.28
+Kota Sukabumi,2020,perempuan,38.92
+Kota Bandung,2020,perempuan,54.21
+Kota Cirebon,2020,perempuan,46.62
+Kota Bekasi,2020,perempuan,61.56
+Kota Depok,2020,perempuan,62.52
+Kota Cimahi,2020,perempuan,55.76
+Kota Tasikmalaya,2020,perempuan,37.11
+Kota Banjar,2020,perempuan,28.5
+JAWA TENGAH,2020,perempuan,26.97
+Cilacap,2020,perempuan,22.78
+Banyumas,2020,perempuan,25.85
+Purbalingga,2020,perempuan,20.94
+Banjarnegara,2020,perempuan,17.72
+Kebumen,2020,perempuan,23
+Purworejo,2020,perempuan,33.25
+Wonosobo,2020,perempuan,17.62
+Magelang,2020,perempuan,27.59
+Boyolali,2020,perempuan,30.38
+Klaten,2020,perempuan,38.84
+Sukoharjo,2020,perempuan,43.87
+Wonogiri,2020,perempuan,23.07
+Karanganyar,2020,perempuan,33.46
+Sragen,2020,perempuan,28.75
+Grobogan,2020,perempuan,14.61
+Blora,2020,perempuan,20.05
+Rembang,2020,perempuan,18.81
+Pati,2020,perempuan,23.94
+Kudus,2020,perempuan,33.84
+Jepara,2020,perempuan,22.49
+Demak,2020,perempuan,24.3
+Semarang,2020,perempuan,26.87
+Temanggung,2020,perempuan,22.55
+Kendal,2020,perempuan,25.24
+Batang,2020,perempuan,16.69
+Pekalongan,2020,perempuan,19.48
+Pemalang,2020,perempuan,16.79
+Tegal,2020,perempuan,19.37
+Brebes,2020,perempuan,16.12
+Kota Magelang,2020,perempuan,58.67
+Kota Surakarta,2020,perempuan,58.52
+Kota Salatiga,2020,perempuan,51.62
+Kota Semarang,2020,perempuan,56.97
+Kota Pekalongan,2020,perempuan,39.06
+Kota Tegal,2020,perempuan,37.48
+D I YOGYAKARTA,2020,perempuan,47.7
+Kulon Progo,2020,perempuan,42.79
+Bantul,2020,perempuan,45.74
+Gunung Kidul,2020,perempuan,24.22
+Sleman,2020,perempuan,62.41
+Kota Yogyakarta,2020,perempuan,63.68
+JAWA TIMUR,2020,perempuan,29.85
+Pacitan,2020,perempuan,18.08
+Ponorogo,2020,perempuan,28.95
+Trenggalek,2020,perempuan,22.5
+Tulungagung,2020,perempuan,30.24
+Blitar,2020,perempuan,26.41
+Kediri,2020,perempuan,31.89
+Malang,2020,perempuan,27.32
+Lumajang,2020,perempuan,16.91
+Jember,2020,perempuan,22.87
+Banyuwangi,2020,perempuan,25.6
+Bondowoso,2020,perempuan,18.77
+Situbondo,2020,perempuan,22.27
+Probolinggo,2020,perempuan,19.57
+Pasuruan,2020,perempuan,25.54
+Sidoarjo,2020,perempuan,53.91
+Mojokerto,2020,perempuan,34.45
+Jombang,2020,perempuan,33.75
+Nganjuk,2020,perempuan,25.36
+Madiun,2020,perempuan,27.57
+Magetan,2020,perempuan,31.73
+Ngawi,2020,perempuan,22.94
+Bojonegoro,2020,perempuan,24.28
+Tuban,2020,perempuan,21.22
+Lamongan,2020,perempuan,30.35
+Gresik,2020,perempuan,37.11
+Bangkalan,2020,perempuan,17.86
+Sampang,2020,perempuan,16.29
+Pamekasan,2020,perempuan,25.27
+Sumenep,2020,perempuan,18.61
+Kota Kediri,2020,perempuan,45.4
+Kota Blitar,2020,perempuan,41.02
+Kota Malang,2020,perempuan,51.32
+Kota Probolinggo,2020,perempuan,30.92
+Kota Pasuruan,2020,perempuan,34.89
+Kota Mojokerto,2020,perempuan,41.49
+Kota Madiun,2020,perempuan,49.38
+Kota Surabaya,2020,perempuan,51.64
+Kota Batu,2020,perempuan,30.35
+BANTEN,2020,perempuan,37.26
+Pandeglang,2020,perempuan,18.05
+Lebak,2020,perempuan,15.97
+Tangerang,2020,perempuan,31.92
+Serang,2020,perempuan,21.45
+Kota Tangerang,2020,perempuan,57.28
+Kota Cilegon,2020,perempuan,45.4
+Kota Serang,2020,perempuan,34.7
+Kota Tangerang Selatan,2020,perempuan,59.93
+BALI,2020,perempuan,41.58
+Jembrana,2020,perempuan,30.15
+Tabanan,2020,perempuan,38.23
+Badung,2020,perempuan,53.57
+Gianyar,2020,perempuan,43.81
+Klungkung,2020,perempuan,32.81
+Bangli,2020,perempuan,23.38
+Karangasem,2020,perempuan,20.92
+Buleleng,2020,perempuan,26.99
+Kota Denpasar,2020,perempuan,65.1
+NUSA TENGGARA BARAT,2020,perempuan,24.2
+Lombok Barat,2020,perempuan,18.06
+Lombok Tengah,2020,perempuan,13.9
+Lombok Timur,2020,perempuan,17.5
+Sumbawa,2020,perempuan,26.43
+Dompu,2020,perempuan,38.79
+Bima,2020,perempuan,25.31
+Sumbawa Barat,2020,perempuan,37.55
+Lombok Utara,2020,perempuan,20.71
+Kota Mataram,2020,perempuan,48.16
+Kota Bima,2020,perempuan,58.89
+NUSA TENGGARA TIMUR,2020,perempuan,26.73
+Sumba Barat,2020,perempuan,30.53
+Sumba Timur,2020,perempuan,30.25
+Kupang,2020,perempuan,17.52
+Timor Tengah Selatan,2020,perempuan,15.33
+Timor Tengah Utara,2020,perempuan,25.77
+Belu,2020,perempuan,25.71
+Alor,2020,perempuan,28.67
+Lembata,2020,perempuan,26.17
+Flores Timur,2020,perempuan,25.08
+Sikka,2020,perempuan,26.79
+Ende,2020,perempuan,30.28
+Ngada,2020,perempuan,32.16
+Manggarai,2020,perempuan,21.56
+Rote Ndao,2020,perempuan,28
+Manggarai Barat,2020,perempuan,15.66
+Sumba Tengah,2020,perempuan,32.04
+Sumba Barat Daya,2020,perempuan,23.53
+Nagekeo,2020,perempuan,27.78
+Manggarai Timur,2020,perempuan,12.93
+Sabu Raijua,2020,perempuan,26.4
+Malaka,2020,perempuan,25.22
+Kota Kupang,2020,perempuan,63.46
+KALIMANTAN BARAT,2020,perempuan,27.4
+Sambas,2020,perempuan,19.06
+Bengkayang,2020,perempuan,23.22
+Landak,2020,perempuan,28.87
+Mempawah,2020,perempuan,26.7
+Sanggau,2020,perempuan,25.12
+Ketapang,2020,perempuan,21.01
+Sintang,2020,perempuan,24.33
+Kapuas Hulu,2020,perempuan,25.38
+Sekadau,2020,perempuan,19.61
+Melawi,2020,perempuan,22.1
+Kayong Utara,2020,perempuan,22.57
+Kubu Raya,2020,perempuan,25.66
+Kota Pontianak,2020,perempuan,49.33
+Kota Singkawang,2020,perempuan,32.1
+KALIMANTAN TENGAH,2020,perempuan,29.39
+Kotawaringin Barat,2020,perempuan,24.93
+Kotawaringin Timur,2020,perempuan,21.93
+Kapuas,2020,perempuan,19.58
+Barito Selatan,2020,perempuan,32.21
+Barito Utara,2020,perempuan,32.66
+Sukamara,2020,perempuan,28.81
+Lamandau,2020,perempuan,27.64
+Seruyan,2020,perempuan,21.45
+Katingan,2020,perempuan,26.9
+Pulang Pisau,2020,perempuan,28.82
+Gunung Mas,2020,perempuan,35.45
+Barito Timur,2020,perempuan,35.66
+Murung Raya,2020,perempuan,26.79
+Kota Palangka Raya,2020,perempuan,58.41
+KALIMANTAN SELATAN,2020,perempuan,30
+Tanah Laut,2020,perempuan,25.17
+Kotabaru,2020,perempuan,19.72
+Banjar,2020,perempuan,20.12
+Barito Kuala,2020,perempuan,19.93
+Tapin,2020,perempuan,24.67
+Hulu Sungai Selatan,2020,perempuan,27.69
+Hulu Sungai Tengah,2020,perempuan,25.98
+Hulu Sungai Utara,2020,perempuan,23.23
+Tabalong,2020,perempuan,38.99
+Tanah Bumbu,2020,perempuan,26
+Balangan,2020,perempuan,23.76
+Kota Banjarmasin,2020,perempuan,45.71
+Kota Banjar Baru,2020,perempuan,56.54
+KALIMANTAN TIMUR,2020,perempuan,43.36
+Paser,2020,perempuan,28.63
+Kutai Barat,2020,perempuan,31.35
+Kutai Kartanegara,2020,perempuan,35.82
+Kutai Timur,2020,perempuan,38.45
+Berau,2020,perempuan,40.21
+Penajam Paser Utara,2020,perempuan,31.55
+Mahakam Ulu,2020,perempuan,36.52
+Kota Balikpapan,2020,perempuan,56.56
+Kota Samarinda,2020,perempuan,47.83
+Kota Bontang,2020,perempuan,60.02
+KALIMANTAN UTARA,2020,perempuan,38.95
+Malinau,2020,perempuan,39.83
+Bulungan,2020,perempuan,37.75
+Tana Tidung,2020,perempuan,31.1
+Nunukan,2020,perempuan,33.75
+Kota Tarakan,2020,perempuan,43.96
+SULAWESI UTARA,2020,perempuan,44.83
+Bolaang Mongondow,2020,perempuan,25.93
+Minahasa,2020,perempuan,46.79
+Kepulauan Sangihe,2020,perempuan,32.16
+Kepulauan Talaud,2020,perempuan,43.55
+Minahasa Selatan,2020,perempuan,43.47
+Minahasa Utara,2020,perempuan,50.43
+Bolaang Mongondow Utara,2020,perempuan,32.88
+Siau Tagulandang Biaro,2020,perempuan,41.34
+Minahasa Tenggara,2020,perempuan,35.1
+Bolaang Mongondow Selatan,2020,perempuan,24.61
+Bolaang Mongondow Timur,2020,perempuan,27.88
+Kota Manado,2020,perempuan,60.62
+Kota Bitung,2020,perempuan,46.53
+Kota Tomohon,2020,perempuan,62.37
+Kota Kotamobagu,2020,perempuan,46.25
+SULAWESI TENGAH,2020,perempuan,29.87
+Banggai Kepulauan,2020,perempuan,32.72
+Banggai,2020,perempuan,26.6
+Morowali,2020,perempuan,38
+Poso,2020,perempuan,37.16
+Donggala,2020,perempuan,21.85
+Toli-Toli,2020,perempuan,28.16
+Buol,2020,perempuan,32.78
+Parigi Moutong,2020,perempuan,19.31
+Tojo Una-Una,2020,perempuan,25.86
+Sigi,2020,perempuan,28.41
+Banggai Laut,2020,perempuan,27.8
+Morowali Utara,2020,perempuan,32.03
+Kota Palu,2020,perempuan,46.65
+SULAWESI SELATAN,2020,perempuan,36.34
+Kepulauan Selayar,2020,perempuan,35.15
+Bulukumba,2020,perempuan,33.75
+Bantaeng,2020,perempuan,27.58
+Jeneponto,2020,perempuan,27.69
+Takalar,2020,perempuan,32.49
+Gowa,2020,perempuan,34.58
+Sinjai,2020,perempuan,34.68
+Maros,2020,perempuan,31.89
+Pangkajene dan Kepulauan,2020,perempuan,29.76
+Barru,2020,perempuan,37.22
+Bone,2020,perempuan,22.43
+Soppeng,2020,perempuan,32.11
+Wajo,2020,perempuan,21.92
+Sidenreng Rappang,2020,perempuan,28.84
+Pinrang,2020,perempuan,28.92
+Enrekang,2020,perempuan,43.25
+Luwu,2020,perempuan,37.92
+Tana Toraja,2020,perempuan,41.18
+Luwu Utara,2020,perempuan,28.13
+Luwu Timur,2020,perempuan,41.15
+Toraja Utara,2020,perempuan,40.03
+Kota Makasar,2020,perempuan,56.32
+Kota Parepare,2020,perempuan,51.15
+Kota Palopo,2020,perempuan,57.34
+SULAWESI TENGGARA,2020,perempuan,37.08
+Buton,2020,perempuan,31.09
+Muna,2020,perempuan,32.39
+Konawe,2020,perempuan,30.36
+Kolaka,2020,perempuan,34.93
+Konawe Selatan,2020,perempuan,20.46
+Bombana,2020,perempuan,29.81
+Wakatobi,2020,perempuan,31.68
+Kolaka Utara,2020,perempuan,33.76
+Buton Utara,2020,perempuan,37.49
+Konawe Utara,2020,perempuan,42.49
+Kolaka Timur,2020,perempuan,33.34
+Konawe Kepulauan,2020,perempuan,40.72
+Muna Barat,2020,perempuan,24.72
+Buton Tengah,2020,perempuan,24.06
+Buton Selatan,2020,perempuan,24.3
+Kota Kendari,2020,perempuan,69.21
+Kota Baubau,2020,perempuan,56.9
+GORONTALO,2020,perempuan,34.89
+Boalemo,2020,perempuan,30.98
+Gorontalo,2020,perempuan,29.48
+Pohuwato,2020,perempuan,27.41
+Bone Bolango,2020,perempuan,37.21
+Gorontalo Utara,2020,perempuan,26.67
+Kota Gorontalo,2020,perempuan,54.43
+SULAWESI BARAT,2020,perempuan,30.57
+Majene,2020,perempuan,33.99
+Polewali Mandar,2020,perempuan,28.82
+Mamasa,2020,perempuan,34.59
+Mamuju,2020,perempuan,33.22
+Mamuju Utara / Pasangkayu,2020,perempuan,28.25
+Mamuju Tengah,2020,perempuan,24.72
+MALUKU,2020,perempuan,49.64
+Maluku Tenggara Barat / Kepulauan Tanimbar,2020,perempuan,49.54
+Maluku Tenggara,2020,perempuan,50.57
+Maluku Tengah,2020,perempuan,51.32
+Buru,2020,perempuan,41.23
+Kepulauan Aru,2020,perempuan,40.95
+Seram Bagian Barat,2020,perempuan,40.68
+Seram Bagian Timur,2020,perempuan,36.15
+Maluku Barat Daya,2020,perempuan,36.16
+Buru Selatan,2020,perempuan,35.01
+Kota Ambon,2020,perempuan,61.37
+Kota Tual,2020,perempuan,50.87
+MALUKU UTARA,2020,perempuan,35.03
+Halmahera Barat,2020,perempuan,32.68
+Halmahera Tengah,2020,perempuan,37.55
+Kepulauan Sula,2020,perempuan,34.58
+Halmahera Selatan,2020,perempuan,16.67
+Halmahera Utara,2020,perempuan,27.5
+Halmahera Timur,2020,perempuan,31.41
+Pulau Morotai,2020,perempuan,22.47
+Pulau Taliabu,2020,perempuan,23.87
+Kota Ternate,2020,perempuan,62.31
+Kota Tidore Kepulauan,2020,perempuan,43.58
+PAPUA BARAT,2020,perempuan,45.03
+Fakfak,2020,perempuan,51.19
+Kaimana,2020,perempuan,43.38
+Teluk Wondama,2020,perempuan,44.37
+Teluk Bintuni,2020,perempuan,47.13
+Manokwari,2020,perempuan,36.2
+Sorong Selatan,2020,perempuan,37.47
+Sorong,2020,perempuan,40.59
+Raja Ampat,2020,perempuan,36.86
+Tambrauw,2020,perempuan,29.86
+Maybrat,2020,perempuan,39.79
+Manokwari Selatan,2020,perempuan,41.91
+Pegunungan Arfak,2020,perempuan,18.42
+Kota Sorong,2020,perempuan,58.33
+PAPUA,2020,perempuan,28.86
+Merauke,2020,perempuan,40.69
+Jayawijaya,2020,perempuan,23.97
+Jayapura,2020,perempuan,54.28
+Nabire,2020,perempuan,49.82
+Kepulauan Yapen,2020,perempuan,45.07
+Biak Numfor,2020,perempuan,51.45
+Paniai,2020,perempuan,8.47
+Puncak Jaya,2020,perempuan,5.96
+Mimika,2020,perempuan,56.86
+Boven Digoel,2020,perempuan,36.21
+Mappi,2020,perempuan,16.02
+Asmat,2020,perempuan,13.41
+Yahukimo,2020,perempuan,5.43
+Pegunungan Bintang,2020,perempuan,12.27
+Tolikara,2020,perempuan,5.95
+Sarmi,2020,perempuan,42.57
+Keerom,2020,perempuan,31.93
+Waropen,2020,perempuan,41.51
+Supiori,2020,perempuan,35.55
+Mamberamo Raya,2020,perempuan,13.91
+Nduga,2020,perempuan,3.18
+Lanny Jaya,2020,perempuan,3.69
+Mamberamo Tengah,2020,perempuan,11.75
+Yalimo,2020,perempuan,26.67
+Puncak,2020,perempuan,6.86
+Dogiyai,2020,perempuan,5.51
+Intan Jaya,2020,perempuan,3.46
+Deiyai,2020,perempuan,12.04
+Kota Jayapura,2020,perempuan,69.86
+INDONESIA,2020,perempuan,34.63
+ACEH,2021,laki_laki,46.93
+Simeulue,2021,laki_laki,52.05
+Aceh Singkil,2021,laki_laki,42.18
+Aceh Selatan,2021,laki_laki,38.2
+Aceh Tenggara,2021,laki_laki,54.36
+Aceh Timur,2021,laki_laki,33.47
+Aceh Tengah,2021,laki_laki,48.5
+Aceh Barat,2021,laki_laki,49.51
+Aceh Besar,2021,laki_laki,53.69
+Pidie,2021,laki_laki,40.12
+Bireuen,2021,laki_laki,38.68
+Aceh Utara,2021,laki_laki,38.43
+Aceh Barat Daya,2021,laki_laki,37.93
+Gayo Lues,2021,laki_laki,42.91
+Aceh Tamiang,2021,laki_laki,41.35
+Nagan Raya,2021,laki_laki,44.77
+Aceh Jaya,2021,laki_laki,38.25
+Bener Meriah,2021,laki_laki,52.6
+Pidie Jaya,2021,laki_laki,47.2
+Kota Banda Aceh,2021,laki_laki,80.84
+Kota Sabang,2021,laki_laki,66.46
+Kota Langsa,2021,laki_laki,68.52
+Kota Lhokseumawe,2021,laki_laki,66.46
+Kota Subulussalam,2021,laki_laki,41.57
+SUMATERA UTARA,2021,laki_laki,51.38
+Nias,2021,laki_laki,35.66
+Mandailing Natal,2021,laki_laki,34.63
+Tapanuli Selatan,2021,laki_laki,38.68
+Tapanuli Tengah,2021,laki_laki,42.99
+Tapanuli Utara,2021,laki_laki,54.65
+Toba Samosir / Toba,2021,laki_laki,56.34
+Labuhan Batu,2021,laki_laki,43.54
+Asahan,2021,laki_laki,40.58
+Simalungun,2021,laki_laki,50.78
+Dairi,2021,laki_laki,48.19
+Karo,2021,laki_laki,52.45
+Deli Serdang,2021,laki_laki,58.4
+Langkat,2021,laki_laki,40.3
+Nias Selatan,2021,laki_laki,30.41
+Humbang Hasundutan,2021,laki_laki,53.4
+Pakpak Bharat,2021,laki_laki,46.3
+Samosir,2021,laki_laki,54.58
+Serdang Bedagai,2021,laki_laki,39.75
+Batu Bara,2021,laki_laki,33.67
+Padang Lawas Utara,2021,laki_laki,42.33
+Padang Lawas,2021,laki_laki,41.24
+Labuhan Batu Selatan,2021,laki_laki,45.23
+Labuhan Batu Utara,2021,laki_laki,37.6
+Nias Utara,2021,laki_laki,35.39
+Nias Barat,2021,laki_laki,42.18
+Kota Sibolga,2021,laki_laki,51.28
+Kota Tanjung Balai,2021,laki_laki,41.63
+Kota Pematang Siantar,2021,laki_laki,74.16
+Kota Tebing Tinggi,2021,laki_laki,62.5
+Kota Medan,2021,laki_laki,70.5
+Kota Binjai,2021,laki_laki,61.8
+Kota Padangsidimpuan,2021,laki_laki,60.82
+Kota Gunungsitoli,2021,laki_laki,49.75
+SUMATERA BARAT,2021,laki_laki,43.74
+Kepulauan Mentawai,2021,laki_laki,38.72
+Pesisir Selatan,2021,laki_laki,34.86
+Solok,2021,laki_laki,28.36
+Sijunjung,2021,laki_laki,33.47
+Tanah Datar,2021,laki_laki,35.59
+Padang Pariaman,2021,laki_laki,32.26
+Agam,2021,laki_laki,40.64
+Lima Puluh Kota,2021,laki_laki,33.4
+Pasaman,2021,laki_laki,29.02
+Solok Selatan,2021,laki_laki,36.24
+Dharmasraya,2021,laki_laki,39.91
+Pasaman Barat,2021,laki_laki,42.43
+Kota Padang,2021,laki_laki,69.26
+Kota Solok,2021,laki_laki,60.52
+Kota Sawah Lunto,2021,laki_laki,53.76
+Kota Padang Panjang,2021,laki_laki,60.45
+Kota Bukittinggi,2021,laki_laki,63.55
+Kota Payakumbuh,2021,laki_laki,60
+Kota Pariaman,2021,laki_laki,58.09
+RIAU,2021,laki_laki,46.39
+Kuantan Singingi,2021,laki_laki,41.27
+Indragiri Hulu,2021,laki_laki,35.22
+Indragiri Hilir,2021,laki_laki,24.69
+Pelalawan,2021,laki_laki,40.54
+Siak,2021,laki_laki,55.96
+Kampar,2021,laki_laki,44.07
+Rokan Hulu,2021,laki_laki,38.1
+Bengkalis,2021,laki_laki,51.15
+Rokan Hilir,2021,laki_laki,38.78
+Kepulauan Meranti,2021,laki_laki,32.63
+Kota Pekanbaru,2021,laki_laki,74.21
+Kota Dumai,2021,laki_laki,57.18
+JAMBI,2021,laki_laki,39.74
+Kerinci,2021,laki_laki,39.04
+Merangin,2021,laki_laki,32.41
+Sarolangun,2021,laki_laki,37.85
+Batang Hari,2021,laki_laki,31.13
+Muaro Jambi,2021,laki_laki,36.63
+Tanjung Jabung Timur,2021,laki_laki,25.73
+Tanjung Jabung Barat,2021,laki_laki,31.65
+Tebo,2021,laki_laki,28.29
+Bungo,2021,laki_laki,33.14
+Kota Jambi,2021,laki_laki,69.35
+Kota Sungai Penuh,2021,laki_laki,59.99
+SUMATERA SELATAN,2021,laki_laki,37.94
+Ogan Komering Ulu,2021,laki_laki,44.47
+Ogan Komering Ilir,2021,laki_laki,19.65
+Muara Enim,2021,laki_laki,37.35
+Lahat,2021,laki_laki,40
+Musi Rawas,2021,laki_laki,24.71
+Musi Banyuasin,2021,laki_laki,26.21
+Banyu Asin,2021,laki_laki,32.22
+Ogan Komering Ulu Selatan,2021,laki_laki,27.72
+Ogan Komering Ulu Timur,2021,laki_laki,27.79
+Ogan Ilir,2021,laki_laki,29.01
+Empat Lawang,2021,laki_laki,26.56
+Penukal Abab Lematang Ilir,2021,laki_laki,28.57
+Musi Rawas Utara,2021,laki_laki,28.94
+Kota Palembang,2021,laki_laki,64.8
+Kota Prabumulih,2021,laki_laki,52.82
+Kota Pagar Alam,2021,laki_laki,48.66
+Kota Lubuklinggau,2021,laki_laki,47.42
+BENGKULU,2021,laki_laki,41.64
+Bengkulu Selatan,2021,laki_laki,46.41
+Rejang Lebong,2021,laki_laki,40.32
+Bengkulu Utara,2021,laki_laki,31.63
+Kaur,2021,laki_laki,37.91
+Seluma,2021,laki_laki,33.83
+Mukomuko,2021,laki_laki,31.45
+Lebong,2021,laki_laki,37
+Kepahiang,2021,laki_laki,35.43
+Bengkulu Tengah,2021,laki_laki,32.94
+Kota Bengkulu,2021,laki_laki,67.2
+LAMPUNG,2021,laki_laki,33.72
+Lampung Barat,2021,laki_laki,29.86
+Tanggamus,2021,laki_laki,26.07
+Lampung Selatan,2021,laki_laki,30.02
+Lampung Timur,2021,laki_laki,32.26
+Lampung Tengah,2021,laki_laki,28.57
+Lampung Utara,2021,laki_laki,32.18
+Way Kanan,2021,laki_laki,24.15
+Tulangbawang,2021,laki_laki,25.43
+Pesawaran,2021,laki_laki,27.68
+Pringsewu,2021,laki_laki,30.85
+Mesuji,2021,laki_laki,21.04
+Tulang Bawang Barat,2021,laki_laki,22.75
+Pesisir Barat,2021,laki_laki,37.18
+Kota Bandar Lampung,2021,laki_laki,64.44
+Kota Metro,2021,laki_laki,59.3
+KEP. BANGKA BELITUNG,2021,laki_laki,37.52
+Bangka,2021,laki_laki,39.17
+Belitung,2021,laki_laki,37.66
+Bangka Barat,2021,laki_laki,34.63
+Bangka Tengah,2021,laki_laki,24.64
+Bangka Selatan,2021,laki_laki,24.64
+Belitung Timur,2021,laki_laki,37.68
+Kota Pangkal Pinang,2021,laki_laki,60.76
+KEPULAUAN RIAU,2021,laki_laki,60.43
+Karimun,2021,laki_laki,38.57
+Bintan,2021,laki_laki,44.32
+Natuna,2021,laki_laki,45.29
+Lingga,2021,laki_laki,34.06
+Kepulauan Anambas,2021,laki_laki,33.24
+Kota Batam,2021,laki_laki,70.06
+Kota Tanjung Pinang,2021,laki_laki,57.96
+DKI JAKARTA,2021,laki_laki,69.07
+Kep. Seribu,2021,laki_laki,41.99
+Kota Jakarta Selatan,2021,laki_laki,72.71
+Kota Jakarta Timur,2021,laki_laki,73.46
+Kota Jakarta Pusat,2021,laki_laki,68.81
+Kota Jakarta Barat,2021,laki_laki,65.7
+Kota Jakarta Utara,2021,laki_laki,62.67
+JAWA BARAT,2021,laki_laki,40.99
+Bogor,2021,laki_laki,38.76
+Sukabumi,2021,laki_laki,23.43
+Cianjur,2021,laki_laki,18.01
+Bandung,2021,laki_laki,41.75
+Garut,2021,laki_laki,26.36
+Tasikmalaya,2021,laki_laki,18.91
+Ciamis,2021,laki_laki,24.68
+Kuningan,2021,laki_laki,28.62
+Cirebon,2021,laki_laki,32.59
+Majalengka,2021,laki_laki,25.21
+Sumedang,2021,laki_laki,31.97
+Indramayu,2021,laki_laki,28.33
+Subang,2021,laki_laki,28.56
+Purwakarta,2021,laki_laki,35.19
+Karawang,2021,laki_laki,35.31
+Bekasi,2021,laki_laki,55.38
+Bandung Barat,2021,laki_laki,31.17
+Pangandaran,2021,laki_laki,25.19
+Kota Bogor,2021,laki_laki,64.9
+Kota Sukabumi,2021,laki_laki,54.02
+Kota Bandung,2021,laki_laki,67.02
+Kota Cirebon,2021,laki_laki,63.2
+Kota Bekasi,2021,laki_laki,74.11
+Kota Depok,2021,laki_laki,72.32
+Kota Cimahi,2021,laki_laki,63.1
+Kota Tasikmalaya,2021,laki_laki,43.32
+Kota Banjar,2021,laki_laki,41.53
+JAWA TENGAH,2021,laki_laki,32.26
+Cilacap,2021,laki_laki,25.63
+Banyumas,2021,laki_laki,29.44
+Purbalingga,2021,laki_laki,25.22
+Banjarnegara,2021,laki_laki,20.11
+Kebumen,2021,laki_laki,25.06
+Purworejo,2021,laki_laki,37.25
+Wonosobo,2021,laki_laki,18.33
+Magelang,2021,laki_laki,30.85
+Boyolali,2021,laki_laki,35.97
+Klaten,2021,laki_laki,49.02
+Sukoharjo,2021,laki_laki,50.3
+Wonogiri,2021,laki_laki,27.15
+Karanganyar,2021,laki_laki,40.31
+Sragen,2021,laki_laki,33.77
+Grobogan,2021,laki_laki,22.2
+Blora,2021,laki_laki,26.42
+Rembang,2021,laki_laki,26.24
+Pati,2021,laki_laki,28.91
+Kudus,2021,laki_laki,41.36
+Jepara,2021,laki_laki,30.19
+Demak,2021,laki_laki,29.1
+Semarang,2021,laki_laki,31.49
+Temanggung,2021,laki_laki,22.94
+Kendal,2021,laki_laki,30.78
+Batang,2021,laki_laki,20.16
+Pekalongan,2021,laki_laki,25.43
+Pemalang,2021,laki_laki,20.61
+Tegal,2021,laki_laki,26.33
+Brebes,2021,laki_laki,21.09
+Kota Magelang,2021,laki_laki,65.78
+Kota Surakarta,2021,laki_laki,67.57
+Kota Salatiga,2021,laki_laki,66.55
+Kota Semarang,2021,laki_laki,68.6
+Kota Pekalongan,2021,laki_laki,45.63
+Kota Tegal,2021,laki_laki,45.73
+D I YOGYAKARTA,2021,laki_laki,52.14
+Kulon Progo,2021,laki_laki,46.6
+Bantul,2021,laki_laki,53.2
+Gunung Kidul,2021,laki_laki,24.73
+Sleman,2021,laki_laki,65.55
+Kota Yogyakarta,2021,laki_laki,68.81
+JAWA TIMUR,2021,laki_laki,36.65
+Pacitan,2021,laki_laki,23.06
+Ponorogo,2021,laki_laki,32.9
+Trenggalek,2021,laki_laki,24.85
+Tulungagung,2021,laki_laki,33
+Blitar,2021,laki_laki,28.69
+Kediri,2021,laki_laki,35.29
+Malang,2021,laki_laki,27.26
+Lumajang,2021,laki_laki,24.13
+Jember,2021,laki_laki,23.15
+Banyuwangi,2021,laki_laki,33.86
+Bondowoso,2021,laki_laki,27.16
+Situbondo,2021,laki_laki,31.36
+Probolinggo,2021,laki_laki,24.08
+Pasuruan,2021,laki_laki,31.05
+Sidoarjo,2021,laki_laki,64.7
+Mojokerto,2021,laki_laki,44.24
+Jombang,2021,laki_laki,37.67
+Nganjuk,2021,laki_laki,36.08
+Madiun,2021,laki_laki,33.25
+Magetan,2021,laki_laki,40.59
+Ngawi,2021,laki_laki,29.92
+Bojonegoro,2021,laki_laki,32.6
+Tuban,2021,laki_laki,28.34
+Lamongan,2021,laki_laki,37.21
+Gresik,2021,laki_laki,51.15
+Bangkalan,2021,laki_laki,18.21
+Sampang,2021,laki_laki,14.14
+Pamekasan,2021,laki_laki,32.84
+Sumenep,2021,laki_laki,26.75
+Kota Kediri,2021,laki_laki,66.59
+Kota Blitar,2021,laki_laki,63.01
+Kota Malang,2021,laki_laki,59.86
+Kota Probolinggo,2021,laki_laki,55.36
+Kota Pasuruan,2021,laki_laki,56.89
+Kota Mojokerto,2021,laki_laki,68.38
+Kota Madiun,2021,laki_laki,78.04
+Kota Surabaya,2021,laki_laki,61.78
+Kota Batu,2021,laki_laki,47.76
+BANTEN,2021,laki_laki,46.65
+Pandeglang,2021,laki_laki,17.25
+Lebak,2021,laki_laki,14.82
+Tangerang,2021,laki_laki,48.76
+Serang,2021,laki_laki,25.27
+Kota Tangerang,2021,laki_laki,67.81
+Kota Cilegon,2021,laki_laki,62.49
+Kota Serang,2021,laki_laki,45.92
+Kota Tangerang Selatan,2021,laki_laki,68.83
+BALI,2021,laki_laki,52.5
+Jembrana,2021,laki_laki,47.39
+Tabanan,2021,laki_laki,57.07
+Badung,2021,laki_laki,68
+Gianyar,2021,laki_laki,57.07
+Klungkung,2021,laki_laki,44.98
+Bangli,2021,laki_laki,34.51
+Karangasem,2021,laki_laki,25.5
+Buleleng,2021,laki_laki,38.73
+Kota Denpasar,2021,laki_laki,64.33
+NUSA TENGGARA BARAT,2021,laki_laki,38.17
+Lombok Barat,2021,laki_laki,28.59
+Lombok Tengah,2021,laki_laki,30.69
+Lombok Timur,2021,laki_laki,32.36
+Sumbawa,2021,laki_laki,37.51
+Dompu,2021,laki_laki,47.79
+Bima,2021,laki_laki,48.5
+Sumbawa Barat,2021,laki_laki,44.68
+Lombok Utara,2021,laki_laki,25.94
+Kota Mataram,2021,laki_laki,57.33
+Kota Bima,2021,laki_laki,68.76
+NUSA TENGGARA TIMUR,2021,laki_laki,33.47
+Sumba Barat,2021,laki_laki,31.3
+Sumba Timur,2021,laki_laki,34.48
+Kupang,2021,laki_laki,27.02
+Timor Tengah Selatan,2021,laki_laki,23.77
+Timor Tengah Utara,2021,laki_laki,31.89
+Belu,2021,laki_laki,26.2
+Alor,2021,laki_laki,37.02
+Lembata,2021,laki_laki,35.93
+Flores Timur,2021,laki_laki,31.52
+Sikka,2021,laki_laki,30.57
+Ende,2021,laki_laki,37.15
+Ngada,2021,laki_laki,35.13
+Manggarai,2021,laki_laki,34.64
+Rote Ndao,2021,laki_laki,36.72
+Manggarai Barat,2021,laki_laki,32.59
+Sumba Tengah,2021,laki_laki,30.15
+Sumba Barat Daya,2021,laki_laki,21.2
+Nagekeo,2021,laki_laki,29.5
+Manggarai Timur,2021,laki_laki,24.58
+Sabu Raijua,2021,laki_laki,20.85
+Malaka,2021,laki_laki,30.26
+Kota Kupang,2021,laki_laki,69.48
+KALIMANTAN BARAT,2021,laki_laki,32.76
+Sambas,2021,laki_laki,25.4
+Bengkayang,2021,laki_laki,30.6
+Landak,2021,laki_laki,25.32
+Mempawah,2021,laki_laki,28.97
+Sanggau,2021,laki_laki,34.58
+Ketapang,2021,laki_laki,28.03
+Sintang,2021,laki_laki,26.5
+Kapuas Hulu,2021,laki_laki,27.66
+Sekadau,2021,laki_laki,25.74
+Melawi,2021,laki_laki,30.31
+Kayong Utara,2021,laki_laki,23.84
+Kubu Raya,2021,laki_laki,31.34
+Kota Pontianak,2021,laki_laki,59.13
+Kota Singkawang,2021,laki_laki,34.53
+KALIMANTAN TENGAH,2021,laki_laki,33.93
+Kotawaringin Barat,2021,laki_laki,37.25
+Kotawaringin Timur,2021,laki_laki,31.26
+Kapuas,2021,laki_laki,23.1
+Barito Selatan,2021,laki_laki,39.67
+Barito Utara,2021,laki_laki,33.85
+Sukamara,2021,laki_laki,30.84
+Lamandau,2021,laki_laki,33.3
+Seruyan,2021,laki_laki,25.87
+Katingan,2021,laki_laki,30.18
+Pulang Pisau,2021,laki_laki,28.95
+Gunung Mas,2021,laki_laki,33.08
+Barito Timur,2021,laki_laki,38.98
+Murung Raya,2021,laki_laki,24.93
+Kota Palangka Raya,2021,laki_laki,58.86
+KALIMANTAN SELATAN,2021,laki_laki,36.72
+Tanah Laut,2021,laki_laki,27.62
+Kotabaru,2021,laki_laki,28.03
+Banjar,2021,laki_laki,27.9
+Barito Kuala,2021,laki_laki,31.46
+Tapin,2021,laki_laki,31.74
+Hulu Sungai Selatan,2021,laki_laki,24.41
+Hulu Sungai Tengah,2021,laki_laki,29.89
+Hulu Sungai Utara,2021,laki_laki,30.51
+Tabalong,2021,laki_laki,37.8
+Tanah Bumbu,2021,laki_laki,30.01
+Balangan,2021,laki_laki,33.25
+Kota Banjarmasin,2021,laki_laki,59.94
+Kota Banjar Baru,2021,laki_laki,61.15
+KALIMANTAN TIMUR,2021,laki_laki,55.6
+Paser,2021,laki_laki,43.08
+Kutai Barat,2021,laki_laki,48.25
+Kutai Kartanegara,2021,laki_laki,46.03
+Kutai Timur,2021,laki_laki,51.7
+Berau,2021,laki_laki,50.3
+Penajam Paser Utara,2021,laki_laki,39.55
+Mahakam Ulu,2021,laki_laki,35.86
+Kota Balikpapan,2021,laki_laki,72.34
+Kota Samarinda,2021,laki_laki,61.02
+Kota Bontang,2021,laki_laki,69.49
+KALIMANTAN UTARA,2021,laki_laki,46.07
+Malinau,2021,laki_laki,46.44
+Bulungan,2021,laki_laki,45.33
+Tana Tidung,2021,laki_laki,43.28
+Nunukan,2021,laki_laki,34.81
+Kota Tarakan,2021,laki_laki,55.68
+SULAWESI UTARA,2021,laki_laki,45.8
+Bolaang Mongondow,2021,laki_laki,25.25
+Minahasa,2021,laki_laki,48.93
+Kepulauan Sangihe,2021,laki_laki,31.64
+Kepulauan Talaud,2021,laki_laki,47.52
+Minahasa Selatan,2021,laki_laki,40.07
+Minahasa Utara,2021,laki_laki,48.15
+Bolaang Mongondow Utara,2021,laki_laki,24.24
+Siau Tagulandang Biaro,2021,laki_laki,37.28
+Minahasa Tenggara,2021,laki_laki,33.18
+Bolaang Mongondow Selatan,2021,laki_laki,27.89
+Bolaang Mongondow Timur,2021,laki_laki,28.34
+Kota Manado,2021,laki_laki,67.1
+Kota Bitung,2021,laki_laki,53.6
+Kota Tomohon,2021,laki_laki,55.65
+Kota Kotamobagu,2021,laki_laki,51.34
+SULAWESI TENGAH,2021,laki_laki,37.55
+Banggai Kepulauan,2021,laki_laki,35.74
+Banggai,2021,laki_laki,34.66
+Morowali,2021,laki_laki,42.08
+Poso,2021,laki_laki,40.32
+Donggala,2021,laki_laki,24.41
+Toli-Toli,2021,laki_laki,38.16
+Buol,2021,laki_laki,38.7
+Parigi Moutong,2021,laki_laki,27.35
+Tojo Una-Una,2021,laki_laki,27.27
+Sigi,2021,laki_laki,34.86
+Banggai Laut,2021,laki_laki,33.71
+Morowali Utara,2021,laki_laki,40.73
+Kota Palu,2021,laki_laki,66.89
+SULAWESI SELATAN,2021,laki_laki,40.63
+Kepulauan Selayar,2021,laki_laki,39.05
+Bulukumba,2021,laki_laki,34.4
+Bantaeng,2021,laki_laki,30.37
+Jeneponto,2021,laki_laki,26.24
+Takalar,2021,laki_laki,32.89
+Gowa,2021,laki_laki,31.73
+Sinjai,2021,laki_laki,33.44
+Maros,2021,laki_laki,42.75
+Pangkajene dan Kepulauan,2021,laki_laki,35.69
+Barru,2021,laki_laki,36.19
+Bone,2021,laki_laki,28.37
+Soppeng,2021,laki_laki,31.26
+Wajo,2021,laki_laki,26.65
+Sidenreng Rappang,2021,laki_laki,32.99
+Pinrang,2021,laki_laki,33.28
+Enrekang,2021,laki_laki,44.46
+Luwu,2021,laki_laki,39.43
+Tana Toraja,2021,laki_laki,41.99
+Luwu Utara,2021,laki_laki,32.17
+Luwu Timur,2021,laki_laki,39.78
+Toraja Utara,2021,laki_laki,47.37
+Kota Makasar,2021,laki_laki,66.52
+Kota Parepare,2021,laki_laki,67.29
+Kota Palopo,2021,laki_laki,63.9
+SULAWESI TENGGARA,2021,laki_laki,43.1
+Buton,2021,laki_laki,35.1
+Muna,2021,laki_laki,42.59
+Konawe,2021,laki_laki,42.23
+Kolaka,2021,laki_laki,39.92
+Konawe Selatan,2021,laki_laki,34.56
+Bombana,2021,laki_laki,30.81
+Wakatobi,2021,laki_laki,33.44
+Kolaka Utara,2021,laki_laki,30.69
+Buton Utara,2021,laki_laki,37.7
+Konawe Utara,2021,laki_laki,42.69
+Kolaka Timur,2021,laki_laki,30.8
+Konawe Kepulauan,2021,laki_laki,43.55
+Muna Barat,2021,laki_laki,30.79
+Buton Tengah,2021,laki_laki,26.96
+Buton Selatan,2021,laki_laki,28.83
+Kota Kendari,2021,laki_laki,72.77
+Kota Baubau,2021,laki_laki,67.6
+GORONTALO,2021,laki_laki,29.75
+Boalemo,2021,laki_laki,23.69
+Gorontalo,2021,laki_laki,25.83
+Pohuwato,2021,laki_laki,25.24
+Bone Bolango,2021,laki_laki,28.98
+Gorontalo Utara,2021,laki_laki,22.47
+Kota Gorontalo,2021,laki_laki,49.24
+SULAWESI BARAT,2021,laki_laki,35.98
+Majene,2021,laki_laki,45.99
+Polewali Mandar,2021,laki_laki,34.54
+Mamasa,2021,laki_laki,38.28
+Mamuju,2021,laki_laki,33.08
+Mamuju Utara / Pasangkayu,2021,laki_laki,34.63
+Mamuju Tengah,2021,laki_laki,33.99
+MALUKU,2021,laki_laki,51.5
+Maluku Tenggara Barat / Kepulauan Tanimbar,2021,laki_laki,45.24
+Maluku Tenggara,2021,laki_laki,49.49
+Maluku Tengah,2021,laki_laki,46.88
+Buru,2021,laki_laki,43.95
+Kepulauan Aru,2021,laki_laki,37.29
+Seram Bagian Barat,2021,laki_laki,41.32
+Seram Bagian Timur,2021,laki_laki,37.93
+Maluku Barat Daya,2021,laki_laki,37.43
+Buru Selatan,2021,laki_laki,34.08
+Kota Ambon,2021,laki_laki,73.02
+Kota Tual,2021,laki_laki,54.86
+MALUKU UTARA,2021,laki_laki,42.82
+Halmahera Barat,2021,laki_laki,34.47
+Halmahera Tengah,2021,laki_laki,34.14
+Kepulauan Sula,2021,laki_laki,35.93
+Halmahera Selatan,2021,laki_laki,31
+Halmahera Utara,2021,laki_laki,37.54
+Halmahera Timur,2021,laki_laki,33.39
+Pulau Morotai,2021,laki_laki,31.14
+Pulau Taliabu,2021,laki_laki,27.48
+Kota Ternate,2021,laki_laki,75.06
+Kota Tidore Kepulauan,2021,laki_laki,49.65
+PAPUA BARAT,2021,laki_laki,57.48
+Fakfak,2021,laki_laki,60.13
+Kaimana,2021,laki_laki,56.01
+Teluk Wondama,2021,laki_laki,45.98
+Teluk Bintuni,2021,laki_laki,59.6
+Manokwari,2021,laki_laki,58.01
+Sorong Selatan,2021,laki_laki,46.02
+Sorong,2021,laki_laki,46.87
+Raja Ampat,2021,laki_laki,38.73
+Tambrauw,2021,laki_laki,55.63
+Maybrat,2021,laki_laki,63.38
+Manokwari Selatan,2021,laki_laki,55.88
+Pegunungan Arfak,2021,laki_laki,51.12
+Kota Sorong,2021,laki_laki,66.5
+PAPUA,2021,laki_laki,36.7
+Merauke,2021,laki_laki,43.47
+Jayawijaya,2021,laki_laki,35.73
+Jayapura,2021,laki_laki,56.41
+Nabire,2021,laki_laki,53.73
+Kepulauan Yapen,2021,laki_laki,55.31
+Biak Numfor,2021,laki_laki,55.51
+Paniai,2021,laki_laki,22.13
+Puncak Jaya,2021,laki_laki,15.71
+Mimika,2021,laki_laki,58.18
+Boven Digoel,2021,laki_laki,52.49
+Mappi,2021,laki_laki,32.3
+Asmat,2021,laki_laki,30.11
+Yahukimo,2021,laki_laki,13.43
+Pegunungan Bintang,2021,laki_laki,28.17
+Tolikara,2021,laki_laki,14.03
+Sarmi,2021,laki_laki,47.75
+Keerom,2021,laki_laki,37.63
+Waropen,2021,laki_laki,47.51
+Supiori,2021,laki_laki,45.27
+Mamberamo Raya,2021,laki_laki,42.64
+Nduga,2021,laki_laki,13.1
+Lanny Jaya,2021,laki_laki,21.1
+Mamberamo Tengah,2021,laki_laki,22.88
+Yalimo,2021,laki_laki,14.89
+Puncak,2021,laki_laki,8.81
+Dogiyai,2021,laki_laki,13.54
+Intan Jaya,2021,laki_laki,19.66
+Deiyai,2021,laki_laki,20.16
+Kota Jayapura,2021,laki_laki,69.53
+INDONESIA,2021,laki_laki,41.3
+ACEH,2021,perempuan,42.05
+Simeulue,2021,perempuan,40
+Aceh Singkil,2021,perempuan,38.77
+Aceh Selatan,2021,perempuan,32.6
+Aceh Tenggara,2021,perempuan,43.27
+Aceh Timur,2021,perempuan,28.85
+Aceh Tengah,2021,perempuan,45.16
+Aceh Barat,2021,perempuan,45.88
+Aceh Besar,2021,perempuan,51.63
+Pidie,2021,perempuan,32.97
+Bireuen,2021,perempuan,38.68
+Aceh Utara,2021,perempuan,34.03
+Aceh Barat Daya,2021,perempuan,37.48
+Gayo Lues,2021,perempuan,30.37
+Aceh Tamiang,2021,perempuan,38.72
+Nagan Raya,2021,perempuan,36.81
+Aceh Jaya,2021,perempuan,31.51
+Bener Meriah,2021,perempuan,47.23
+Pidie Jaya,2021,perempuan,37.06
+Kota Banda Aceh,2021,perempuan,81.14
+Kota Sabang,2021,perempuan,63.65
+Kota Langsa,2021,perempuan,60.33
+Kota Lhokseumawe,2021,perempuan,66.19
+Kota Subulussalam,2021,perempuan,34.49
+SUMATERA UTARA,2021,perempuan,47.5
+Nias,2021,perempuan,20.64
+Mandailing Natal,2021,perempuan,30.82
+Tapanuli Selatan,2021,perempuan,32.63
+Tapanuli Tengah,2021,perempuan,42.94
+Tapanuli Utara,2021,perempuan,48.59
+Toba Samosir / Toba,2021,perempuan,59.2
+Labuhan Batu,2021,perempuan,45.24
+Asahan,2021,perempuan,36.42
+Simalungun,2021,perempuan,47.16
+Dairi,2021,perempuan,48.78
+Karo,2021,perempuan,51.85
+Deli Serdang,2021,perempuan,54.68
+Langkat,2021,perempuan,35.66
+Nias Selatan,2021,perempuan,22.82
+Humbang Hasundutan,2021,perempuan,49.84
+Pakpak Bharat,2021,perempuan,39.82
+Samosir,2021,perempuan,44.4
+Serdang Bedagai,2021,perempuan,37.66
+Batu Bara,2021,perempuan,31.19
+Padang Lawas Utara,2021,perempuan,40.66
+Padang Lawas,2021,perempuan,32.7
+Labuhan Batu Selatan,2021,perempuan,36.65
+Labuhan Batu Utara,2021,perempuan,31.28
+Nias Utara,2021,perempuan,21.84
+Nias Barat,2021,perempuan,27.29
+Kota Sibolga,2021,perempuan,57.27
+Kota Tanjung Balai,2021,perempuan,46.62
+Kota Pematang Siantar,2021,perempuan,69.6
+Kota Tebing Tinggi,2021,perempuan,56.2
+Kota Medan,2021,perempuan,65.5
+Kota Binjai,2021,perempuan,57
+Kota Padangsidimpuan,2021,perempuan,62.86
+Kota Gunungsitoli,2021,perempuan,34.07
+SUMATERA BARAT,2021,perempuan,44.97
+Kepulauan Mentawai,2021,perempuan,27.51
+Pesisir Selatan,2021,perempuan,38.54
+Solok,2021,perempuan,30.29
+Sijunjung,2021,perempuan,35.4
+Tanah Datar,2021,perempuan,40.79
+Padang Pariaman,2021,perempuan,35.84
+Agam,2021,perempuan,42.5
+Lima Puluh Kota,2021,perempuan,37.31
+Pasaman,2021,perempuan,27.93
+Solok Selatan,2021,perempuan,39.37
+Dharmasraya,2021,perempuan,36.9
+Pasaman Barat,2021,perempuan,39.81
+Kota Padang,2021,perempuan,68.31
+Kota Solok,2021,perempuan,63.62
+Kota Sawah Lunto,2021,perempuan,57.27
+Kota Padang Panjang,2021,perempuan,68.3
+Kota Bukittinggi,2021,perempuan,71.81
+Kota Payakumbuh,2021,perempuan,62.5
+Kota Pariaman,2021,perempuan,57.8
+RIAU,2021,perempuan,43.04
+Kuantan Singingi,2021,perempuan,35.45
+Indragiri Hulu,2021,perempuan,30.4
+Indragiri Hilir,2021,perempuan,23.69
+Pelalawan,2021,perempuan,36.91
+Siak,2021,perempuan,53.2
+Kampar,2021,perempuan,39.34
+Rokan Hulu,2021,perempuan,34.87
+Bengkalis,2021,perempuan,45.69
+Rokan Hilir,2021,perempuan,30.19
+Kepulauan Meranti,2021,perempuan,29.89
+Kota Pekanbaru,2021,perempuan,73.74
+Kota Dumai,2021,perempuan,53.76
+JAMBI,2021,perempuan,33.73
+Kerinci,2021,perempuan,33.6
+Merangin,2021,perempuan,25.83
+Sarolangun,2021,perempuan,31.01
+Batang Hari,2021,perempuan,27.15
+Muaro Jambi,2021,perempuan,28.25
+Tanjung Jabung Timur,2021,perempuan,20.98
+Tanjung Jabung Barat,2021,perempuan,29.53
+Tebo,2021,perempuan,23.19
+Bungo,2021,perempuan,23.99
+Kota Jambi,2021,perempuan,62.03
+Kota Sungai Penuh,2021,perempuan,51.32
+SUMATERA SELATAN,2021,perempuan,32.99
+Ogan Komering Ulu,2021,perempuan,36.98
+Ogan Komering Ilir,2021,perempuan,17.77
+Muara Enim,2021,perempuan,25.66
+Lahat,2021,perempuan,36.76
+Musi Rawas,2021,perempuan,23.43
+Musi Banyuasin,2021,perempuan,24.1
+Banyu Asin,2021,perempuan,24.61
+Ogan Komering Ulu Selatan,2021,perempuan,21.55
+Ogan Komering Ulu Timur,2021,perempuan,22.9
+Ogan Ilir,2021,perempuan,23.82
+Empat Lawang,2021,perempuan,25.77
+Penukal Abab Lematang Ilir,2021,perempuan,17.04
+Musi Rawas Utara,2021,perempuan,18.39
+Kota Palembang,2021,perempuan,59.85
+Kota Prabumulih,2021,perempuan,49.75
+Kota Pagar Alam,2021,perempuan,43.28
+Kota Lubuklinggau,2021,perempuan,39.56
+BENGKULU,2021,perempuan,37.43
+Bengkulu Selatan,2021,perempuan,41.39
+Rejang Lebong,2021,perempuan,35.59
+Bengkulu Utara,2021,perempuan,29.57
+Kaur,2021,perempuan,28.52
+Seluma,2021,perempuan,27.12
+Mukomuko,2021,perempuan,24.49
+Lebong,2021,perempuan,33.03
+Kepahiang,2021,perempuan,33.53
+Bengkulu Tengah,2021,perempuan,23.48
+Kota Bengkulu,2021,perempuan,66.61
+LAMPUNG,2021,perempuan,28.77
+Lampung Barat,2021,perempuan,25.2
+Tanggamus,2021,perempuan,21.73
+Lampung Selatan,2021,perempuan,24.36
+Lampung Timur,2021,perempuan,25.66
+Lampung Tengah,2021,perempuan,24.14
+Lampung Utara,2021,perempuan,27.31
+Way Kanan,2021,perempuan,18
+Tulangbawang,2021,perempuan,23.8
+Pesawaran,2021,perempuan,22.03
+Pringsewu,2021,perempuan,25.52
+Mesuji,2021,perempuan,17.86
+Tulang Bawang Barat,2021,perempuan,20.77
+Pesisir Barat,2021,perempuan,28.78
+Kota Bandar Lampung,2021,perempuan,57.6
+Kota Metro,2021,perempuan,57.88
+KEP. BANGKA BELITUNG,2021,perempuan,33.58
+Bangka,2021,perempuan,31.9
+Belitung,2021,perempuan,34.78
+Bangka Barat,2021,perempuan,30.19
+Bangka Tengah,2021,perempuan,23.37
+Bangka Selatan,2021,perempuan,20.5
+Belitung Timur,2021,perempuan,35.06
+Kota Pangkal Pinang,2021,perempuan,57.24
+KEPULAUAN RIAU,2021,perempuan,59.2
+Karimun,2021,perempuan,31.97
+Bintan,2021,perempuan,42.6
+Natuna,2021,perempuan,41.64
+Lingga,2021,perempuan,28.36
+Kepulauan Anambas,2021,perempuan,29.81
+Kota Batam,2021,perempuan,70.97
+Kota Tanjung Pinang,2021,perempuan,51.36
+DKI JAKARTA,2021,perempuan,59.76
+Kep. Seribu,2021,perempuan,33.56
+Kota Jakarta Selatan,2021,perempuan,63.81
+Kota Jakarta Timur,2021,perempuan,64
+Kota Jakarta Pusat,2021,perempuan,62.5
+Kota Jakarta Barat,2021,perempuan,55.42
+Kota Jakarta Utara,2021,perempuan,52.67
+JAWA BARAT,2021,perempuan,33.12
+Bogor,2021,perempuan,29.22
+Sukabumi,2021,perempuan,15.17
+Cianjur,2021,perempuan,11.09
+Bandung,2021,perempuan,35.59
+Garut,2021,perempuan,18.52
+Tasikmalaya,2021,perempuan,16.42
+Ciamis,2021,perempuan,19.51
+Kuningan,2021,perempuan,22.16
+Cirebon,2021,perempuan,23.46
+Majalengka,2021,perempuan,17.49
+Sumedang,2021,perempuan,23.65
+Indramayu,2021,perempuan,21.73
+Subang,2021,perempuan,23.36
+Purwakarta,2021,perempuan,26.31
+Karawang,2021,perempuan,24.76
+Bekasi,2021,perempuan,45.16
+Bandung Barat,2021,perempuan,22.18
+Pangandaran,2021,perempuan,18.94
+Kota Bogor,2021,perempuan,53.71
+Kota Sukabumi,2021,perempuan,47.04
+Kota Bandung,2021,perempuan,61.32
+Kota Cirebon,2021,perempuan,54.64
+Kota Bekasi,2021,perempuan,65.42
+Kota Depok,2021,perempuan,64.62
+Kota Cimahi,2021,perempuan,56.58
+Kota Tasikmalaya,2021,perempuan,39.87
+Kota Banjar,2021,perempuan,31.4
+JAWA TENGAH,2021,perempuan,26.82
+Cilacap,2021,perempuan,21.16
+Banyumas,2021,perempuan,26.37
+Purbalingga,2021,perempuan,19.83
+Banjarnegara,2021,perempuan,16.17
+Kebumen,2021,perempuan,21.06
+Purworejo,2021,perempuan,31.46
+Wonosobo,2021,perempuan,16.58
+Magelang,2021,perempuan,24.2
+Boyolali,2021,perempuan,27.02
+Klaten,2021,perempuan,41.78
+Sukoharjo,2021,perempuan,45.13
+Wonogiri,2021,perempuan,21.07
+Karanganyar,2021,perempuan,32.04
+Sragen,2021,perempuan,26.03
+Grobogan,2021,perempuan,14.48
+Blora,2021,perempuan,22.62
+Rembang,2021,perempuan,18.52
+Pati,2021,perempuan,25.65
+Kudus,2021,perempuan,32.99
+Jepara,2021,perempuan,24.54
+Demak,2021,perempuan,26.96
+Semarang,2021,perempuan,28.13
+Temanggung,2021,perempuan,18.93
+Kendal,2021,perempuan,22.04
+Batang,2021,perempuan,17.27
+Pekalongan,2021,perempuan,21.61
+Pemalang,2021,perempuan,16.72
+Tegal,2021,perempuan,19.49
+Brebes,2021,perempuan,14.02
+Kota Magelang,2021,perempuan,60.68
+Kota Surakarta,2021,perempuan,64.04
+Kota Salatiga,2021,perempuan,56.72
+Kota Semarang,2021,perempuan,60.32
+Kota Pekalongan,2021,perempuan,41.72
+Kota Tegal,2021,perempuan,41.66
+D I YOGYAKARTA,2021,perempuan,47.37
+Kulon Progo,2021,perempuan,40.38
+Bantul,2021,perempuan,49.22
+Gunung Kidul,2021,perempuan,22.45
+Sleman,2021,perempuan,59.32
+Kota Yogyakarta,2021,perempuan,67.12
+JAWA TIMUR,2021,perempuan,29.61
+Pacitan,2021,perempuan,21.61
+Ponorogo,2021,perempuan,26.45
+Trenggalek,2021,perempuan,23.28
+Tulungagung,2021,perempuan,29.24
+Blitar,2021,perempuan,25.04
+Kediri,2021,perempuan,31.66
+Malang,2021,perempuan,22.6
+Lumajang,2021,perempuan,17.53
+Jember,2021,perempuan,20.05
+Banyuwangi,2021,perempuan,25.98
+Bondowoso,2021,perempuan,16.31
+Situbondo,2021,perempuan,20.57
+Probolinggo,2021,perempuan,15.12
+Pasuruan,2021,perempuan,20.07
+Sidoarjo,2021,perempuan,56.75
+Mojokerto,2021,perempuan,33.94
+Jombang,2021,perempuan,32.12
+Nganjuk,2021,perempuan,26.59
+Madiun,2021,perempuan,28.15
+Magetan,2021,perempuan,32.65
+Ngawi,2021,perempuan,25.83
+Bojonegoro,2021,perempuan,22.54
+Tuban,2021,perempuan,24.04
+Lamongan,2021,perempuan,29.72
+Gresik,2021,perempuan,43.22
+Bangkalan,2021,perempuan,13.37
+Sampang,2021,perempuan,9.2
+Pamekasan,2021,perempuan,18.24
+Sumenep,2021,perempuan,15.62
+Kota Kediri,2021,perempuan,59.13
+Kota Blitar,2021,perempuan,58.22
+Kota Malang,2021,perempuan,58.59
+Kota Probolinggo,2021,perempuan,43.55
+Kota Pasuruan,2021,perempuan,48.94
+Kota Mojokerto,2021,perempuan,57.17
+Kota Madiun,2021,perempuan,71.14
+Kota Surabaya,2021,perempuan,52.51
+Kota Batu,2021,perempuan,46.03
+BANTEN,2021,perempuan,36.88
+Pandeglang,2021,perempuan,10.64
+Lebak,2021,perempuan,7.7
+Tangerang,2021,perempuan,36.23
+Serang,2021,perempuan,16.71
+Kota Tangerang,2021,perempuan,55.55
+Kota Cilegon,2021,perempuan,51.27
+Kota Serang,2021,perempuan,38.08
+Kota Tangerang Selatan,2021,perempuan,64
+BALI,2021,perempuan,40.07
+Jembrana,2021,perempuan,33.84
+Tabanan,2021,perempuan,41.95
+Badung,2021,perempuan,58.91
+Gianyar,2021,perempuan,47.12
+Klungkung,2021,perempuan,27.04
+Bangli,2021,perempuan,23.3
+Karangasem,2021,perempuan,13.73
+Buleleng,2021,perempuan,23.71
+Kota Denpasar,2021,perempuan,54.08
+NUSA TENGGARA BARAT,2021,perempuan,27.21
+Lombok Barat,2021,perempuan,16.89
+Lombok Tengah,2021,perempuan,20.48
+Lombok Timur,2021,perempuan,21.18
+Sumbawa,2021,perempuan,28.77
+Dompu,2021,perempuan,40.61
+Bima,2021,perempuan,40.54
+Sumbawa Barat,2021,perempuan,34.76
+Lombok Utara,2021,perempuan,15.1
+Kota Mataram,2021,perempuan,43.18
+Kota Bima,2021,perempuan,58.68
+NUSA TENGGARA TIMUR,2021,perempuan,29.14
+Sumba Barat,2021,perempuan,24.47
+Sumba Timur,2021,perempuan,37.91
+Kupang,2021,perempuan,24.89
+Timor Tengah Selatan,2021,perempuan,18.65
+Timor Tengah Utara,2021,perempuan,29.18
+Belu,2021,perempuan,26.53
+Alor,2021,perempuan,28.62
+Lembata,2021,perempuan,23.71
+Flores Timur,2021,perempuan,22.2
+Sikka,2021,perempuan,26.99
+Ende,2021,perempuan,34.08
+Ngada,2021,perempuan,32.96
+Manggarai,2021,perempuan,24.78
+Rote Ndao,2021,perempuan,28.24
+Manggarai Barat,2021,perempuan,25.44
+Sumba Tengah,2021,perempuan,26.57
+Sumba Barat Daya,2021,perempuan,25.09
+Nagekeo,2021,perempuan,28.28
+Manggarai Timur,2021,perempuan,19.23
+Sabu Raijua,2021,perempuan,23.61
+Malaka,2021,perempuan,26.66
+Kota Kupang,2021,perempuan,65.55
+KALIMANTAN BARAT,2021,perempuan,26.99
+Sambas,2021,perempuan,18.7
+Bengkayang,2021,perempuan,23.45
+Landak,2021,perempuan,21.08
+Mempawah,2021,perempuan,25.01
+Sanggau,2021,perempuan,28.31
+Ketapang,2021,perempuan,21.41
+Sintang,2021,perempuan,22.74
+Kapuas Hulu,2021,perempuan,22.49
+Sekadau,2021,perempuan,18.23
+Melawi,2021,perempuan,19.79
+Kayong Utara,2021,perempuan,17.09
+Kubu Raya,2021,perempuan,24.47
+Kota Pontianak,2021,perempuan,53.01
+Kota Singkawang,2021,perempuan,33.94
+KALIMANTAN TENGAH,2021,perempuan,29.37
+Kotawaringin Barat,2021,perempuan,29.51
+Kotawaringin Timur,2021,perempuan,25.65
+Kapuas,2021,perempuan,17.69
+Barito Selatan,2021,perempuan,30.57
+Barito Utara,2021,perempuan,33.48
+Sukamara,2021,perempuan,26.87
+Lamandau,2021,perempuan,24.38
+Seruyan,2021,perempuan,19.77
+Katingan,2021,perempuan,23.45
+Pulang Pisau,2021,perempuan,23.77
+Gunung Mas,2021,perempuan,33.7
+Barito Timur,2021,perempuan,37.58
+Murung Raya,2021,perempuan,20.07
+Kota Palangka Raya,2021,perempuan,59.04
+KALIMANTAN SELATAN,2021,perempuan,31.17
+Tanah Laut,2021,perempuan,22.39
+Kotabaru,2021,perempuan,22.93
+Banjar,2021,perempuan,25.24
+Barito Kuala,2021,perempuan,27.44
+Tapin,2021,perempuan,24.24
+Hulu Sungai Selatan,2021,perempuan,22.04
+Hulu Sungai Tengah,2021,perempuan,23.4
+Hulu Sungai Utara,2021,perempuan,26.21
+Tabalong,2021,perempuan,29.09
+Tanah Bumbu,2021,perempuan,26.75
+Balangan,2021,perempuan,25.98
+Kota Banjarmasin,2021,perempuan,50.54
+Kota Banjar Baru,2021,perempuan,54.84
+KALIMANTAN TIMUR,2021,perempuan,46.36
+Paser,2021,perempuan,32.88
+Kutai Barat,2021,perempuan,35.24
+Kutai Kartanegara,2021,perempuan,35.39
+Kutai Timur,2021,perempuan,41.14
+Berau,2021,perempuan,42.25
+Penajam Paser Utara,2021,perempuan,30.2
+Mahakam Ulu,2021,perempuan,33.27
+Kota Balikpapan,2021,perempuan,62.63
+Kota Samarinda,2021,perempuan,53.07
+Kota Bontang,2021,perempuan,58.63
+KALIMANTAN UTARA,2021,perempuan,38.66
+Malinau,2021,perempuan,32.37
+Bulungan,2021,perempuan,40.28
+Tana Tidung,2021,perempuan,36.33
+Nunukan,2021,perempuan,28.69
+Kota Tarakan,2021,perempuan,47.64
+SULAWESI UTARA,2021,perempuan,45.72
+Bolaang Mongondow,2021,perempuan,26.13
+Minahasa,2021,perempuan,48.57
+Kepulauan Sangihe,2021,perempuan,37.22
+Kepulauan Talaud,2021,perempuan,43.65
+Minahasa Selatan,2021,perempuan,39.47
+Minahasa Utara,2021,perempuan,47.55
+Bolaang Mongondow Utara,2021,perempuan,26.8
+Siau Tagulandang Biaro,2021,perempuan,37.96
+Minahasa Tenggara,2021,perempuan,40.15
+Bolaang Mongondow Selatan,2021,perempuan,28.14
+Bolaang Mongondow Timur,2021,perempuan,24.86
+Kota Manado,2021,perempuan,65.97
+Kota Bitung,2021,perempuan,46.25
+Kota Tomohon,2021,perempuan,56.21
+Kota Kotamobagu,2021,perempuan,52.26
+SULAWESI TENGAH,2021,perempuan,33.54
+Banggai Kepulauan,2021,perempuan,28.85
+Banggai,2021,perempuan,27.61
+Morowali,2021,perempuan,34.3
+Poso,2021,perempuan,41.31
+Donggala,2021,perempuan,23.46
+Toli-Toli,2021,perempuan,31.54
+Buol,2021,perempuan,34.65
+Parigi Moutong,2021,perempuan,25.66
+Tojo Una-Una,2021,perempuan,25.7
+Sigi,2021,perempuan,32.67
+Banggai Laut,2021,perempuan,26.42
+Morowali Utara,2021,perempuan,31.71
+Kota Palu,2021,perempuan,59.45
+SULAWESI SELATAN,2021,perempuan,35.35
+Kepulauan Selayar,2021,perempuan,34.78
+Bulukumba,2021,perempuan,29.43
+Bantaeng,2021,perempuan,24.43
+Jeneponto,2021,perempuan,22.44
+Takalar,2021,perempuan,27.85
+Gowa,2021,perempuan,26.34
+Sinjai,2021,perempuan,30.11
+Maros,2021,perempuan,34.34
+Pangkajene dan Kepulauan,2021,perempuan,29.31
+Barru,2021,perempuan,32.63
+Bone,2021,perempuan,23.63
+Soppeng,2021,perempuan,29.44
+Wajo,2021,perempuan,21.29
+Sidenreng Rappang,2021,perempuan,30.36
+Pinrang,2021,perempuan,28.1
+Enrekang,2021,perempuan,37.24
+Luwu,2021,perempuan,37.67
+Tana Toraja,2021,perempuan,41.06
+Luwu Utara,2021,perempuan,25.85
+Luwu Timur,2021,perempuan,32.46
+Toraja Utara,2021,perempuan,41.99
+Kota Makasar,2021,perempuan,61.09
+Kota Parepare,2021,perempuan,61.53
+Kota Palopo,2021,perempuan,62.1
+SULAWESI TENGGARA,2021,perempuan,36.18
+Buton,2021,perempuan,28.53
+Muna,2021,perempuan,31.52
+Konawe,2021,perempuan,35.22
+Kolaka,2021,perempuan,33.36
+Konawe Selatan,2021,perempuan,26.66
+Bombana,2021,perempuan,27.82
+Wakatobi,2021,perempuan,29.88
+Kolaka Utara,2021,perempuan,30.63
+Buton Utara,2021,perempuan,27.8
+Konawe Utara,2021,perempuan,36.95
+Kolaka Timur,2021,perempuan,30.36
+Konawe Kepulauan,2021,perempuan,34.73
+Muna Barat,2021,perempuan,27.06
+Buton Tengah,2021,perempuan,25.33
+Buton Selatan,2021,perempuan,20.25
+Kota Kendari,2021,perempuan,63.98
+Kota Baubau,2021,perempuan,55.58
+GORONTALO,2021,perempuan,32.99
+Boalemo,2021,perempuan,25.73
+Gorontalo,2021,perempuan,31
+Pohuwato,2021,perempuan,24.67
+Bone Bolango,2021,perempuan,31.49
+Gorontalo Utara,2021,perempuan,25.92
+Kota Gorontalo,2021,perempuan,51.58
+SULAWESI BARAT,2021,perempuan,31.03
+Majene,2021,perempuan,38.36
+Polewali Mandar,2021,perempuan,29.37
+Mamasa,2021,perempuan,36.85
+Mamuju,2021,perempuan,29.16
+Mamuju Utara / Pasangkayu,2021,perempuan,29.74
+Mamuju Tengah,2021,perempuan,25.47
+MALUKU,2021,perempuan,49.42
+Maluku Tenggara Barat / Kepulauan Tanimbar,2021,perempuan,44.53
+Maluku Tenggara,2021,perempuan,45.74
+Maluku Tengah,2021,perempuan,46.71
+Buru,2021,perempuan,33.69
+Kepulauan Aru,2021,perempuan,36.4
+Seram Bagian Barat,2021,perempuan,41.49
+Seram Bagian Timur,2021,perempuan,29.88
+Maluku Barat Daya,2021,perempuan,34.04
+Buru Selatan,2021,perempuan,29.71
+Kota Ambon,2021,perempuan,73.31
+Kota Tual,2021,perempuan,47.53
+MALUKU UTARA,2021,perempuan,35.05
+Halmahera Barat,2021,perempuan,32.61
+Halmahera Tengah,2021,perempuan,35.48
+Kepulauan Sula,2021,perempuan,31.72
+Halmahera Selatan,2021,perempuan,22.57
+Halmahera Utara,2021,perempuan,27.53
+Halmahera Timur,2021,perempuan,24.94
+Pulau Morotai,2021,perempuan,21.43
+Pulau Taliabu,2021,perempuan,17.49
+Kota Ternate,2021,perempuan,62.93
+Kota Tidore Kepulauan,2021,perempuan,43.62
+PAPUA BARAT,2021,perempuan,46.65
+Fakfak,2021,perempuan,50.07
+Kaimana,2021,perempuan,49.24
+Teluk Wondama,2021,perempuan,32.81
+Teluk Bintuni,2021,perempuan,45.29
+Manokwari,2021,perempuan,38.23
+Sorong Selatan,2021,perempuan,24.64
+Sorong,2021,perempuan,34.58
+Raja Ampat,2021,perempuan,31.33
+Tambrauw,2021,perempuan,36.14
+Maybrat,2021,perempuan,53.47
+Manokwari Selatan,2021,perempuan,41.95
+Pegunungan Arfak,2021,perempuan,17.44
+Kota Sorong,2021,perempuan,65.46
+PAPUA,2021,perempuan,26.44
+Merauke,2021,perempuan,34.7
+Jayawijaya,2021,perempuan,18.68
+Jayapura,2021,perempuan,47.28
+Nabire,2021,perempuan,44.79
+Kepulauan Yapen,2021,perempuan,41.12
+Biak Numfor,2021,perempuan,43.86
+Paniai,2021,perempuan,5.63
+Puncak Jaya,2021,perempuan,4.96
+Mimika,2021,perempuan,52.07
+Boven Digoel,2021,perempuan,37.83
+Mappi,2021,perempuan,17.35
+Asmat,2021,perempuan,17.24
+Yahukimo,2021,perempuan,5.85
+Pegunungan Bintang,2021,perempuan,8.43
+Tolikara,2021,perempuan,7.52
+Sarmi,2021,perempuan,31.6
+Keerom,2021,perempuan,29.16
+Waropen,2021,perempuan,32.87
+Supiori,2021,perempuan,35.74
+Mamberamo Raya,2021,perempuan,23.91
+Nduga,2021,perempuan,6.86
+Lanny Jaya,2021,perempuan,9.2
+Mamberamo Tengah,2021,perempuan,13.91
+Yalimo,2021,perempuan,12.2
+Puncak,2021,perempuan,4.54
+Dogiyai,2021,perempuan,6.94
+Intan Jaya,2021,perempuan,3.76
+Deiyai,2021,perempuan,2.27
+Kota Jayapura,2021,perempuan,66.56
+INDONESIA,2021,perempuan,34.87
+ACEH,2022,laki_laki,47.72
+Simeulue,2022,laki_laki,50.98
+Aceh Singkil,2022,laki_laki,38.35
+Aceh Selatan,2022,laki_laki,37.46
+Aceh Tenggara,2022,laki_laki,55.48
+Aceh Timur,2022,laki_laki,32.2
+Aceh Tengah,2022,laki_laki,48.69
+Aceh Barat,2022,laki_laki,51.27
+Aceh Besar,2022,laki_laki,52.08
+Pidie,2022,laki_laki,42.41
+Bireuen,2022,laki_laki,42.45
+Aceh Utara,2022,laki_laki,40.98
+Aceh Barat Daya,2022,laki_laki,38.21
+Gayo Lues,2022,laki_laki,41.4
+Aceh Tamiang,2022,laki_laki,47.09
+Nagan Raya,2022,laki_laki,47.51
+Aceh Jaya,2022,laki_laki,37.06
+Bener Meriah,2022,laki_laki,46.15
+Pidie Jaya,2022,laki_laki,52.54
+Kota Banda Aceh,2022,laki_laki,83.85
+Kota Sabang,2022,laki_laki,61.73
+Kota Langsa,2022,laki_laki,67.36
+Kota Lhokseumawe,2022,laki_laki,61.77
+Kota Subulussalam,2022,laki_laki,38.36
+SUMATERA UTARA,2022,laki_laki,54.36
+Nias,2022,laki_laki,41.78
+Mandailing Natal,2022,laki_laki,42.59
+Tapanuli Selatan,2022,laki_laki,49.31
+Tapanuli Tengah,2022,laki_laki,46.31
+Tapanuli Utara,2022,laki_laki,58.58
+Toba Samosir / Toba,2022,laki_laki,65.17
+Labuhan Batu,2022,laki_laki,48.36
+Asahan,2022,laki_laki,40.18
+Simalungun,2022,laki_laki,54.05
+Dairi,2022,laki_laki,51.63
+Karo,2022,laki_laki,53.28
+Deli Serdang,2022,laki_laki,62.22
+Langkat,2022,laki_laki,40.58
+Nias Selatan,2022,laki_laki,34.51
+Humbang Hasundutan,2022,laki_laki,57.9
+Pakpak Bharat,2022,laki_laki,51.56
+Samosir,2022,laki_laki,56.46
+Serdang Bedagai,2022,laki_laki,42.29
+Batu Bara,2022,laki_laki,40.09
+Padang Lawas Utara,2022,laki_laki,47.83
+Padang Lawas,2022,laki_laki,44.2
+Labuhan Batu Selatan,2022,laki_laki,42.61
+Labuhan Batu Utara,2022,laki_laki,45.06
+Nias Utara,2022,laki_laki,35.48
+Nias Barat,2022,laki_laki,44.52
+Kota Sibolga,2022,laki_laki,57.96
+Kota Tanjung Balai,2022,laki_laki,44.37
+Kota Pematang Siantar,2022,laki_laki,77.28
+Kota Tebing Tinggi,2022,laki_laki,65.16
+Kota Medan,2022,laki_laki,70.76
+Kota Binjai,2022,laki_laki,73.78
+Kota Padangsidimpuan,2022,laki_laki,65.16
+Kota Gunungsitoli,2022,laki_laki,50.57
+SUMATERA BARAT,2022,laki_laki,45.32
+Kepulauan Mentawai,2022,laki_laki,38.77
+Pesisir Selatan,2022,laki_laki,39.41
+Solok,2022,laki_laki,26.11
+Sijunjung,2022,laki_laki,34.4
+Tanah Datar,2022,laki_laki,41.43
+Padang Pariaman,2022,laki_laki,39.57
+Agam,2022,laki_laki,41.97
+Lima Puluh Kota,2022,laki_laki,34.07
+Pasaman,2022,laki_laki,33.96
+Solok Selatan,2022,laki_laki,38.57
+Dharmasraya,2022,laki_laki,36.02
+Pasaman Barat,2022,laki_laki,40.39
+Kota Padang,2022,laki_laki,68.54
+Kota Solok,2022,laki_laki,66.98
+Kota Sawah Lunto,2022,laki_laki,58.81
+Kota Padang Panjang,2022,laki_laki,69.34
+Kota Bukittinggi,2022,laki_laki,64.98
+Kota Payakumbuh,2022,laki_laki,56.85
+Kota Pariaman,2022,laki_laki,59.93
+RIAU,2022,laki_laki,45.76
+Kuantan Singingi,2022,laki_laki,40.89
+Indragiri Hulu,2022,laki_laki,34.97
+Indragiri Hilir,2022,laki_laki,24.35
+Pelalawan,2022,laki_laki,44.24
+Siak,2022,laki_laki,49.85
+Kampar,2022,laki_laki,45.22
+Rokan Hulu,2022,laki_laki,37.87
+Bengkalis,2022,laki_laki,51.14
+Rokan Hilir,2022,laki_laki,38.97
+Kepulauan Meranti,2022,laki_laki,33.95
+Kota Pekanbaru,2022,laki_laki,70.89
+Kota Dumai,2022,laki_laki,54.68
+JAMBI,2022,laki_laki,40.53
+Kerinci,2022,laki_laki,41.17
+Merangin,2022,laki_laki,32.19
+Sarolangun,2022,laki_laki,34.61
+Batang Hari,2022,laki_laki,34.82
+Muaro Jambi,2022,laki_laki,34.71
+Tanjung Jabung Timur,2022,laki_laki,31.04
+Tanjung Jabung Barat,2022,laki_laki,33.55
+Tebo,2022,laki_laki,30.78
+Bungo,2022,laki_laki,36.5
+Kota Jambi,2022,laki_laki,68.76
+Kota Sungai Penuh,2022,laki_laki,57.63
+SUMATERA SELATAN,2022,laki_laki,38.77
+Ogan Komering Ulu,2022,laki_laki,43.51
+Ogan Komering Ilir,2022,laki_laki,23.13
+Muara Enim,2022,laki_laki,39.06
+Lahat,2022,laki_laki,41.55
+Musi Rawas,2022,laki_laki,26.13
+Musi Banyuasin,2022,laki_laki,26.64
+Banyu Asin,2022,laki_laki,28.52
+Ogan Komering Ulu Selatan,2022,laki_laki,26.54
+Ogan Komering Ulu Timur,2022,laki_laki,28.21
+Ogan Ilir,2022,laki_laki,32.63
+Empat Lawang,2022,laki_laki,26.2
+Penukal Abab Lematang Ilir,2022,laki_laki,36.55
+Musi Rawas Utara,2022,laki_laki,29.38
+Kota Palembang,2022,laki_laki,66.27
+Kota Prabumulih,2022,laki_laki,61.62
+Kota Pagar Alam,2022,laki_laki,44.25
+Kota Lubuklinggau,2022,laki_laki,47.47
+BENGKULU,2022,laki_laki,42.62
+Bengkulu Selatan,2022,laki_laki,47.88
+Rejang Lebong,2022,laki_laki,36.8
+Bengkulu Utara,2022,laki_laki,34.87
+Kaur,2022,laki_laki,39.3
+Seluma,2022,laki_laki,36.4
+Mukomuko,2022,laki_laki,32.65
+Lebong,2022,laki_laki,36.89
+Kepahiang,2022,laki_laki,36.81
+Bengkulu Tengah,2022,laki_laki,35.86
+Kota Bengkulu,2022,laki_laki,67.45
+LAMPUNG,2022,laki_laki,34.88
+Lampung Barat,2022,laki_laki,31.87
+Tanggamus,2022,laki_laki,23.4
+Lampung Selatan,2022,laki_laki,31.03
+Lampung Timur,2022,laki_laki,33.47
+Lampung Tengah,2022,laki_laki,30
+Lampung Utara,2022,laki_laki,31.88
+Way Kanan,2022,laki_laki,27.26
+Tulangbawang,2022,laki_laki,28.5
+Pesawaran,2022,laki_laki,29.71
+Pringsewu,2022,laki_laki,32.94
+Mesuji,2022,laki_laki,20.94
+Tulang Bawang Barat,2022,laki_laki,28.86
+Pesisir Barat,2022,laki_laki,35.17
+Kota Bandar Lampung,2022,laki_laki,62.77
+Kota Metro,2022,laki_laki,63.3
+KEP. BANGKA BELITUNG,2022,laki_laki,40.76
+Bangka,2022,laki_laki,41.45
+Belitung,2022,laki_laki,43.31
+Bangka Barat,2022,laki_laki,35.33
+Bangka Tengah,2022,laki_laki,27.43
+Bangka Selatan,2022,laki_laki,29.33
+Belitung Timur,2022,laki_laki,42.6
+Kota Pangkal Pinang,2022,laki_laki,64.88
+KEPULAUAN RIAU,2022,laki_laki,60.73
+Karimun,2022,laki_laki,40.54
+Bintan,2022,laki_laki,45.5
+Natuna,2022,laki_laki,46.84
+Lingga,2022,laki_laki,30
+Kepulauan Anambas,2022,laki_laki,38.78
+Kota Batam,2022,laki_laki,68.95
+Kota Tanjung Pinang,2022,laki_laki,61.25
+DKI JAKARTA,2022,laki_laki,72.68
+Kep. Seribu,2022,laki_laki,47.55
+Kota Jakarta Selatan,2022,laki_laki,76.33
+Kota Jakarta Timur,2022,laki_laki,76.93
+Kota Jakarta Pusat,2022,laki_laki,75.22
+Kota Jakarta Barat,2022,laki_laki,68.97
+Kota Jakarta Utara,2022,laki_laki,65.71
+JAWA BARAT,2022,laki_laki,41.24
+Bogor,2022,laki_laki,38.98
+Sukabumi,2022,laki_laki,21.44
+Cianjur,2022,laki_laki,17.82
+Bandung,2022,laki_laki,38.14
+Garut,2022,laki_laki,27.26
+Tasikmalaya,2022,laki_laki,23.18
+Ciamis,2022,laki_laki,22.14
+Kuningan,2022,laki_laki,28.09
+Cirebon,2022,laki_laki,32.93
+Majalengka,2022,laki_laki,25.14
+Sumedang,2022,laki_laki,34.59
+Indramayu,2022,laki_laki,33.1
+Subang,2022,laki_laki,32.83
+Purwakarta,2022,laki_laki,34.46
+Karawang,2022,laki_laki,37.49
+Bekasi,2022,laki_laki,56.11
+Bandung Barat,2022,laki_laki,29.68
+Pangandaran,2022,laki_laki,25.86
+Kota Bogor,2022,laki_laki,60.07
+Kota Sukabumi,2022,laki_laki,55.65
+Kota Bandung,2022,laki_laki,63.16
+Kota Cirebon,2022,laki_laki,61.4
+Kota Bekasi,2022,laki_laki,76.22
+Kota Depok,2022,laki_laki,71.43
+Kota Cimahi,2022,laki_laki,66.07
+Kota Tasikmalaya,2022,laki_laki,42.57
+Kota Banjar,2022,laki_laki,34.55
+JAWA TENGAH,2022,laki_laki,34.14
+Cilacap,2022,laki_laki,29.01
+Banyumas,2022,laki_laki,32.18
+Purbalingga,2022,laki_laki,25.24
+Banjarnegara,2022,laki_laki,21.88
+Kebumen,2022,laki_laki,31.11
+Purworejo,2022,laki_laki,39.31
+Wonosobo,2022,laki_laki,20.43
+Magelang,2022,laki_laki,32.17
+Boyolali,2022,laki_laki,36.92
+Klaten,2022,laki_laki,51.06
+Sukoharjo,2022,laki_laki,54.2
+Wonogiri,2022,laki_laki,27.43
+Karanganyar,2022,laki_laki,40.72
+Sragen,2022,laki_laki,34.21
+Grobogan,2022,laki_laki,24.27
+Blora,2022,laki_laki,26.28
+Rembang,2022,laki_laki,28.36
+Pati,2022,laki_laki,34.1
+Kudus,2022,laki_laki,42.4
+Jepara,2022,laki_laki,31.87
+Demak,2022,laki_laki,32.31
+Semarang,2022,laki_laki,35.54
+Temanggung,2022,laki_laki,25.6
+Kendal,2022,laki_laki,30.79
+Batang,2022,laki_laki,23.37
+Pekalongan,2022,laki_laki,25.51
+Pemalang,2022,laki_laki,23.03
+Tegal,2022,laki_laki,27.17
+Brebes,2022,laki_laki,25.38
+Kota Magelang,2022,laki_laki,66.03
+Kota Surakarta,2022,laki_laki,63.4
+Kota Salatiga,2022,laki_laki,67.27
+Kota Semarang,2022,laki_laki,66.47
+Kota Pekalongan,2022,laki_laki,44.85
+Kota Tegal,2022,laki_laki,47.56
+D I YOGYAKARTA,2022,laki_laki,52.33
+Kulon Progo,2022,laki_laki,45.28
+Bantul,2022,laki_laki,51.32
+Gunung Kidul,2022,laki_laki,27.03
+Sleman,2022,laki_laki,65.83
+Kota Yogyakarta,2022,laki_laki,69.53
+JAWA TIMUR,2022,laki_laki,36.5
+Pacitan,2022,laki_laki,25.31
+Ponorogo,2022,laki_laki,34.93
+Trenggalek,2022,laki_laki,29.01
+Tulungagung,2022,laki_laki,35.14
+Blitar,2022,laki_laki,30
+Kediri,2022,laki_laki,34.8
+Malang,2022,laki_laki,27.63
+Lumajang,2022,laki_laki,25.31
+Jember,2022,laki_laki,23.22
+Banyuwangi,2022,laki_laki,34.33
+Bondowoso,2022,laki_laki,28.7
+Situbondo,2022,laki_laki,31.02
+Probolinggo,2022,laki_laki,24.19
+Pasuruan,2022,laki_laki,29.78
+Sidoarjo,2022,laki_laki,62.14
+Mojokerto,2022,laki_laki,47
+Jombang,2022,laki_laki,40.81
+Nganjuk,2022,laki_laki,35.96
+Madiun,2022,laki_laki,34.65
+Magetan,2022,laki_laki,40.58
+Ngawi,2022,laki_laki,31.19
+Bojonegoro,2022,laki_laki,32.62
+Tuban,2022,laki_laki,28.74
+Lamongan,2022,laki_laki,37.9
+Gresik,2022,laki_laki,49.97
+Bangkalan,2022,laki_laki,18.64
+Sampang,2022,laki_laki,15.57
+Pamekasan,2022,laki_laki,34.13
+Sumenep,2022,laki_laki,26.75
+Kota Kediri,2022,laki_laki,60.97
+Kota Blitar,2022,laki_laki,62.78
+Kota Malang,2022,laki_laki,61.56
+Kota Probolinggo,2022,laki_laki,56.97
+Kota Pasuruan,2022,laki_laki,56.2
+Kota Mojokerto,2022,laki_laki,66.8
+Kota Madiun,2022,laki_laki,75.06
+Kota Surabaya,2022,laki_laki,54.95
+Kota Batu,2022,laki_laki,47.83
+BANTEN,2022,laki_laki,47.38
+Pandeglang,2022,laki_laki,21.68
+Lebak,2022,laki_laki,19.86
+Tangerang,2022,laki_laki,49.19
+Serang,2022,laki_laki,31.05
+Kota Tangerang,2022,laki_laki,65.03
+Kota Cilegon,2022,laki_laki,61.5
+Kota Serang,2022,laki_laki,35.89
+Kota Tangerang Selatan,2022,laki_laki,70.91
+BALI,2022,laki_laki,53.52
+Jembrana,2022,laki_laki,44.98
+Tabanan,2022,laki_laki,51.13
+Badung,2022,laki_laki,66.92
+Gianyar,2022,laki_laki,57.51
+Klungkung,2022,laki_laki,52.04
+Bangli,2022,laki_laki,35.13
+Karangasem,2022,laki_laki,29.85
+Buleleng,2022,laki_laki,36.93
+Kota Denpasar,2022,laki_laki,70.2
+NUSA TENGGARA BARAT,2022,laki_laki,36.78
+Lombok Barat,2022,laki_laki,32.25
+Lombok Tengah,2022,laki_laki,31.62
+Lombok Timur,2022,laki_laki,30.22
+Sumbawa,2022,laki_laki,34.56
+Dompu,2022,laki_laki,43.23
+Bima,2022,laki_laki,43.68
+Sumbawa Barat,2022,laki_laki,42.73
+Lombok Utara,2022,laki_laki,30.15
+Kota Mataram,2022,laki_laki,53.75
+Kota Bima,2022,laki_laki,59.44
+NUSA TENGGARA TIMUR,2022,laki_laki,31.15
+Sumba Barat,2022,laki_laki,26.53
+Sumba Timur,2022,laki_laki,29.49
+Kupang,2022,laki_laki,27.31
+Timor Tengah Selatan,2022,laki_laki,23.4
+Timor Tengah Utara,2022,laki_laki,29.16
+Belu,2022,laki_laki,25.3
+Alor,2022,laki_laki,37.82
+Lembata,2022,laki_laki,32.83
+Flores Timur,2022,laki_laki,31.25
+Sikka,2022,laki_laki,27.79
+Ende,2022,laki_laki,33.64
+Ngada,2022,laki_laki,27.58
+Manggarai,2022,laki_laki,34.05
+Rote Ndao,2022,laki_laki,29.86
+Manggarai Barat,2022,laki_laki,30.39
+Sumba Tengah,2022,laki_laki,28.18
+Sumba Barat Daya,2022,laki_laki,22.25
+Nagekeo,2022,laki_laki,26.62
+Manggarai Timur,2022,laki_laki,22.31
+Sabu Raijua,2022,laki_laki,22.1
+Malaka,2022,laki_laki,28.92
+Kota Kupang,2022,laki_laki,61.97
+KALIMANTAN BARAT,2022,laki_laki,32.82
+Sambas,2022,laki_laki,20.07
+Bengkayang,2022,laki_laki,29.77
+Landak,2022,laki_laki,29.42
+Mempawah,2022,laki_laki,30.14
+Sanggau,2022,laki_laki,30.2
+Ketapang,2022,laki_laki,25.62
+Sintang,2022,laki_laki,34.24
+Kapuas Hulu,2022,laki_laki,27.72
+Sekadau,2022,laki_laki,25.96
+Melawi,2022,laki_laki,35.95
+Kayong Utara,2022,laki_laki,26.22
+Kubu Raya,2022,laki_laki,30.84
+Kota Pontianak,2022,laki_laki,59.67
+Kota Singkawang,2022,laki_laki,36.79
+KALIMANTAN TENGAH,2022,laki_laki,34.54
+Kotawaringin Barat,2022,laki_laki,36.33
+Kotawaringin Timur,2022,laki_laki,27.56
+Kapuas,2022,laki_laki,24.94
+Barito Selatan,2022,laki_laki,38.94
+Barito Utara,2022,laki_laki,35.6
+Sukamara,2022,laki_laki,27.74
+Lamandau,2022,laki_laki,35.87
+Seruyan,2022,laki_laki,31.98
+Katingan,2022,laki_laki,26.43
+Pulang Pisau,2022,laki_laki,27.99
+Gunung Mas,2022,laki_laki,32.66
+Barito Timur,2022,laki_laki,49.45
+Murung Raya,2022,laki_laki,26.89
+Kota Palangka Raya,2022,laki_laki,62.98
+KALIMANTAN SELATAN,2022,laki_laki,36.72
+Tanah Laut,2022,laki_laki,29.02
+Kotabaru,2022,laki_laki,31.53
+Banjar,2022,laki_laki,30.83
+Barito Kuala,2022,laki_laki,30.88
+Tapin,2022,laki_laki,31.86
+Hulu Sungai Selatan,2022,laki_laki,27.12
+Hulu Sungai Tengah,2022,laki_laki,34.52
+Hulu Sungai Utara,2022,laki_laki,23.8
+Tabalong,2022,laki_laki,41.34
+Tanah Bumbu,2022,laki_laki,33.89
+Balangan,2022,laki_laki,38.03
+Kota Banjarmasin,2022,laki_laki,51.37
+Kota Banjar Baru,2022,laki_laki,59.2
+KALIMANTAN TIMUR,2022,laki_laki,55.46
+Paser,2022,laki_laki,42.55
+Kutai Barat,2022,laki_laki,48.99
+Kutai Kartanegara,2022,laki_laki,47.41
+Kutai Timur,2022,laki_laki,49.14
+Berau,2022,laki_laki,50.25
+Penajam Paser Utara,2022,laki_laki,41.87
+Mahakam Ulu,2022,laki_laki,39.34
+Kota Balikpapan,2022,laki_laki,63.43
+Kota Samarinda,2022,laki_laki,67.33
+Kota Bontang,2022,laki_laki,66.92
+KALIMANTAN UTARA,2022,laki_laki,47.27
+Malinau,2022,laki_laki,48.88
+Bulungan,2022,laki_laki,43.94
+Tana Tidung,2022,laki_laki,49.05
+Nunukan,2022,laki_laki,35.95
+Kota Tarakan,2022,laki_laki,57.6
+SULAWESI UTARA,2022,laki_laki,46.22
+Bolaang Mongondow,2022,laki_laki,29.29
+Minahasa,2022,laki_laki,48.79
+Kepulauan Sangihe,2022,laki_laki,36.94
+Kepulauan Talaud,2022,laki_laki,47.2
+Minahasa Selatan,2022,laki_laki,40.88
+Minahasa Utara,2022,laki_laki,56.37
+Bolaang Mongondow Utara,2022,laki_laki,31.67
+Siau Tagulandang Biaro,2022,laki_laki,39.13
+Minahasa Tenggara,2022,laki_laki,33.19
+Bolaang Mongondow Selatan,2022,laki_laki,21.15
+Bolaang Mongondow Timur,2022,laki_laki,29.39
+Kota Manado,2022,laki_laki,64.01
+Kota Bitung,2022,laki_laki,50.55
+Kota Tomohon,2022,laki_laki,55.12
+Kota Kotamobagu,2022,laki_laki,45.73
+SULAWESI TENGAH,2022,laki_laki,36.58
+Banggai Kepulauan,2022,laki_laki,33.87
+Banggai,2022,laki_laki,33.7
+Morowali,2022,laki_laki,43.02
+Poso,2022,laki_laki,40.8
+Donggala,2022,laki_laki,24.31
+Toli-Toli,2022,laki_laki,36.1
+Buol,2022,laki_laki,34.67
+Parigi Moutong,2022,laki_laki,26.98
+Tojo Una-Una,2022,laki_laki,28.34
+Sigi,2022,laki_laki,35.47
+Banggai Laut,2022,laki_laki,31.97
+Morowali Utara,2022,laki_laki,39.95
+Kota Palu,2022,laki_laki,61.78
+SULAWESI SELATAN,2022,laki_laki,41.53
+Kepulauan Selayar,2022,laki_laki,35.17
+Bulukumba,2022,laki_laki,36.87
+Bantaeng,2022,laki_laki,31.5
+Jeneponto,2022,laki_laki,26.91
+Takalar,2022,laki_laki,38.29
+Gowa,2022,laki_laki,39.14
+Sinjai,2022,laki_laki,29.59
+Maros,2022,laki_laki,37.93
+Pangkajene dan Kepulauan,2022,laki_laki,38.74
+Barru,2022,laki_laki,34.59
+Bone,2022,laki_laki,27.8
+Soppeng,2022,laki_laki,37.36
+Wajo,2022,laki_laki,26.85
+Sidenreng Rappang,2022,laki_laki,29.91
+Pinrang,2022,laki_laki,35.29
+Enrekang,2022,laki_laki,41.97
+Luwu,2022,laki_laki,42.5
+Tana Toraja,2022,laki_laki,44.87
+Luwu Utara,2022,laki_laki,30.05
+Luwu Timur,2022,laki_laki,38.19
+Toraja Utara,2022,laki_laki,44.3
+Kota Makasar,2022,laki_laki,68
+Kota Parepare,2022,laki_laki,54.89
+Kota Palopo,2022,laki_laki,64.17
+SULAWESI TENGGARA,2022,laki_laki,42.12
+Buton,2022,laki_laki,37.39
+Muna,2022,laki_laki,37.55
+Konawe,2022,laki_laki,41.66
+Kolaka,2022,laki_laki,40.73
+Konawe Selatan,2022,laki_laki,31.46
+Bombana,2022,laki_laki,30.89
+Wakatobi,2022,laki_laki,37.62
+Kolaka Utara,2022,laki_laki,33.71
+Buton Utara,2022,laki_laki,43.49
+Konawe Utara,2022,laki_laki,43.89
+Kolaka Timur,2022,laki_laki,33.86
+Konawe Kepulauan,2022,laki_laki,42.05
+Muna Barat,2022,laki_laki,36.42
+Buton Tengah,2022,laki_laki,30.87
+Buton Selatan,2022,laki_laki,31.37
+Kota Kendari,2022,laki_laki,67.86
+Kota Baubau,2022,laki_laki,56.18
+GORONTALO,2022,laki_laki,31.02
+Boalemo,2022,laki_laki,23.67
+Gorontalo,2022,laki_laki,28.75
+Pohuwato,2022,laki_laki,25.1
+Bone Bolango,2022,laki_laki,29.99
+Gorontalo Utara,2022,laki_laki,23.27
+Kota Gorontalo,2022,laki_laki,49.6
+SULAWESI BARAT,2022,laki_laki,38.03
+Majene,2022,laki_laki,48.69
+Polewali Mandar,2022,laki_laki,35.2
+Mamasa,2022,laki_laki,37.11
+Mamuju,2022,laki_laki,41.03
+Mamuju Utara / Pasangkayu,2022,laki_laki,35.28
+Mamuju Tengah,2022,laki_laki,32.7
+MALUKU,2022,laki_laki,51.49
+Maluku Tenggara Barat / Kepulauan Tanimbar,2022,laki_laki,44.59
+Maluku Tenggara,2022,laki_laki,43.59
+Maluku Tengah,2022,laki_laki,48.52
+Buru,2022,laki_laki,42.4
+Kepulauan Aru,2022,laki_laki,35.38
+Seram Bagian Barat,2022,laki_laki,42.79
+Seram Bagian Timur,2022,laki_laki,37.32
+Maluku Barat Daya,2022,laki_laki,38.39
+Buru Selatan,2022,laki_laki,34.63
+Kota Ambon,2022,laki_laki,71.17
+Kota Tual,2022,laki_laki,57.08
+MALUKU UTARA,2022,laki_laki,44.94
+Halmahera Barat,2022,laki_laki,38.22
+Halmahera Tengah,2022,laki_laki,38.34
+Kepulauan Sula,2022,laki_laki,37.33
+Halmahera Selatan,2022,laki_laki,32.75
+Halmahera Utara,2022,laki_laki,40.15
+Halmahera Timur,2022,laki_laki,39.87
+Pulau Morotai,2022,laki_laki,31.79
+Pulau Taliabu,2022,laki_laki,33.52
+Kota Ternate,2022,laki_laki,76.43
+Kota Tidore Kepulauan,2022,laki_laki,45.3
+PAPUA BARAT,2022,laki_laki,56.54
+Fakfak,2022,laki_laki,53.19
+Kaimana,2022,laki_laki,52.14
+Teluk Wondama,2022,laki_laki,39.76
+Teluk Bintuni,2022,laki_laki,54.67
+Manokwari,2022,laki_laki,55.65
+Sorong Selatan,2022,laki_laki,46.55
+Sorong,2022,laki_laki,47.17
+Raja Ampat,2022,laki_laki,36.25
+Tambrauw,2022,laki_laki,48.13
+Maybrat,2022,laki_laki,60.52
+Manokwari Selatan,2022,laki_laki,52.54
+Pegunungan Arfak,2022,laki_laki,45.02
+Kota Sorong,2022,laki_laki,71.53
+PAPUA,2022,laki_laki,38.8
+Merauke,2022,laki_laki,55.34
+Jayawijaya,2022,laki_laki,39.33
+Jayapura,2022,laki_laki,62.38
+Nabire,2022,laki_laki,51.89
+Kepulauan Yapen,2022,laki_laki,58.43
+Biak Numfor,2022,laki_laki,62.12
+Paniai,2022,laki_laki,20.01
+Puncak Jaya,2022,laki_laki,34.46
+Mimika,2022,laki_laki,58.73
+Boven Digoel,2022,laki_laki,55.8
+Mappi,2022,laki_laki,43.83
+Asmat,2022,laki_laki,46.11
+Yahukimo,2022,laki_laki,15.88
+Pegunungan Bintang,2022,laki_laki,25.74
+Tolikara,2022,laki_laki,14.34
+Sarmi,2022,laki_laki,53.3
+Keerom,2022,laki_laki,43.96
+Waropen,2022,laki_laki,49.53
+Supiori,2022,laki_laki,56.79
+Mamberamo Raya,2022,laki_laki,40.82
+Nduga,2022,laki_laki,13.45
+Lanny Jaya,2022,laki_laki,22.63
+Mamberamo Tengah,2022,laki_laki,29.46
+Yalimo,2022,laki_laki,18.74
+Puncak,2022,laki_laki,8.53
+Dogiyai,2022,laki_laki,17.49
+Intan Jaya,2022,laki_laki,21.65
+Deiyai,2022,laki_laki,15.54
+Kota Jayapura,2022,laki_laki,76.55
+INDONESIA,2022,laki_laki,42.06
+ACEH,2022,perempuan,42.91
+Simeulue,2022,perempuan,40.43
+Aceh Singkil,2022,perempuan,37.36
+Aceh Selatan,2022,perempuan,29.16
+Aceh Tenggara,2022,perempuan,46.46
+Aceh Timur,2022,perempuan,29.14
+Aceh Tengah,2022,perempuan,45.77
+Aceh Barat,2022,perempuan,45.53
+Aceh Besar,2022,perempuan,53.95
+Pidie,2022,perempuan,38.14
+Bireuen,2022,perempuan,39.33
+Aceh Utara,2022,perempuan,33.93
+Aceh Barat Daya,2022,perempuan,37.18
+Gayo Lues,2022,perempuan,30.51
+Aceh Tamiang,2022,perempuan,43.19
+Nagan Raya,2022,perempuan,39.15
+Aceh Jaya,2022,perempuan,32.95
+Bener Meriah,2022,perempuan,45.13
+Pidie Jaya,2022,perempuan,39.24
+Kota Banda Aceh,2022,perempuan,78.21
+Kota Sabang,2022,perempuan,59.12
+Kota Langsa,2022,perempuan,61.46
+Kota Lhokseumawe,2022,perempuan,59.03
+Kota Subulussalam,2022,perempuan,32.91
+SUMATERA UTARA,2022,perempuan,49.82
+Nias,2022,perempuan,24.45
+Mandailing Natal,2022,perempuan,35.28
+Tapanuli Selatan,2022,perempuan,42.31
+Tapanuli Tengah,2022,perempuan,43.07
+Tapanuli Utara,2022,perempuan,56.15
+Toba Samosir / Toba,2022,perempuan,62.11
+Labuhan Batu,2022,perempuan,41.53
+Asahan,2022,perempuan,35.48
+Simalungun,2022,perempuan,50.04
+Dairi,2022,perempuan,53.84
+Karo,2022,perempuan,55.68
+Deli Serdang,2022,perempuan,56.07
+Langkat,2022,perempuan,35.33
+Nias Selatan,2022,perempuan,23.64
+Humbang Hasundutan,2022,perempuan,57.64
+Pakpak Bharat,2022,perempuan,52
+Samosir,2022,perempuan,49
+Serdang Bedagai,2022,perempuan,39.36
+Batu Bara,2022,perempuan,37.75
+Padang Lawas Utara,2022,perempuan,40.04
+Padang Lawas,2022,perempuan,39.83
+Labuhan Batu Selatan,2022,perempuan,38.95
+Labuhan Batu Utara,2022,perempuan,38.77
+Nias Utara,2022,perempuan,20.86
+Nias Barat,2022,perempuan,25.81
+Kota Sibolga,2022,perempuan,58.45
+Kota Tanjung Balai,2022,perempuan,52.37
+Kota Pematang Siantar,2022,perempuan,71.98
+Kota Tebing Tinggi,2022,perempuan,62.25
+Kota Medan,2022,perempuan,66.8
+Kota Binjai,2022,perempuan,63.83
+Kota Padangsidimpuan,2022,perempuan,62.02
+Kota Gunungsitoli,2022,perempuan,37.52
+SUMATERA BARAT,2022,perempuan,48.52
+Kepulauan Mentawai,2022,perempuan,29.57
+Pesisir Selatan,2022,perempuan,43.73
+Solok,2022,perempuan,35.13
+Sijunjung,2022,perempuan,39.29
+Tanah Datar,2022,perempuan,45.02
+Padang Pariaman,2022,perempuan,40.74
+Agam,2022,perempuan,46.32
+Lima Puluh Kota,2022,perempuan,37.66
+Pasaman,2022,perempuan,32.53
+Solok Selatan,2022,perempuan,38.28
+Dharmasraya,2022,perempuan,41.67
+Pasaman Barat,2022,perempuan,43.04
+Kota Padang,2022,perempuan,69.99
+Kota Solok,2022,perempuan,67.03
+Kota Sawah Lunto,2022,perempuan,54.8
+Kota Padang Panjang,2022,perempuan,77.34
+Kota Bukittinggi,2022,perempuan,73.97
+Kota Payakumbuh,2022,perempuan,60.68
+Kota Pariaman,2022,perempuan,60.98
+RIAU,2022,perempuan,43.24
+Kuantan Singingi,2022,perempuan,37.19
+Indragiri Hulu,2022,perempuan,33.92
+Indragiri Hilir,2022,perempuan,23.74
+Pelalawan,2022,perempuan,39.41
+Siak,2022,perempuan,48.7
+Kampar,2022,perempuan,40.67
+Rokan Hulu,2022,perempuan,33.54
+Bengkalis,2022,perempuan,43.3
+Rokan Hilir,2022,perempuan,33.51
+Kepulauan Meranti,2022,perempuan,32.18
+Kota Pekanbaru,2022,perempuan,71.62
+Kota Dumai,2022,perempuan,53.01
+JAMBI,2022,perempuan,35.28
+Kerinci,2022,perempuan,31.69
+Merangin,2022,perempuan,25.28
+Sarolangun,2022,perempuan,30.11
+Batang Hari,2022,perempuan,33.5
+Muaro Jambi,2022,perempuan,31.07
+Tanjung Jabung Timur,2022,perempuan,27.62
+Tanjung Jabung Barat,2022,perempuan,29.41
+Tebo,2022,perempuan,28.05
+Bungo,2022,perempuan,29.43
+Kota Jambi,2022,perempuan,60.11
+Kota Sungai Penuh,2022,perempuan,51.19
+SUMATERA SELATAN,2022,perempuan,35.75
+Ogan Komering Ulu,2022,perempuan,39.31
+Ogan Komering Ilir,2022,perempuan,19.65
+Muara Enim,2022,perempuan,29.66
+Lahat,2022,perempuan,35.93
+Musi Rawas,2022,perempuan,27.83
+Musi Banyuasin,2022,perempuan,26.62
+Banyu Asin,2022,perempuan,24.59
+Ogan Komering Ulu Selatan,2022,perempuan,24.23
+Ogan Komering Ulu Timur,2022,perempuan,28.96
+Ogan Ilir,2022,perempuan,24.27
+Empat Lawang,2022,perempuan,26.84
+Penukal Abab Lematang Ilir,2022,perempuan,28.63
+Musi Rawas Utara,2022,perempuan,20.68
+Kota Palembang,2022,perempuan,62.46
+Kota Prabumulih,2022,perempuan,57.42
+Kota Pagar Alam,2022,perempuan,42.95
+Kota Lubuklinggau,2022,perempuan,41.5
+BENGKULU,2022,perempuan,38.72
+Bengkulu Selatan,2022,perempuan,43.73
+Rejang Lebong,2022,perempuan,33.86
+Bengkulu Utara,2022,perempuan,30.59
+Kaur,2022,perempuan,29.39
+Seluma,2022,perempuan,30.37
+Mukomuko,2022,perempuan,27.94
+Lebong,2022,perempuan,32.46
+Kepahiang,2022,perempuan,32.44
+Bengkulu Tengah,2022,perempuan,26.35
+Kota Bengkulu,2022,perempuan,67.76
+LAMPUNG,2022,perempuan,30.44
+Lampung Barat,2022,perempuan,31.53
+Tanggamus,2022,perempuan,21.09
+Lampung Selatan,2022,perempuan,27.19
+Lampung Timur,2022,perempuan,26.6
+Lampung Tengah,2022,perempuan,25.66
+Lampung Utara,2022,perempuan,25.19
+Way Kanan,2022,perempuan,21.32
+Tulangbawang,2022,perempuan,22.57
+Pesawaran,2022,perempuan,23.15
+Pringsewu,2022,perempuan,29.9
+Mesuji,2022,perempuan,19.96
+Tulang Bawang Barat,2022,perempuan,26.87
+Pesisir Barat,2022,perempuan,30.49
+Kota Bandar Lampung,2022,perempuan,57.96
+Kota Metro,2022,perempuan,58.82
+KEP. BANGKA BELITUNG,2022,perempuan,36.08
+Bangka,2022,perempuan,38.06
+Belitung,2022,perempuan,41.21
+Bangka Barat,2022,perempuan,31.8
+Bangka Tengah,2022,perempuan,21.42
+Bangka Selatan,2022,perempuan,23.54
+Belitung Timur,2022,perempuan,38.51
+Kota Pangkal Pinang,2022,perempuan,55.24
+KEPULAUAN RIAU,2022,perempuan,58.4
+Karimun,2022,perempuan,39.63
+Bintan,2022,perempuan,48.69
+Natuna,2022,perempuan,39.97
+Lingga,2022,perempuan,29.25
+Kepulauan Anambas,2022,perempuan,31.32
+Kota Batam,2022,perempuan,65.78
+Kota Tanjung Pinang,2022,perempuan,58.36
+DKI JAKARTA,2022,perempuan,64.51
+Kep. Seribu,2022,perempuan,41.45
+Kota Jakarta Selatan,2022,perempuan,68.36
+Kota Jakarta Timur,2022,perempuan,71.26
+Kota Jakarta Pusat,2022,perempuan,67.78
+Kota Jakarta Barat,2022,perempuan,59.92
+Kota Jakarta Utara,2022,perempuan,54.06
+JAWA BARAT,2022,perempuan,35.36
+Bogor,2022,perempuan,31.15
+Sukabumi,2022,perempuan,16.84
+Cianjur,2022,perempuan,14.88
+Bandung,2022,perempuan,35.94
+Garut,2022,perempuan,21.13
+Tasikmalaya,2022,perempuan,18.99
+Ciamis,2022,perempuan,20.37
+Kuningan,2022,perempuan,23.49
+Cirebon,2022,perempuan,26.68
+Majalengka,2022,perempuan,20.48
+Sumedang,2022,perempuan,27.35
+Indramayu,2022,perempuan,25.33
+Subang,2022,perempuan,25.18
+Purwakarta,2022,perempuan,26.52
+Karawang,2022,perempuan,29.26
+Bekasi,2022,perempuan,47.28
+Bandung Barat,2022,perempuan,21.94
+Pangandaran,2022,perempuan,20.76
+Kota Bogor,2022,perempuan,50.35
+Kota Sukabumi,2022,perempuan,50.4
+Kota Bandung,2022,perempuan,56.11
+Kota Cirebon,2022,perempuan,54.78
+Kota Bekasi,2022,perempuan,72.08
+Kota Depok,2022,perempuan,66.91
+Kota Cimahi,2022,perempuan,57.57
+Kota Tasikmalaya,2022,perempuan,39.41
+Kota Banjar,2022,perempuan,34.22
+JAWA TENGAH,2022,perempuan,28.79
+Cilacap,2022,perempuan,23.14
+Banyumas,2022,perempuan,30.26
+Purbalingga,2022,perempuan,20.03
+Banjarnegara,2022,perempuan,17.52
+Kebumen,2022,perempuan,27.08
+Purworejo,2022,perempuan,32.44
+Wonosobo,2022,perempuan,18.17
+Magelang,2022,perempuan,25.27
+Boyolali,2022,perempuan,28.44
+Klaten,2022,perempuan,42.06
+Sukoharjo,2022,perempuan,48.42
+Wonogiri,2022,perempuan,24.11
+Karanganyar,2022,perempuan,34.47
+Sragen,2022,perempuan,27.71
+Grobogan,2022,perempuan,17.14
+Blora,2022,perempuan,24.07
+Rembang,2022,perempuan,19.44
+Pati,2022,perempuan,28.19
+Kudus,2022,perempuan,38.8
+Jepara,2022,perempuan,29.53
+Demak,2022,perempuan,30.45
+Semarang,2022,perempuan,28.67
+Temanggung,2022,perempuan,21.59
+Kendal,2022,perempuan,25.66
+Batang,2022,perempuan,18.54
+Pekalongan,2022,perempuan,21.94
+Pemalang,2022,perempuan,15.69
+Tegal,2022,perempuan,20.88
+Brebes,2022,perempuan,16.97
+Kota Magelang,2022,perempuan,62.09
+Kota Surakarta,2022,perempuan,57.38
+Kota Salatiga,2022,perempuan,63.33
+Kota Semarang,2022,perempuan,58.48
+Kota Pekalongan,2022,perempuan,37.06
+Kota Tegal,2022,perempuan,42.91
+D I YOGYAKARTA,2022,perempuan,47.12
+Kulon Progo,2022,perempuan,40.73
+Bantul,2022,perempuan,47.71
+Gunung Kidul,2022,perempuan,21.81
+Sleman,2022,perempuan,58.99
+Kota Yogyakarta,2022,perempuan,64.92
+JAWA TIMUR,2022,perempuan,30.95
+Pacitan,2022,perempuan,23.7
+Ponorogo,2022,perempuan,27.88
+Trenggalek,2022,perempuan,25.65
+Tulungagung,2022,perempuan,34.59
+Blitar,2022,perempuan,27.66
+Kediri,2022,perempuan,32.12
+Malang,2022,perempuan,24.14
+Lumajang,2022,perempuan,21.51
+Jember,2022,perempuan,21.58
+Banyuwangi,2022,perempuan,29.36
+Bondowoso,2022,perempuan,18.77
+Situbondo,2022,perempuan,21.26
+Probolinggo,2022,perempuan,16.7
+Pasuruan,2022,perempuan,20.05
+Sidoarjo,2022,perempuan,56.35
+Mojokerto,2022,perempuan,35.47
+Jombang,2022,perempuan,33.22
+Nganjuk,2022,perempuan,29.5
+Madiun,2022,perempuan,28.31
+Magetan,2022,perempuan,35.47
+Ngawi,2022,perempuan,26.42
+Bojonegoro,2022,perempuan,24.63
+Tuban,2022,perempuan,24.11
+Lamongan,2022,perempuan,30.55
+Gresik,2022,perempuan,44.08
+Bangkalan,2022,perempuan,12.63
+Sampang,2022,perempuan,11.25
+Pamekasan,2022,perempuan,21.8
+Sumenep,2022,perempuan,17.01
+Kota Kediri,2022,perempuan,56.82
+Kota Blitar,2022,perempuan,61.87
+Kota Malang,2022,perempuan,58.54
+Kota Probolinggo,2022,perempuan,45.09
+Kota Pasuruan,2022,perempuan,46.95
+Kota Mojokerto,2022,perempuan,64.24
+Kota Madiun,2022,perempuan,68.89
+Kota Surabaya,2022,perempuan,51.05
+Kota Batu,2022,perempuan,48.3
+BANTEN,2022,perempuan,40.14
+Pandeglang,2022,perempuan,19.21
+Lebak,2022,perempuan,12.13
+Tangerang,2022,perempuan,38.32
+Serang,2022,perempuan,24.07
+Kota Tangerang,2022,perempuan,58
+Kota Cilegon,2022,perempuan,52.56
+Kota Serang,2022,perempuan,32.49
+Kota Tangerang Selatan,2022,perempuan,64.52
+BALI,2022,perempuan,43.18
+Jembrana,2022,perempuan,36.9
+Tabanan,2022,perempuan,39.03
+Badung,2022,perempuan,55.44
+Gianyar,2022,perempuan,45.4
+Klungkung,2022,perempuan,37.84
+Bangli,2022,perempuan,25.91
+Karangasem,2022,perempuan,22.85
+Buleleng,2022,perempuan,27.84
+Kota Denpasar,2022,perempuan,60.23
+NUSA TENGGARA BARAT,2022,perempuan,29.68
+Lombok Barat,2022,perempuan,23.35
+Lombok Tengah,2022,perempuan,22.13
+Lombok Timur,2022,perempuan,24.43
+Sumbawa,2022,perempuan,34.67
+Dompu,2022,perempuan,35.26
+Bima,2022,perempuan,40.11
+Sumbawa Barat,2022,perempuan,35.15
+Lombok Utara,2022,perempuan,17.24
+Kota Mataram,2022,perempuan,41.3
+Kota Bima,2022,perempuan,58.91
+NUSA TENGGARA TIMUR,2022,perempuan,28.45
+Sumba Barat,2022,perempuan,22.37
+Sumba Timur,2022,perempuan,30.23
+Kupang,2022,perempuan,25.99
+Timor Tengah Selatan,2022,perempuan,21.65
+Timor Tengah Utara,2022,perempuan,28.67
+Belu,2022,perempuan,29.6
+Alor,2022,perempuan,27.5
+Lembata,2022,perempuan,23.07
+Flores Timur,2022,perempuan,25.99
+Sikka,2022,perempuan,23.82
+Ende,2022,perempuan,34.62
+Ngada,2022,perempuan,29.75
+Manggarai,2022,perempuan,24.4
+Rote Ndao,2022,perempuan,27.62
+Manggarai Barat,2022,perempuan,25.68
+Sumba Tengah,2022,perempuan,25.59
+Sumba Barat Daya,2022,perempuan,25.34
+Nagekeo,2022,perempuan,25.59
+Manggarai Timur,2022,perempuan,16.42
+Sabu Raijua,2022,perempuan,25.02
+Malaka,2022,perempuan,24.75
+Kota Kupang,2022,perempuan,57.81
+KALIMANTAN BARAT,2022,perempuan,29.03
+Sambas,2022,perempuan,18.5
+Bengkayang,2022,perempuan,31.02
+Landak,2022,perempuan,24.72
+Mempawah,2022,perempuan,24.82
+Sanggau,2022,perempuan,25.46
+Ketapang,2022,perempuan,22.02
+Sintang,2022,perempuan,25.3
+Kapuas Hulu,2022,perempuan,24.88
+Sekadau,2022,perempuan,21.24
+Melawi,2022,perempuan,26.35
+Kayong Utara,2022,perempuan,20.96
+Kubu Raya,2022,perempuan,25.02
+Kota Pontianak,2022,perempuan,57.55
+Kota Singkawang,2022,perempuan,35.34
+KALIMANTAN TENGAH,2022,perempuan,30.3
+Kotawaringin Barat,2022,perempuan,28.88
+Kotawaringin Timur,2022,perempuan,23.83
+Kapuas,2022,perempuan,22.88
+Barito Selatan,2022,perempuan,29.53
+Barito Utara,2022,perempuan,34.8
+Sukamara,2022,perempuan,25.73
+Lamandau,2022,perempuan,31.51
+Seruyan,2022,perempuan,20.31
+Katingan,2022,perempuan,28.04
+Pulang Pisau,2022,perempuan,26.32
+Gunung Mas,2022,perempuan,31
+Barito Timur,2022,perempuan,42.49
+Murung Raya,2022,perempuan,25.06
+Kota Palangka Raya,2022,perempuan,55.85
+KALIMANTAN SELATAN,2022,perempuan,31.02
+Tanah Laut,2022,perempuan,23.62
+Kotabaru,2022,perempuan,23.55
+Banjar,2022,perempuan,26.69
+Barito Kuala,2022,perempuan,24.03
+Tapin,2022,perempuan,20.12
+Hulu Sungai Selatan,2022,perempuan,28.1
+Hulu Sungai Tengah,2022,perempuan,29.04
+Hulu Sungai Utara,2022,perempuan,24.86
+Tabalong,2022,perempuan,36.18
+Tanah Bumbu,2022,perempuan,27.55
+Balangan,2022,perempuan,30.9
+Kota Banjarmasin,2022,perempuan,41.49
+Kota Banjar Baru,2022,perempuan,55.93
+KALIMANTAN TIMUR,2022,perempuan,50.12
+Paser,2022,perempuan,36.87
+Kutai Barat,2022,perempuan,45.03
+Kutai Kartanegara,2022,perempuan,39.18
+Kutai Timur,2022,perempuan,39.17
+Berau,2022,perempuan,43.73
+Penajam Paser Utara,2022,perempuan,36.16
+Mahakam Ulu,2022,perempuan,40.7
+Kota Balikpapan,2022,perempuan,59.41
+Kota Samarinda,2022,perempuan,64.02
+Kota Bontang,2022,perempuan,60.94
+KALIMANTAN UTARA,2022,perempuan,41.48
+Malinau,2022,perempuan,42.61
+Bulungan,2022,perempuan,39.73
+Tana Tidung,2022,perempuan,40.76
+Nunukan,2022,perempuan,33.61
+Kota Tarakan,2022,perempuan,48.27
+SULAWESI UTARA,2022,perempuan,46.79
+Bolaang Mongondow,2022,perempuan,29.84
+Minahasa,2022,perempuan,52.62
+Kepulauan Sangihe,2022,perempuan,39.55
+Kepulauan Talaud,2022,perempuan,44.62
+Minahasa Selatan,2022,perempuan,43.08
+Minahasa Utara,2022,perempuan,52.71
+Bolaang Mongondow Utara,2022,perempuan,36.2
+Siau Tagulandang Biaro,2022,perempuan,41.2
+Minahasa Tenggara,2022,perempuan,33.93
+Bolaang Mongondow Selatan,2022,perempuan,29.53
+Bolaang Mongondow Timur,2022,perempuan,28
+Kota Manado,2022,perempuan,59.89
+Kota Bitung,2022,perempuan,48.38
+Kota Tomohon,2022,perempuan,58.75
+Kota Kotamobagu,2022,perempuan,45.61
+SULAWESI TENGAH,2022,perempuan,34.48
+Banggai Kepulauan,2022,perempuan,26.12
+Banggai,2022,perempuan,32.62
+Morowali,2022,perempuan,40.01
+Poso,2022,perempuan,41.57
+Donggala,2022,perempuan,25.44
+Toli-Toli,2022,perempuan,31.83
+Buol,2022,perempuan,32.42
+Parigi Moutong,2022,perempuan,27.41
+Tojo Una-Una,2022,perempuan,28.41
+Sigi,2022,perempuan,35.77
+Banggai Laut,2022,perempuan,26.38
+Morowali Utara,2022,perempuan,33.59
+Kota Palu,2022,perempuan,53.86
+SULAWESI SELATAN,2022,perempuan,38.38
+Kepulauan Selayar,2022,perempuan,34.58
+Bulukumba,2022,perempuan,33.39
+Bantaeng,2022,perempuan,24.49
+Jeneponto,2022,perempuan,23.81
+Takalar,2022,perempuan,32.81
+Gowa,2022,perempuan,37.73
+Sinjai,2022,perempuan,28.68
+Maros,2022,perempuan,31.24
+Pangkajene dan Kepulauan,2022,perempuan,32.73
+Barru,2022,perempuan,35.6
+Bone,2022,perempuan,25.41
+Soppeng,2022,perempuan,32.56
+Wajo,2022,perempuan,21.31
+Sidenreng Rappang,2022,perempuan,31.62
+Pinrang,2022,perempuan,31.29
+Enrekang,2022,perempuan,40
+Luwu,2022,perempuan,38.08
+Tana Toraja,2022,perempuan,37.93
+Luwu Utara,2022,perempuan,27.79
+Luwu Timur,2022,perempuan,37.82
+Toraja Utara,2022,perempuan,41.58
+Kota Makasar,2022,perempuan,65.05
+Kota Parepare,2022,perempuan,54.86
+Kota Palopo,2022,perempuan,62.99
+SULAWESI TENGGARA,2022,perempuan,38.11
+Buton,2022,perempuan,31.94
+Muna,2022,perempuan,34.09
+Konawe,2022,perempuan,35.94
+Kolaka,2022,perempuan,34.67
+Konawe Selatan,2022,perempuan,26.48
+Bombana,2022,perempuan,33.61
+Wakatobi,2022,perempuan,30.43
+Kolaka Utara,2022,perempuan,33.66
+Buton Utara,2022,perempuan,34.99
+Konawe Utara,2022,perempuan,34.95
+Kolaka Timur,2022,perempuan,35.29
+Konawe Kepulauan,2022,perempuan,34.6
+Muna Barat,2022,perempuan,29.75
+Buton Tengah,2022,perempuan,24.46
+Buton Selatan,2022,perempuan,25.31
+Kota Kendari,2022,perempuan,62.44
+Kota Baubau,2022,perempuan,55.67
+GORONTALO,2022,perempuan,34.65
+Boalemo,2022,perempuan,28.33
+Gorontalo,2022,perempuan,32.23
+Pohuwato,2022,perempuan,28.34
+Bone Bolango,2022,perempuan,36.43
+Gorontalo Utara,2022,perempuan,26.41
+Kota Gorontalo,2022,perempuan,50.33
+SULAWESI BARAT,2022,perempuan,32.75
+Majene,2022,perempuan,40.6
+Polewali Mandar,2022,perempuan,30.08
+Mamasa,2022,perempuan,34.11
+Mamuju,2022,perempuan,33.11
+Mamuju Utara / Pasangkayu,2022,perempuan,34.04
+Mamuju Tengah,2022,perempuan,27.46
+MALUKU,2022,perempuan,48.71
+Maluku Tenggara Barat / Kepulauan Tanimbar,2022,perempuan,43.03
+Maluku Tenggara,2022,perempuan,40.6
+Maluku Tengah,2022,perempuan,46.17
+Buru,2022,perempuan,39.22
+Kepulauan Aru,2022,perempuan,33.07
+Seram Bagian Barat,2022,perempuan,42.51
+Seram Bagian Timur,2022,perempuan,28.72
+Maluku Barat Daya,2022,perempuan,35.5
+Buru Selatan,2022,perempuan,29.13
+Kota Ambon,2022,perempuan,67.63
+Kota Tual,2022,perempuan,50.31
+MALUKU UTARA,2022,perempuan,40.03
+Halmahera Barat,2022,perempuan,34.04
+Halmahera Tengah,2022,perempuan,38.03
+Kepulauan Sula,2022,perempuan,32.82
+Halmahera Selatan,2022,perempuan,30.35
+Halmahera Utara,2022,perempuan,30.74
+Halmahera Timur,2022,perempuan,31.06
+Pulau Morotai,2022,perempuan,24.63
+Pulau Taliabu,2022,perempuan,24.3
+Kota Ternate,2022,perempuan,70.53
+Kota Tidore Kepulauan,2022,perempuan,43.39
+PAPUA BARAT,2022,perempuan,49.02
+Fakfak,2022,perempuan,53.41
+Kaimana,2022,perempuan,48.91
+Teluk Wondama,2022,perempuan,33.46
+Teluk Bintuni,2022,perempuan,43.6
+Manokwari,2022,perempuan,41.6
+Sorong Selatan,2022,perempuan,33.69
+Sorong,2022,perempuan,37.77
+Raja Ampat,2022,perempuan,33.82
+Tambrauw,2022,perempuan,40.9
+Maybrat,2022,perempuan,52.81
+Manokwari Selatan,2022,perempuan,41.99
+Pegunungan Arfak,2022,perempuan,21.69
+Kota Sorong,2022,perempuan,67.86
+PAPUA,2022,perempuan,30.8
+Merauke,2022,perempuan,51.03
+Jayawijaya,2022,perempuan,27.79
+Jayapura,2022,perempuan,58.69
+Nabire,2022,perempuan,48.59
+Kepulauan Yapen,2022,perempuan,52.45
+Biak Numfor,2022,perempuan,48.64
+Paniai,2022,perempuan,7.94
+Puncak Jaya,2022,perempuan,26.59
+Mimika,2022,perempuan,54.08
+Boven Digoel,2022,perempuan,48.8
+Mappi,2022,perempuan,28.57
+Asmat,2022,perempuan,32.86
+Yahukimo,2022,perempuan,7.5
+Pegunungan Bintang,2022,perempuan,9.4
+Tolikara,2022,perempuan,6.22
+Sarmi,2022,perempuan,55.5
+Keerom,2022,perempuan,39.47
+Waropen,2022,perempuan,42.33
+Supiori,2022,perempuan,49.49
+Mamberamo Raya,2022,perempuan,33.87
+Nduga,2022,perempuan,9.36
+Lanny Jaya,2022,perempuan,10.98
+Mamberamo Tengah,2022,perempuan,20.66
+Yalimo,2022,perempuan,16.92
+Puncak,2022,perempuan,3.65
+Dogiyai,2022,perempuan,8.76
+Intan Jaya,2022,perempuan,6.18
+Deiyai,2022,perempuan,4.51
+Kota Jayapura,2022,perempuan,69.28
+INDONESIA,2022,perempuan,36.95
